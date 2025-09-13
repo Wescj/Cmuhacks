@@ -3,8 +3,8 @@ import shutil
 import pandas as pd
 
 # Folder asal dan folder tujuan
-src_folder = "./data/stocks_data/stocks"
-dst_folder = "./data/stocks_data/stocks_removed"
+src_folder = "./data/stock_data/stocks"
+dst_folder = "./data/stock_data/stocks_removed"
 lookup_file = "./tables/stock_lookup.csv"
 analyst_file = "./data/analyst_ratings_processed.csv"
 
