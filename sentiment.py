@@ -10,7 +10,8 @@ import os
 import sys
 import json
 
-INPUT_CSV  = "tables/test_sample.csv"                 # change if needed
+INPUT_CSV  = "data/analyst_ratings_filtered.csv"                 # change if needed
+# INPUT_CSV  = "tables/test_sample.csv" 
 OUTPUT_CSV = "tables/test_sample_with_sentiment.csv"  # output path
 MODEL = "gemini-2.5-flash"                          # fast & inexpensive
 
@@ -58,6 +59,7 @@ def classify_title(client, title: str) -> str:
     try:
         resp = client.models.generate_content(model=MODEL, contents=contents, config=cfg)
         txt = resp.candidates[0].content.parts[0].text
+        print(f"Title: \n{title} \n Output: {txt}\n")
         parsed = json.loads(txt) if txt.strip().startswith(("{", "[")) else {"label": txt}
         if isinstance(parsed, dict):
             label = str(parsed.get("label", "")).lower().strip()
@@ -79,15 +81,16 @@ def classify_title(client, title: str) -> str:
 
 def main():
     # Check API key
+    print("Classifying sentiment using Gemini...")
     if not os.getenv("GEMINI_API_KEY"):
         print("ERROR: Set GEMINI_API_KEY before running.", file=sys.stderr)
         sys.exit(1)
-
+    print("API key found.")
     df = pd.read_csv(INPUT_CSV)
     if "title" not in df.columns:
         print(f"ERROR: '{INPUT_CSV}' must have a 'title' column.", file=sys.stderr)
         sys.exit(1)
-
+    print("Table found.")
     client = genai.Client()
 
     sentiments = []
