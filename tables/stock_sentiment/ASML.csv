@@ -1,0 +1,622 @@
+Unnamed: 0,title,date,stock,sentiment
+100299.0,Shares of some technology companies are trading lower despite market strength. The sector has performed well this year to date and appears to be giving back some gains following run up.,2020-06-08 10:53:00-04:00,ASML,positive
+100300.0,Stocks That Hit 52-Week Highs On Friday,2020-06-05 10:30:00-04:00,ASML,neutral
+100301.0,Shares of several companies in the broader technology sector are trading higher as markets rally on strong US jobs data.,2020-06-05 09:54:00-04:00,ASML,positive
+100302.0,Stocks That Hit 52-Week Highs On Thursday,2020-06-04 10:48:00-04:00,ASML,neutral
+100303.0,Stocks That Hit 52-Week Highs On Wednesday,2020-06-03 10:45:00-04:00,ASML,neutral
+100304.0,Shares of several technology companies are trading higher as equities continue to gain on optimism over an economic reopening as well as a smaller-than-expected drop in nonfarm payrolls.,2020-06-03 10:02:00-04:00,ASML,positive
+100305.0,Stocks That Hit 52-Week Highs On Tuesday,2020-06-02 10:33:00-04:00,ASML,neutral
+100306.0,"Shares of several technology companies are trading lower, rebounding from Wednesday weakness. The sector sold off Wednesday following recent strength amid greater interest in software and virtual communication services amid the work-from-home environment. Sector appears to be rebounding on Thursday.",2020-05-28 12:26:00-04:00,ASML,positive
+100307.0,Stocks That Hit 52-Week Highs On Wednesday,2020-05-20 10:38:00-04:00,ASML,neutral
+100308.0,"Shares of several technology companies are trading higher as equities gain amid strength in oil, strong earnings from Lowe's, and optimism towards a US economic rebound.",2020-05-20 10:19:00-04:00,ASML,positive
+100309.0,"Shares of several technology companies are trading lower for the session amid US-China tensions after the US announced plans to block chip shipments to China's Huawei, negatively impacting names in the chip sector. Equities across sectors are lower for the session following a record drop in US retail sales.",2020-05-15 09:57:00-04:00,ASML,negative
+100310.0,"Shares of several technology companies are trading lower amid market weakness, selling off from recent sector strength. Equities have moved lower for the session following US unemployment data and recent cautious comments from the WHO. Sentiment is also negative following cautious comments from Fed Chair Powell and bearish outlook from some major US investors on Wednesday.",2020-05-14 10:26:00-04:00,ASML,negative
+100311.0,"Shares of several technology companies are trading higher amid market strength as some US states begin easing lockdown measures, which has raised hopes of an economic rebound. Investors also weigh recent earnings from companies in the space.",2020-05-05 11:34:00-04:00,ASML,positive
+100312.0,Shares of several technology companies are trading lower on market weakness as investor uncertainty grows following quarterly earnings results from multiple companies. NOTE: This could potentially be a sell-off after the S&P 500 rallied 12.7% over the past month.,2020-05-01 09:10:00-04:00,ASML,negative
+100313.0,"Shares of several technology companies are trading higher amid market strength following positive data from a study of Gilead's Remdesivir, which is being evaluated for coronavirus. A successful treatment could mean a sooner return to economic activity. NOTE: Some names may also be moving in sympathy following recent earnings from Google and some semiconductor companies.",2020-04-29 10:53:00-04:00,ASML,positive
+100314.0,"Shares of several semiconductor companies are trading higher, potentially in sympathy with Texas Instruments, which reported better-than-expected Q1 financial results.",2020-04-22 06:28:00-04:00,ASML,positive
+100315.0,ASML shares are trading higher after Wells Fargo maintained an Overweight rating on the company's stock and raised its price target from $300 to $325.,2020-04-16 11:03:00-04:00,ASML,positive
+100316.0,"Wells Fargo Maintains Overweight on ASML Holding, Raises Price Target to $325",2020-04-16 08:51:00-04:00,ASML,negative
+100317.0,16 Technology Stocks Moving In Thursday's Pre-Market Session,2020-04-16 07:54:00-04:00,ASML,neutral
+100318.0,Morning Market Stats in 5 Minutes,2020-04-15 10:10:00-04:00,ASML,neutral
+100319.0,"Shares of several technology companies are trading lower as equities fall amid mixed earnings results from banks, a significant decline in the price of oil and worse than expected retail sales in March.",2020-04-15 09:14:00-04:00,ASML,negative
+100320.0,Recap: ASML Holding Q1 Earnings,2020-04-15 07:01:00-04:00,ASML,neutral
+100321.0,"Earnings Scheduled For April 15, 2020",2020-04-15 04:53:00-04:00,ASML,neutral
+100322.0,"Shares of several technology companies are trading higher as markets gain on positive coronavirus outlook. Optimism surrounding the virus has led to hopes of an upcoming return to economic activity, which would benefit the sector.",2020-04-14 10:53:00-04:00,ASML,positive
+100323.0,Shares of several technology companies are trading higher amid overall market strength on optimism that US coronavirus cases could soon leveling off. NOTE: Some names in the sector have potentially benefited from recent work-at-home trends.,2020-04-08 10:13:00-04:00,ASML,positive
+100324.0,"Shares of several technology, semiconductor, and software companies are trading higher amid optimism that coronavirus cases in Asia are potentially easing. Global slowing cases could raise hopes of a sooner return to spending and economic activity.",2020-04-07 07:45:00-04:00,ASML,positive
+100325.0,Shares of several semiconductor and large technology stocks are trading higher with the broader market on optimism that coronavirus cases in several US hotspots appear to be reaching their peak.,2020-04-06 08:55:00-04:00,ASML,positive
+100326.0,"Shares of several technology, semiconductor, and software companies are trading lower amid market weakness as macro concerns continue to grow as a result of the coronavirus pandemic. The White House said it expects a surge in cases over the next 2 weeks.",2020-04-01 07:33:00-04:00,ASML,negative
+100327.0,ASML shares are trading higher after the company provided an update regarding expectations on Q1 earnings. The company expects its Q1 revenue to be between €2.4B - €2.5B with a gross margin between 45%-46% due to Coronavirus.,2020-03-30 09:10:00-04:00,ASML,negative
+100328.0,ASML Sees Q1 Revenue €2.4B€2.5B; Gross Margin 45%-46%,2020-03-30 05:38:00-04:00,ASML,negative
+100329.0,"Shares of several technology, semiconductor, and software companies are trading lower as a potential sell-off from this week's strength. While US stimulus legislation has boosted economic optimism, demand concerns still exist amid the coronavirus.",2020-03-27 09:27:00-04:00,ASML,positive
+100330.0,"Wells Fargo Maintains Overweight on ASML Holding, Raises Price Target to $300",2020-03-25 09:55:00-04:00,ASML,negative
+100331.0,Shares of several technology companies are trading higher amid market strength on hopes of a US economic stimulus package agreement.,2020-03-24 09:10:00-04:00,ASML,positive
+100332.0,"Shares of several technology, software, and semiconductor companies are trading higher as stocks move higher following Monday morning Fed stimulus action.",2020-03-23 09:21:00-04:00,ASML,positive
+100333.0,"Wells Fargo Maintains Overweight on ASML Holding, Lowers Price Target to $250",2020-03-20 10:13:00-04:00,ASML,negative
+100334.0,"Shares of several technology companies are trading higher. Market strength has been attributed to strong containment measures taken by California, rebound in oil, central bank actions and expectations of increased technology usage amid the virus outbreak.",2020-03-20 08:31:00-04:00,ASML,positive
+100335.0,"Shares of several technology companies are trading higher, rebounding from earlier weakness. Markets have been volatile amid the coronavirus outbreak, with central banks and governments around the world enacting stimulus measures.",2020-03-19 10:47:00-04:00,ASML,negative
+100336.0,115 Biggest Movers From Yesterday,2020-03-19 06:22:00-04:00,ASML,neutral
+100337.0,96 Stocks Moving In Wednesday's Mid-Day Session,2020-03-18 12:39:00-04:00,ASML,neutral
+100338.0,"Shares of several technology, software and semiconductor companies are trading lower as equities sell off amid continued global coronavirus concerns. The virus has caused global economic disruption and negatively impacted stocks across sectors.",2020-03-18 08:48:00-04:00,ASML,negative
+100339.0,11 Technology Stocks Moving In Wednesday's Pre-Market Session,2020-03-18 07:49:00-04:00,ASML,neutral
+100340.0,21 Stocks Moving in Wednesday's Pre-Market Session,2020-03-18 07:15:00-04:00,ASML,neutral
+100341.0,"Shares of several technology, software, and semiconductor companies are trading lower amid demand and supply chain disruption concerns driven by coronavirus.",2020-03-16 09:48:00-04:00,ASML,negative
+100342.0,"Shares of several technology, software and semiconductor companies are trading lower as equities sell off amid continued global coronavirus concerns. The virus has caused global economic disruption and negatively impacted stocks across sectors.",2020-03-12 09:02:00-04:00,ASML,negative
+100343.0,"Shares of several companies in the technology, software and semiconductor space are trading lower as equities sell off amid coronavirus fears. The virus spread has disrupted economic activity across sectors and caused global macro uncertainty.",2020-03-11 07:17:00-04:00,ASML,negative
+100344.0,Shares of several technology companies are trading higher as markets look to rebound from Monday's selloff. The technology sector has been highly impacted by the coronavirus due to its China exposure and sensitivity to economic conditions.,2020-03-10 07:11:00-04:00,ASML,positive
+100345.0,"Shares of several companies in the technology, software and semiconductor space are trading lower as equities crash amid coronavirus fears. The virus spread has disrupted economic activity across sectors and caused global macro uncertainty.",2020-03-09 10:20:00-04:00,ASML,negative
+100346.0,10 Technology Stocks Moving In Thursday's Pre-Market Session,2020-03-05 07:53:00-05:00,ASML,neutral
+100347.0,"Shares of several technology, semiconductor, and software companies are trading lower as global markets continue to experience volatility amid the coronavirus spread.",2020-03-05 07:33:00-05:00,ASML,neutral
+100348.0,Shares of several technology companies are trading higher after Joe Biden took the delegate lead on Super Tuesday. Biden's more 'moderate' economic policies have been seen as more favorable for growth.,2020-03-04 09:19:00-05:00,ASML,positive
+100349.0,8 Technology Stocks Moving In Wednesday's Pre-Market Session,2020-03-04 07:57:00-05:00,ASML,neutral
+100350.0,Shares of several semiconductor companies are trading lower amid continued spread of coronavirus including notable upticks in Iran and Italy. NOTE: The virus has raised fear of a global economic slowdown.,2020-02-24 07:45:00-05:00,ASML,negative
+100351.0,25 Technology Stocks Moving In Monday's Pre-Market Session,2020-02-24 07:36:00-05:00,ASML,neutral
+100352.0,Shares of several semiconductor companies are trading higher potentially on a rebound following weakness in the sector amid concerns of the coronavirus impeding production and demand.,2020-02-19 10:45:00-05:00,ASML,negative
+100353.0,26 Technology Stocks Moving In Tuesday's Pre-Market Session,2020-02-18 08:22:00-05:00,ASML,neutral
+100354.0,Shares of several semiconductor companies are trading lower. Weakness potentially related to continued coronavirus fears as well as reports suggesting the US is weighing trade restrictions on China that would limit the use of American chip equipment. Apple reported it does not expect to meet its quarterly revenue forecasts due to implications from the coronavirus.,2020-02-18 06:28:00-05:00,ASML,negative
+100355.0,Stocks That Hit 52-Week Highs On Friday,2020-02-14 10:15:00-05:00,ASML,neutral
+100356.0,Stocks That Hit 52-Week Highs On Wednesday,2020-02-12 11:45:00-05:00,ASML,neutral
+100357.0,Stocks That Hit 52-Week Highs On Tuesday,2020-02-11 10:17:00-05:00,ASML,neutral
+100358.0,Stocks That Hit 52-Week Highs On Thursday,2020-02-06 10:39:00-05:00,ASML,neutral
+100359.0,Stocks That Hit 52-Week Highs On Wednesday,2020-02-05 10:16:00-05:00,ASML,neutral
+100360.0,"Shares of technology companies are trading higher amid a continued rebound in equities following last week's selloff. Shares sold off last week amid coronavirus fears in China, as the sector has exposure to the country.",2020-02-04 09:04:00-05:00,ASML,positive
+100361.0,14 Technology Stocks Moving In Tuesday's Pre-Market Session,2020-02-04 07:49:00-05:00,ASML,neutral
+100362.0,14 Technology Stocks Moving In Monday's Pre-Market Session,2020-02-03 08:03:00-05:00,ASML,neutral
+100363.0,8 Technology Stocks Moving In Friday's Pre-Market Session,2020-01-31 07:58:00-05:00,ASML,neutral
+100364.0,"﻿Shares of several communication companies are trading higher, rebounding as fears of the coronavirus's impact on the economy settle. NOTE:  Although the market rebounded, there are still concerns over the spread of the virus.",2020-01-28 14:27:00-05:00,ASML,negative
+100365.0,Shares of several technology and software stocks are trading lower as global equities continue to dip amid the spread of the Wuhan coronavirus. Analysts speculate uncertainty and volatility driven by virus concerns has caused rotation out of growth and risk names as well as more mature tech names.,2020-01-27 07:55:00-05:00,ASML,positive
+100366.0,"RBC Capital Maintains Outperform on ASML Holding, Raises Price Target to $320",2020-01-23 13:22:00-05:00,ASML,neutral
+100367.0,8 Technology Stocks Moving In Wednesday's Pre-Market Session,2020-01-22 07:49:00-05:00,ASML,neutral
+100368.0,"Earnings Scheduled For January 22, 2020",2020-01-22 04:06:00-05:00,ASML,neutral
+100369.0,10 Technology Stocks Moving In Thursday's Pre-Market Session,2020-01-16 08:14:00-05:00,ASML,neutral
+100370.0,Stocks That Hit 52-Week Highs On Thursday,2020-01-09 15:15:00-05:00,ASML,neutral
+100371.0,18 Technology Stocks Moving In Wednesday's Pre-Market Session,2020-01-08 08:28:00-05:00,ASML,neutral
+100372.0,10 Technology Stocks Moving In Tuesday's Pre-Market Session,2020-01-07 07:51:00-05:00,ASML,neutral
+100373.0,ASML Holding Reportedly Tells China's Global Times It Sees Further Increase In Exports To China,2020-01-06 09:58:00-05:00,ASML,positive
+100374.0,12 Technology Stocks Moving In Monday's Pre-Market Session,2020-01-06 08:02:00-05:00,ASML,neutral
+100375.0,22 Technology Stocks Moving In Friday's Pre-Market Session,2020-01-03 07:47:00-05:00,ASML,neutral
+100376.0,24 Technology Stocks Moving In Thursday's Pre-Market Session,2020-01-02 08:11:00-05:00,ASML,neutral
+100377.0,5 Technology Stocks Moving In Tuesday's Pre-Market Session,2019-12-31 07:34:00-05:00,ASML,neutral
+100378.0,Stocks That Hit 52-Week Highs On Friday,2019-12-27 11:27:00-05:00,ASML,neutral
+100379.0,"Wells Fargo Maintains Overweight on ASML Holding, Raises Price Target to $320",2019-12-20 08:09:00-05:00,ASML,negative
+100380.0,Stocks That Hit 52-Week Highs On Tuesday,2019-12-17 11:19:00-05:00,ASML,neutral
+100381.0,7 Technology Stocks Moving In Tuesday's Pre-Market Session,2019-12-17 07:41:00-05:00,ASML,neutral
+100382.0,Stocks That Hit 52-Week Highs On Monday,2019-12-16 10:16:00-05:00,ASML,neutral
+100383.0,Stocks That Hit 52-Week Highs On Friday,2019-12-13 11:19:00-05:00,ASML,neutral
+100384.0,9 Technology Stocks Moving In Friday's Pre-Market Session,2019-12-13 06:50:00-05:00,ASML,neutral
+100385.0,Stocks That Hit 52-Week Highs On Thursday,2019-12-12 10:21:00-05:00,ASML,neutral
+100386.0,8 Technology Stocks Moving In Tuesday's Pre-Market Session,2019-12-10 08:05:00-05:00,ASML,neutral
+100387.0,Stocks That Hit 52-Week Highs On Friday,2019-12-06 10:33:00-05:00,ASML,neutral
+100388.0,Shares of several semiconductor companies are trading higher amid a rally in US equities following strong November jobs data as well as positive US-China trade sentiment.,2019-12-06 10:07:00-05:00,ASML,positive
+100389.0,7 Technology Stocks Moving In Friday's Pre-Market Session,2019-12-06 07:41:00-05:00,ASML,neutral
+100390.0,6 Technology Stocks Moving In Thursday's Pre-Market Session,2019-12-05 07:51:00-05:00,ASML,neutral
+100391.0,"JP Morgan Maintains Overweight on ASML Holding, Raises Price Target to $310",2019-12-04 08:18:00-05:00,ASML,neutral
+100392.0,10 Technology Stocks Moving In Wednesday's Pre-Market Session,2019-12-04 07:26:00-05:00,ASML,neutral
+100393.0,4 Technology Stocks Moving In Friday's Pre-Market Session,2019-11-29 07:41:00-05:00,ASML,neutral
+100394.0,9 Technology Stocks Moving In Friday's Pre-Market Session,2019-11-15 08:05:00-05:00,ASML,neutral
+100395.0,ASML Delays Key Tech Delivery to China Fearing US Ire,2019-11-06 04:17:00-05:00,ASML,negative
+100396.0,17 Technology Stocks Moving In Friday's Pre-Market Session,2019-11-01 08:18:00-04:00,ASML,neutral
+100397.0,9 Technology Stocks Moving In Monday's Pre-Market Session,2019-10-21 07:48:00-04:00,ASML,neutral
+100398.0,ASML Holding shares are trading lower after the company reported Q3 earnings.,2019-10-16 09:18:00-04:00,ASML,neutral
+100399.0,ASML Sees Q4 Net Sales EUR 3.9B,2019-10-16 09:15:00-04:00,ASML,neutral
+100400.0,"ASML Earlier Reported Q3 Net Sales EUR 3.0B, Net Income EUR 627M, Net Bookings EUR 5.1B",2019-10-16 09:14:00-04:00,ASML,neutral
+100401.0,"Earnings Scheduled For October 16, 2019",2019-10-16 03:57:00-04:00,ASML,neutral
+100402.0,ASML shares are trading higher after RBC Capital maintained its Outperform rating on the stock and raised the price target from $245 to $270 per share.,2019-10-15 12:08:00-04:00,ASML,positive
+100403.0,"RBC Capital Maintains Outperform on ASML Holding, Raises Price Target to $270",2019-10-14 09:26:00-04:00,ASML,neutral
+100404.0,Stocks That Hit 52-Week Highs On Friday,2019-10-11 10:18:00-04:00,ASML,neutral
+100405.0,31 Technology Stocks Moving In Friday's Pre-Market Session,2019-10-11 08:39:00-04:00,ASML,neutral
+100406.0,Shares of several semiconductor companies are trading higher after President Trump made positive remarks on the U.S.-China trade talks. Trump is scheduled to meet with Chinese Vice Premier Liu He at the White House today.,2019-10-11 08:11:00-04:00,ASML,positive
+100407.0,Stocks That Hit 52-Week Highs On Thursday,2019-10-10 10:57:00-04:00,ASML,neutral
+100408.0,Shares of many semiconductors are trading higher on renewed trade optimism after the US was considering suspending tariff increase in exchange for a currency pact. President Trump's administration also plans to allow the sale of some supplies to Huawei.,2019-10-10 10:11:00-04:00,ASML,positive
+100409.0,20 Technology Stocks Moving In Tuesday's Pre-Market Session,2019-10-08 08:13:00-04:00,ASML,neutral
+100410.0,Shares of several semiconductor companies are trading lower in sympathy with the overall market on continued fears of a recession amid a weak ADP jobs report. There is also uncertainty in the market over the upcoming U.S.-China meeting next week.,2019-10-02 10:13:00-04:00,ASML,negative
+100411.0,12 Technology Stocks Moving In Tuesday's Pre-Market Session,2019-10-01 08:21:00-04:00,ASML,neutral
+100412.0,19 Technology Stocks Moving In Wednesday's Pre-Market Session,2019-09-25 08:31:00-04:00,ASML,neutral
+100413.0,"Wells Fargo Maintains Outperform on ASML Holding, Raises Price Target to $276",2019-09-19 07:32:00-04:00,ASML,positive
+100414.0,Stocks That Hit 52-Week Highs On Friday,2019-09-13 14:58:00-04:00,ASML,neutral
+100415.0,Stocks That Hit 52-Week Highs On Thursday,2019-09-12 10:51:00-04:00,ASML,neutral
+100416.0,Stocks That Hit 52-Week Highs On Monday,2019-09-09 12:43:00-04:00,ASML,neutral
+100417.0,Stocks That Hit 52-Week Highs On Friday,2019-09-06 12:23:00-04:00,ASML,neutral
+100418.0,Stocks That Hit 52-Week Highs On Thursday,2019-09-05 12:29:00-04:00,ASML,neutral
+100419.0,Shares of many semiconductor companies are trading higher with the broader stock market after the Chinese Minister of Commerce said the U.S. and China are set to meet in Washington D.C in early October.,2019-09-05 09:24:00-04:00,ASML,positive
+100420.0,14 Technology Stocks Moving In Thursday's Pre-Market Session,2019-09-05 08:32:00-04:00,ASML,neutral
+100421.0,26 Stocks Moving in Thursday's Pre-Market Session,2019-09-05 07:44:00-04:00,ASML,neutral
+100422.0,Shares of many semiconductor companies are trading higher as Hong Kong tensions ease on the withdrawal of the extradition bill that has caused mass protesting. The protests are seen as a potential disruption to the global economy and U.S.-China trade talks.,2019-09-04 10:23:00-04:00,ASML,negative
+100423.0,"Shares of several semiconductor companies are trading lower as trade concerns continue to escalate following a new 15% tariff, which was added to $112 billion worth of Chinese goods on Sunday.",2019-09-03 10:51:00-04:00,ASML,positive
+100424.0,Shares of several semiconductor companies are trading higher after China's Ministry of Commerce said the country is willing to work to resolve US trade tensions and does not want any further escalation.,2019-08-29 09:41:00-04:00,ASML,positive
+100425.0,24 Technology Stocks Moving In Thursday's Pre-Market Session,2019-08-29 08:44:00-04:00,ASML,neutral
+100426.0,Shares of several semiconductor companies are trading higher amid easing trade tensions. President Trump said China is ready to come back to the negotiating table.,2019-08-26 10:38:00-04:00,ASML,positive
+100427.0,Shares of several semiconductors companies are trading lower on escalated trade tensions after China announced it plans to impose a 5% to 10% tariff rate on $75 billion worth of U.S. goods.,2019-08-23 09:24:00-04:00,ASML,negative
+100428.0,"Shares of several semiconductors companies are trading lower after the spread between the 2-year and 10-year yield curve inverted for the first time since 2007, potentially signaling an oncoming recession.",2019-08-14 09:20:00-04:00,ASML,negative
+100429.0,28 Technology Stocks Moving In Wednesday's Pre-Market Session,2019-08-14 09:03:00-04:00,ASML,neutral
+100430.0,"Shares of several semiconductor companies are trading higher in sympathy with the overall market after the U.S. Trade Representative reported that some tariffs will be delayed to Dec 15 on some products including cell phones, monitors, and laptops.",2019-08-13 10:24:00-04:00,ASML,positive
+100431.0,Shares of several semiconductors companies are trading higher on a potential rebound following a recent downturn the sector has experienced over the past few months amid growing trade tensions.,2019-08-08 13:38:00-04:00,ASML,positive
+100432.0,Shares of several semiconductor companies are trading lower after President Trump announced additional tariffs on Chinese goods.,2019-08-05 09:33:00-04:00,ASML,neutral
+100433.0,Shares of several semiconductor companies are trading higher on seemingly no sector-specific news. Strength may be due to a rebound following yesterday's sector-wide weakness after AMD issued weak Q3 sales guidance.,2019-08-01 11:54:00-04:00,ASML,negative
+100434.0,26 Technology Stocks Moving In Today's Pre-Market Session,2019-08-01 09:25:00-04:00,ASML,neutral
+100435.0,"Benzinga's Top Upgrades, Downgrades For July 29, 2019",2019-07-29 09:55:00-04:00,ASML,positive
+100436.0,ABN Amro Initiates Coverage On ASML Holding with Hold Rating,2019-07-29 07:32:00-04:00,ASML,neutral
+100437.0,Stocks that Broke 52-Week Highs Tuesday,2019-07-23 14:39:00-04:00,ASML,negative
+100438.0,"Shares of several semiconductor companies are trading higher after Kudlow and Mnuchin invited U.S. tech companies to discuss the Huawei ban; Goldman Sachs upgraded companies in the sector, believing excess inventory will be depleted more quickly.",2019-07-22 10:25:00-04:00,ASML,negative
+100439.0,Is the 5G Boom Starting? A Huge Options Trade Thinks So,2019-07-18 15:18:00-04:00,ASML,positive
+100440.0,ASML shares are trading higher potentially on continuation after the company reported better-than-expected Q2 sales and a quarter-over-quarter increase in gross margin.,2019-07-18 10:02:00-04:00,ASML,positive
+100441.0,28 Stocks Moving In Thursday's Pre-Market Session,2019-07-18 08:05:00-04:00,ASML,neutral
+100442.0,60 Biggest Movers From Yesterday,2019-07-18 05:03:00-04:00,ASML,neutral
+100443.0,44 Stocks Moving In Wednesday's Mid-Day Session,2019-07-17 12:10:00-04:00,ASML,neutral
+100444.0,30 Stocks Moving In Wednesday's Pre-Market Session,2019-07-17 08:19:00-04:00,ASML,neutral
+100445.0,ASML Holding shares are trading higher after the company reported better-than-expected Q2 sales and a quarter-over-quarter increase in gross margin.,2019-07-17 06:23:00-04:00,ASML,positive
+100446.0,"ASML Holding Earlier Reported Q2 EPS $1.27 Misses $1.75 Estimate, Sales $2.876B Beat $2.76B Estimate",2019-07-17 06:21:00-04:00,ASML,negative
+100447.0,"Earnings Scheduled For July 17, 2019",2019-07-17 04:16:00-04:00,ASML,neutral
+100448.0,Santander Downgrades ASML Holding to Hold,2019-07-15 08:42:00-04:00,ASML,neutral
+100449.0,Shares of several hardware suppliers are trading higher after President Trump said he would ease the ban on US companies selling to Huawei.,2019-07-01 07:56:00-04:00,ASML,neutral
+100450.0,Shares of companies in the semiconductor space are trading higher after Micron reported strong Q3 earnings.,2019-06-26 06:22:00-04:00,ASML,positive
+100451.0,Shares of several technology companies are trading higher amid renewed hopes of a Federal Reserve rate cut this year and in sympathy with Oracle reporting strong Q4 earnings.,2019-06-20 07:29:00-04:00,ASML,positive
+100452.0,Wells Fargo Initiates Coverage On ASML Holding with Outperform Rating,2019-06-20 07:00:00-04:00,ASML,positive
+100453.0,"Shares of several semiconductor companies are trading lower after weak quarterly results from Broadcom, citing ""broad-based"" demand weakness and the U.S. crackdown on Huawei.",2019-06-14 08:38:00-04:00,ASML,negative
+100454.0,Shares of Shares of several semiconductor and technology companies are trading higher on continued trade optimism. The recent US-Mexico deal boosted confidence that the US could also strike a deal with China.,2019-06-11 09:47:00-04:00,ASML,positive
+100455.0,Many US-traded stocks are trading higher as recent economic signals have raised the potential for a Federal Reserve rate cut.,2019-06-07 12:31:00-04:00,ASML,negative
+100456.0,Shares of several technology companies are trading lower with the overall US market as US-China trade tensions continue to concern investors.,2019-05-29 11:54:00-04:00,ASML,negative
+100457.0,Shares of many semiconductor companies are trading lower on continued US-China tension after the Trump administration said it would add up to 5 more Chinese surveillance companies to the blacklist.,2019-05-23 08:58:00-04:00,ASML,negative
+100458.0,Shares of many Semiconductors stocks are trading higher after the US granted temporary relief for Huawei suppliers.,2019-05-21 09:11:00-04:00,ASML,positive
+100459.0,Shares of many semiconductor companies are trading lower after Trump added China's Huawei to a trade blacklist.,2019-05-20 07:17:00-04:00,ASML,neutral
+100460.0,Shares of several semiconductors companies are trading higher as concerns over a trade war between the US and China have eased over the last couple days.,2019-05-15 15:58:00-04:00,ASML,negative
+100461.0,Shares of several semiconductor stocks are trading higher in sympathy with STMicroelectronics after the company confirmed and added details to its Q2 guidance.,2019-05-14 10:38:00-04:00,ASML,positive
+100462.0,"Shares of several technology companies are trading lower amid continued US-China trade concerns. Proposed tariffs between the two nations could raise input costs, while trade tensions could hurt tech companies with China exposure.",2019-05-13 08:25:00-04:00,ASML,negative
+100463.0,Shares of several semiconductor stocks are trading lower after Intel issued concerning guidance at an investor event on Wednesday; BMO also downgraded the company's stock from Outperform to Market Perform.,2019-05-09 10:05:00-04:00,ASML,neutral
+100464.0,Shares of several semiconductors companies are trading lower after US President Donald Trump threatened to impose 25% tariffs on nearly all Chinese imports this week.,2019-05-06 15:10:00-04:00,ASML,negative
+100465.0,"RBC Analyst Mitch Steves, When Asked About Downside In ASML Shares Given A Lack Of Formal News From The Company, Tells Benzinga, Weakness Due To China Trade Concerns",2019-05-06 11:58:00-04:00,ASML,negative
+100466.0,ASML Says Disagrees With Implication By Dutch Financial Paper That Is Has Been Victim Of 'Chinese espionage',2019-04-11 07:57:00-04:00,ASML,negative
+100467.0,Goldman Earlier Cut Its 2019 Wafer Fab Equipment Market Outlook From Down 20% On Year-Over-Year Basis To Down 25% YoY,2019-04-09 08:48:00-04:00,ASML,positive
+100468.0,"Shares of several semiconductor companies are trading higher after a report stating AMD sales will increase ""sharply"" in the second half of 2019 given a ramp up in CPU and GPU shipments for notebooks, motherboards, and servers.",2019-04-03 09:47:00-04:00,ASML,positive
+100469.0,"With Semiconductor Demand Uncertain, KeyBanc Presents Stock Ideas",2019-04-02 15:33:00-04:00,ASML,negative
+100470.0,Shares of several semiconductor companies are trading higher after Broadcom reported better-than-expected Q1 EPS and issued strong FY19 guidance.,2019-03-15 09:55:00-04:00,ASML,positive
+100471.0,Shares of several semiconductors are trading lower after NXP Semiconductors provided weak Q1 sales guidance.,2019-02-07 11:08:00-05:00,ASML,negative
+100472.0,ASML To Acquire Assets Of Netherlands-Based Beam Lithographiuc Company; Terms Not Disclosed,2019-01-28 10:47:00-05:00,ASML,positive
+100473.0,Shares of several semiconductor companies are trading lower in sympathy with NVIDIA after the company cut Q4 sales and gross margin guidance.,2019-01-28 09:12:00-05:00,ASML,negative
+100474.0,"Shares of several microchip companies are trading higher after multiple earnings reports were announced within the sector; Strength appears to in sympathy with Western Digital, which moved higher after the company issued Q3 guidance despite weak earnings.",2019-01-25 10:23:00-05:00,ASML,positive
+100475.0,Semiconductor stocks are trading higher following strong earnings from multiple large companies in the space.,2019-01-24 12:16:00-05:00,ASML,positive
+100476.0,ASML Holding shares are trading higher after the company reported Q4 EPS of $2.15 versus the $2.11 estimate and revenue of $3.58B versus the $3.48B estimate.,2019-01-24 07:26:00-05:00,ASML,positive
+100477.0,"Earnings Scheduled For January 23, 2019",2019-01-23 04:08:00-05:00,ASML,neutral
+100478.0,"Nikon, ASML, Carl Zeiss Sign Agreement to Settle All Litigation",2019-01-23 03:48:00-05:00,ASML,positive
+100479.0,Several Apple supplier shares are trading lower after Apple lowered Q1 sales expectations by 7.7%.,2019-01-03 09:03:00-05:00,ASML,negative
+100480.0,ASML Holding Option Alert: Apr 18 $180 Calls Sweep (2) above Ask!: 1000 @ $3.651 vs 130 OI; Earnings 1/23 Before Open Ref=$148.46,2018-12-26 12:14:00-05:00,ASML,positive
+100481.0,"Stocks Which Set New 52-Week Low Yesterday, Tues., Dec. 20, 2018",2018-12-20 11:33:00-05:00,ASML,negative
+100482.0,ASML Expects Some Delay in Deliveries at Beginning of 2019 Due to Fire at Supplier Prodrive,2018-12-04 05:06:00-05:00,ASML,negative
+100483.0,"Stocks Which Set New 52-Week Low Yesterday, Tues., Nov. 20, 2018",2018-11-21 08:50:00-05:00,ASML,negative
+100484.0,"Shares of semiconductor stocks are trading down following NVIDIA's announcement of weak outlook in its Q3 report; TSM down 4.7%, ASML trading down 4%, VanEck Vectors Semiconductor ETF trading down 2.9%.",2018-11-16 09:53:00-05:00,ASML,negative
+100485.0,28 Stocks Moving In Friday's Pre-Market Session,2018-11-16 08:06:00-05:00,ASML,neutral
+100486.0,"Benzinga's Top Upgrades, Downgrades For October 31, 2018",2018-10-31 09:21:00-04:00,ASML,positive
+100487.0,Santander Upgrades ASML Holding to Buy,2018-10-31 07:29:00-04:00,ASML,neutral
+100488.0,"Stocks Which Set New 52-Week Low Yesterday, October 23rd",2018-10-24 10:06:00-04:00,ASML,negative
+100489.0,"Susquehanna Downgrades ASML Holding to Neutral, Lowers Price Target to $200",2018-10-23 07:20:00-04:00,ASML,negative
+100490.0,31 Stocks Moving In Wednesday's Pre-Market Session,2018-10-17 08:06:00-04:00,ASML,neutral
+100491.0,"Earnings Scheduled For October 17, 2018",2018-10-17 04:25:00-04:00,ASML,neutral
+100492.0,ASML Holding's Q3 Earnings Preview,2018-10-16 14:36:00-04:00,ASML,neutral
+100493.0,ASML Shares are trading lower amid pre-market weakness in semiconductor stocks.,2018-10-10 08:09:00-04:00,ASML,negative
+100494.0,30 Stocks Moving In Wednesday's Pre-Market Session,2018-10-10 08:02:00-04:00,ASML,neutral
+100495.0,ASML Shares Up 1% Mon. Morning; Boutique Firm New Street Earlier Upgraded Stock From Neutral To Buy,2018-09-24 10:15:00-04:00,ASML,positive
+100496.0,Stocks Which Set New 52-Week Highs Friday,2018-07-23 11:08:00-04:00,ASML,neutral
+100497.0,"B. Riley FBR Maintains Neutral on ASML Holding, Raises Price Target to $205",2018-07-19 10:16:00-04:00,ASML,neutral
+100498.0,"Credit Suisse Maintains Outperform on ASML Holding, Raises Price Target to $215",2018-07-19 10:08:00-04:00,ASML,positive
+100499.0,51 Biggest Movers From Yesterday,2018-07-19 04:27:00-04:00,ASML,neutral
+100500.0,42 Stocks Moving In Wednesday's Mid-Day Session,2018-07-18 12:45:00-04:00,ASML,neutral
+100501.0,"ASML Shares Up 4.5% Premarket; Co. Earlier Reported Q2 Results: Net Income €584M, Sales €2.74B, Said Sees Q3 Sales €2.7B-€2.8B",2018-07-18 09:23:00-04:00,ASML,positive
+100502.0,28 Stocks Moving In Wednesday's Pre-Market Session,2018-07-18 08:09:00-04:00,ASML,neutral
+100503.0,"Earnings Scheduled For July 18, 2018",2018-07-18 05:44:00-04:00,ASML,neutral
+100504.0,BlueFin Upgrades ASML Holding to Positive,2018-07-16 09:53:00-04:00,ASML,positive
+100505.0,"Benzinga's Top Upgrades, Downgrades For June 13, 2018",2018-06-13 09:19:00-04:00,ASML,positive
+100506.0,"RBC Capital Upgrades ASML Holding to Outperform, Raises Price Target to $235",2018-06-13 08:11:00-04:00,ASML,neutral
+100507.0,ASM Int'l. Reports Commencement Of €250M Buyback Plan,2018-06-05 12:03:00-04:00,ASML,neutral
+100508.0,Cowen & Co. Initiates Coverage On ASML Holding N.V. - ADS represents 1 ordinary share with Market Perform Rating,2018-05-15 06:57:00-04:00,ASML,positive
+100509.0,"'A Good Time To Buy Equipment Stocks': Citi Upgrades Lam Research, Updates Sector Model",2018-05-14 15:38:00-04:00,ASML,positive
+100510.0,"Earnings Scheduled For April 18, 2018",2018-04-18 04:02:00-04:00,ASML,neutral
+100511.0,ASML Shares Up 0.3% Despite Trader Circulation Of Analyst Comments From Boutique Firm Suggesting Co.'s EUV System Has Experienced 'Technical Issues',2018-04-12 09:41:00-04:00,ASML,positive
+100512.0,44 Biggest Movers From Yesterday,2018-01-18 04:43:00-05:00,ASML,neutral
+100513.0,38 Stocks Moving In Wednesday's Mid-Day Session,2018-01-17 12:28:00-05:00,ASML,neutral
+100514.0,30 Stocks Moving In Wednesday's Pre-Market Session,2018-01-17 08:01:00-05:00,ASML,neutral
+100515.0,ASML +5.66% Premarket to $196.92 After Company Reported Earnings Beat Early on Wednesday,2018-01-17 06:16:00-05:00,ASML,neutral
+100516.0,"Earnings Scheduled For January 17, 2018",2018-01-17 03:54:00-05:00,ASML,neutral
+100517.0,Dow Earnings: Analysts Expect Goldman Sachs Revenue Decline,2018-01-16 12:30:00-05:00,ASML,neutral
+100518.0,Intel Reduces Sake in ASML to Less than 5% -Reuters,2017-12-01 04:32:00-05:00,ASML,neutral
+100519.0,"Earnings Scheduled For October 18, 2017",2017-10-18 03:42:00-04:00,ASML,neutral
+100520.0,"Semi/Storage Stocks Strong Wed. Morning Amid Strong Q4 Earnings From Micron: Lam Up 3%, Applied Materials, Western Digital, Veeco Up 2.3%, Seagate, KLA-Tencor Up 1%, ASML Up 0.75%",2017-09-27 09:38:00-04:00,ASML,positive
+100521.0,"Benzinga's Top Upgrades, Downgrades For September 18, 2017",2017-09-18 09:20:00-04:00,ASML,positive
+100522.0,Susquehanna Upgrades ASML Holding N.V. - ADS represents 1 ordinary share to Positive,2017-09-18 06:40:00-04:00,ASML,positive
+100523.0,Qualcomm Among Most Vulnerable Companies If War Breaks Out Between North And South Korea,2017-08-21 09:11:00-04:00,ASML,negative
+100524.0,ASML's Earnings Set The Tone For Chip-Equipment Industry,2017-07-23 16:05:00-04:00,ASML,neutral
+100525.0,18 Biggest Mid-Day Gainers For Wednesday,2017-07-19 12:22:00-04:00,ASML,neutral
+100526.0,"ASML Holding Shares Up 4% Pre-Market Following Earnings, Guidance: Q2 EPS €1.08 vs. €1.02 Est., Sales €2.1B vs. €2.2B Est.; Sees Q3 Sales €2.2B",2017-07-19 08:41:00-04:00,ASML,positive
+100527.0,25 Stocks Moving In Wednesday's Pre-Market Session,2017-07-19 08:09:00-04:00,ASML,neutral
+100528.0,"Earnings Scheduled For July 19, 2017",2017-07-19 04:49:00-04:00,ASML,neutral
+100529.0,"Applied Materials, Lam Research: Long Trade Ideas Heading Into Semicon West Trade Show",2017-07-05 15:52:00-04:00,ASML,neutral
+100530.0,"ICRD, ASML Sign MoU to Establish Training Center in Shanghai",2017-06-21 05:00:00-04:00,ASML,neutral
+100531.0,"ITC Says It Is Launching Patent Infringement Investigation Into Imports Of Certain Nikon Digital Cameras DUe To Complaint By Carl Zeiss, ASML",2017-05-26 11:54:00-04:00,ASML,negative
+100532.0,UPDATE: Evercore ISI Believes ASML Shares Will 'Reassert Its Uptrend',2017-04-19 14:23:00-04:00,ASML,positive
+100533.0,Evercore ISI Issues Mid-Day Defense of ASML,2017-04-19 14:22:00-04:00,ASML,positive
+100534.0,"Earnings Scheduled For April 19, 2017",2017-04-19 04:57:00-04:00,ASML,neutral
+100535.0,15 Biggest Mid-Day Gainers For Friday,2017-03-10 12:47:00-05:00,ASML,neutral
+100536.0,"Benzinga's Top Upgrades, Downgrades For March 10, 2017",2017-03-10 09:44:00-05:00,ASML,positive
+100537.0,25 Stocks Moving In Friday's Pre-Market Session,2017-03-10 08:09:00-05:00,ASML,neutral
+100538.0,UBS Upgrades ASML Holding to Buy,2017-03-10 06:57:00-05:00,ASML,neutral
+100539.0,Intel's Focus On Memory Will Benefit These 5 Semi Equipment Names,2017-02-01 15:29:00-05:00,ASML,positive
+100540.0,"Benzinga's Top Upgrades, Downgrades For January 19, 2017",2017-01-19 09:32:00-05:00,ASML,positive
+100541.0,Citigroup Downgrades ASML Holding N.V. to Neutral,2017-01-19 06:20:00-05:00,ASML,neutral
+100542.0,15 Biggest Mid-Day Gainers For Wednesday,2017-01-18 12:37:00-05:00,ASML,neutral
+100543.0,18 Stocks Moving In Wednesday's Pre-Market Session,2017-01-18 08:25:00-05:00,ASML,neutral
+100544.0,ASML +4.3% Premarket @$120.91; CFO Says 2017 is Going to be a Great Year,2017-01-18 07:55:00-05:00,ASML,positive
+100545.0,"Earnings Scheduled For January 18, 2017",2017-01-18 04:33:00-05:00,ASML,neutral
+100546.0,"Benzinga's Top Upgrades, Downgrades For January 17, 2017",2017-01-17 09:22:00-05:00,ASML,positive
+100547.0,Bank of America Upgrades ASML Holding N.V. to Buy,2016-12-19 06:32:00-05:00,ASML,neutral
+100548.0,18 Stocks Moving In Monday's Pre-Market Session,2016-12-05 08:29:00-05:00,ASML,neutral
+100549.0,ASML to Acquire 24.9% Stake in Carl Zeiss SMT for €1B in Cash,2016-11-03 04:27:00-04:00,ASML,neutral
+100550.0,"Earnings Scheduled For October 19, 2016",2016-10-19 04:18:00-04:00,ASML,neutral
+100551.0,Samsung Offsetting Recall Costs By Selling Stakes In Other Tech Companies,2016-09-19 11:09:00-04:00,ASML,neutral
+100552.0,Samsung to Sell $681M Stake in ASML Holding -DJ,2016-09-08 06:40:00-04:00,ASML,neutral
+100553.0,Taiwan FTC Approves Acquisition of HMI by ASML -DigiTimes,2016-08-25 04:21:00-04:00,ASML,positive
+100554.0,15 Biggest Mid-Day Losers For Wednesday,2016-08-17 13:18:00-04:00,ASML,negative
+100555.0,Benzinga's Top Downgrades,2016-08-17 09:10:00-04:00,ASML,positive
+100556.0,20 Stocks Moving In Wednesday's Pre-Market Session,2016-08-17 08:18:00-04:00,ASML,neutral
+100557.0,Bank of America Downgrades ASML Holding to Neutral,2016-08-17 07:15:00-04:00,ASML,neutral
+100558.0,ASML Sells off to Low of $107.01 on Volume,2016-08-16 15:36:00-04:00,ASML,negative
+100559.0,ASML Sells off to Low of $108.65 on Volume,2016-08-16 14:46:00-04:00,ASML,negative
+100560.0,Benzinga's Top Downgrades,2016-07-21 09:14:00-04:00,ASML,positive
+100561.0,18 Stocks Moving In Thursday's Pre-Market Session,2016-07-21 08:23:00-04:00,ASML,neutral
+100562.0,UBS Downgrades ASML Holding to Neutral,2016-07-21 07:07:00-04:00,ASML,neutral
+100563.0,"Earnings Scheduled For July 20, 2016",2016-07-20 06:03:00-04:00,ASML,neutral
+100564.0,Shares of ASML Trading Up ~0.7%,2016-06-16 07:15:00-04:00,ASML,positive
+100565.0,ASML Shares Halted at 7:25 p.m. EDT Wed.; to Resume Trade at 7 a.m.,2016-06-16 06:59:00-04:00,ASML,positive
+100566.0,ASML to Acquire HMI for €2.75B in Cash,2016-06-15 20:09:00-04:00,ASML,neutral
+100567.0,JP Morgan Positive On ASML Holding,2016-04-27 11:40:00-04:00,ASML,positive
+100568.0,"Credit Suisse Maintains Neutral on ASML Holding, Raises PT to $84.00",2016-04-21 06:13:00-04:00,ASML,positive
+100569.0,"Earnings Scheduled For April 20, 2016",2016-04-20 04:01:00-04:00,ASML,neutral
+100570.0,Susquehanna Downgrades ASML Holding to Neutral,2016-04-19 06:37:00-04:00,ASML,neutral
+100571.0,"Summit Research Maintains Hold on ASML Holding, Raises PT to $100.00",2016-04-19 04:12:00-04:00,ASML,neutral
+100572.0,Exane BNP Paribas Downgrades ASML Holding to Underperform,2016-03-31 12:19:00-04:00,ASML,neutral
+100573.0,Benzinga's Top Initiations,2016-03-17 09:19:00-04:00,ASML,positive
+100574.0,"RBC Capital Initiates Coverage on ASML Holding at Sector Perform, Announces $100.00 PT",2016-03-17 05:56:00-04:00,ASML,neutral
+100575.0,10 Stocks Moving In Friday's Pre-Market Session,2016-02-19 08:18:00-05:00,ASML,neutral
+100576.0,10 Stocks Moving In Tuesday's Pre-Market Session,2016-02-09 08:19:00-05:00,ASML,neutral
+100577.0,Deutsche Bank Upgrades ASML Holding to Hold,2016-01-22 07:06:00-05:00,ASML,neutral
+100578.0,10 Stocks Moving In Thursday's Pre-Market Session,2016-01-21 08:19:00-05:00,ASML,neutral
+100579.0,"Earnings Recap For January 20, 2016",2016-01-20 16:46:00-05:00,ASML,neutral
+100580.0,10 Stocks Moving In Wednesday's Pre-Market Session,2016-01-20 08:24:00-05:00,ASML,neutral
+100581.0,"Earnings Scheduled For January 20, 2016",2016-01-20 04:46:00-05:00,ASML,neutral
+100582.0,10 Stocks Moving In Thursday's Pre-Market Session,2016-01-14 08:32:00-05:00,ASML,neutral
+100583.0,Benzinga's Top #PreMarket Losers,2016-01-05 08:20:00-05:00,ASML,negative
+100584.0,Benzinga's Top #PreMarket Losers,2015-12-31 08:13:00-05:00,ASML,negative
+100585.0,Benzinga's Top #PreMarket Losers,2015-12-29 08:25:00-05:00,ASML,negative
+100586.0,UPDATE: B. Riley on Semi Industry Into '16: 'Analysis Suggests Another Intense Year Of M&A In CY16',2015-12-28 10:10:00-05:00,ASML,positive
+100587.0,"Taiwan Semiconductor Orders $208M Worth of Equipment from Siemens, ASML -DigiTimes",2015-12-02 04:45:00-05:00,ASML,positive
+100588.0,Benzinga's Top #PreMarket Gainers,2015-11-27 08:08:00-05:00,ASML,positive
+100589.0,"Semiconductor Advisors on KLA-Tencor/Lam Research: 'Not a slam dunk despite zero overlap, Implies 'ASML has even more reason to buy KLAC than either Lam' or Applied Materials",2015-11-09 07:48:00-05:00,ASML,positive
+100590.0,Benzinga's Top #PreMarket Gainers,2015-10-28 08:24:00-04:00,ASML,positive
+100591.0,ASML Spikes Higher,2015-10-20 14:33:00-04:00,ASML,neutral
+100592.0,Morning Market Losers,2015-10-14 09:51:00-04:00,ASML,negative
+100593.0,Benzinga's Top #PreMarket Losers,2015-10-14 08:19:00-04:00,ASML,negative
+100594.0,ASML Reports Q3 EPS €0.75; Revenue €1.549B,2015-10-14 05:05:00-04:00,ASML,neutral
+100595.0,Benzinga's Top #PreMarket Gainers,2015-10-02 08:14:00-04:00,ASML,positive
+100596.0,Morning Market Losers,2015-10-01 09:56:00-04:00,ASML,negative
+100597.0,Benzinga's Top #PreMarket Losers,2015-10-01 08:31:00-04:00,ASML,negative
+100598.0,Benzinga's Top #PreMarket Losers,2015-09-24 08:16:00-04:00,ASML,negative
+100599.0,Benzinga's Top #PreMarket Losers,2015-09-18 08:17:00-04:00,ASML,negative
+100600.0,"Semiconductor Advisors' Maire Believes Larger Front End Players Like ASML, Applied Materials, KLA-Tencor, Lam Research Will Likely See Slighly Less Impact on Sales Over Longer Period",2015-09-10 13:34:00-04:00,ASML,positive
+100601.0,Berenberg Upgrades ASML Holding to Buy,2015-08-28 06:23:00-04:00,ASML,neutral
+100602.0,Benzinga's Top Upgrades,2015-07-21 09:28:00-04:00,ASML,positive
+100603.0,SNS Securities Upgrades ASML Holding to Accumulate,2015-07-21 07:57:00-04:00,ASML,positive
+100604.0,What's The Deal With Semiconductors Now? Summit's Sundararajan Digs Into The Sector,2015-07-17 08:08:00-04:00,ASML,neutral
+100605.0,"Earnings Scheduled For July 15, 2015",2015-07-15 04:09:00-04:00,ASML,neutral
+100606.0,Morning Market Gainers,2015-07-10 09:48:00-04:00,ASML,neutral
+100607.0,Benzinga's Top #PreMarket Gainers,2015-07-10 08:12:00-04:00,ASML,positive
+100608.0,Morning Market Losers,2015-07-07 10:00:00-04:00,ASML,negative
+100609.0,Benzinga's Top #PreMarket Losers,2015-07-07 08:17:00-04:00,ASML,negative
+100610.0,Liberum Downgrades ASML Holding to Sell,2015-07-02 07:06:00-04:00,ASML,neutral
+100611.0,ASML Shares +3% Premarket,2015-07-01 08:07:00-04:00,ASML,positive
+100612.0,Benzinga's Top #PreMarket Losers,2015-06-12 08:26:00-04:00,ASML,negative
+100613.0,Semiconductor Scenarios Diverge In 2020; Who's Best Positioned?,2015-06-10 11:46:00-04:00,ASML,positive
+100614.0,Benzinga's Top #PreMarket Losers,2015-05-18 08:25:00-04:00,ASML,negative
+100615.0,Morning Market Gainers,2015-04-22 09:39:00-04:00,ASML,neutral
+100616.0,Benzinga's Top #PreMarket Gainers,2015-04-22 08:21:00-04:00,ASML,positive
+100617.0,UPDATE: ASML Shares Rise 10% Premarket Following Announcement of Large Order Agreement,2015-04-22 07:35:00-04:00,ASML,positive
+100618.0,ASML Announces Agreement to Deliver Minimum of 15 EUV Lithography Systems,2015-04-22 04:49:00-04:00,ASML,positive
+100619.0,Benzinga's Top Upgrades,2015-04-16 10:06:00-04:00,ASML,positive
+100620.0,Citigroup Upgrades ASML Holding To  Buy,2015-04-16 08:56:00-04:00,ASML,neutral
+100621.0,Citigroup Upgrades ASML Holding to Buy,2015-04-16 07:37:00-04:00,ASML,neutral
+100622.0,"Summit Downgrades ASML Holding to Hold, Lowers PT to $90.00",2015-04-15 14:18:00-04:00,ASML,negative
+100623.0,ASML Q1 Net Profit Jumps,2015-04-15 05:37:00-04:00,ASML,positive
+100624.0,"Earnings Scheduled For April 15, 2015",2015-04-15 04:17:00-04:00,ASML,neutral
+100625.0,Deutsche Bank Downgrades ASML Holding to Sell,2015-03-26 07:08:00-04:00,ASML,neutral
+100626.0,Is The Euro's Decline A Good Reason To Invest?,2015-03-09 12:31:00-04:00,ASML,positive
+100627.0,Pacific Crest Downgrades ASML Holding to Sector Perform,2015-03-06 07:21:00-05:00,ASML,neutral
+100628.0,ASML Reports IT Systems Security Incident,2015-03-01 11:13:00-05:00,ASML,positive
+100629.0,Benzinga's Top #PreMarket Losers,2015-02-20 08:21:00-05:00,ASML,negative
+100630.0,Benzinga's Top #PreMarket Losers,2015-02-02 08:23:00-05:00,ASML,negative
+100631.0,"Summit Research Reiterates On ASML, Sees 'Smooth Sailing' Ahead",2015-01-23 07:02:00-05:00,ASML,neutral
+100632.0,Morning Market Gainers,2015-01-21 09:44:00-05:00,ASML,neutral
+100633.0,Benzinga's Top #PreMarket Gainers,2015-01-21 08:15:00-05:00,ASML,positive
+100634.0,ASML Posts Higher Profit,2015-01-21 05:32:00-05:00,ASML,positive
+100635.0,"Earnings Scheduled For January 21, 2015",2015-01-21 04:51:00-05:00,ASML,neutral
+100636.0,"Credit Suisse Assumes ASML Holding at Neutral, Announces $84.00 PT",2015-01-20 16:27:00-05:00,ASML,positive
+100637.0,Taiwan Semiconductor Sells 5% Stake in ASML -DJ,2015-01-15 04:55:00-05:00,ASML,neutral
+100638.0,Morning Market Losers ,2014-10-15 09:57:00-04:00,ASML,negative
+100639.0,"ASML Posts Rise In Q3 Profit, Confirms Full-Year Forecast",2014-10-15 05:45:00-04:00,ASML,positive
+100640.0,"Earnings Scheduled For October 15, 2014",2014-10-15 05:29:00-04:00,ASML,neutral
+100641.0,ASML Says Some Customers Continue to Evaluate Timing of Litho Deliveries -6-K,2014-09-04 13:31:00-04:00,ASML,neutral
+100642.0,ASML Spikes Lower,2014-09-04 13:27:00-04:00,ASML,negative
+100643.0,Benzinga's Top #PreMarket Losers,2014-08-29 08:12:00-04:00,ASML,negative
+100644.0,Stifel Nicolaus Initiates Coverage on ASML Holding N.V. at Hold,2014-08-27 08:33:00-04:00,ASML,neutral
+100645.0,"Option Alert: ASML Oct $105 Call; 4,480 Contracts Traded vs 128 OI; Currently $95.70",2014-08-26 11:27:00-04:00,ASML,positive
+100646.0,Benzinga's Top #PreMarket Losers,2014-08-08 08:19:00-04:00,ASML,negative
+100647.0,ASML Up 11% On Key Technology Breakthrough,2014-07-30 09:27:00-04:00,ASML,neutral
+100648.0,ASML Shares Rise 7.5% Premarket; Company Spokesperson Attributes Move to Article in 'Solid State Technology',2014-07-30 08:37:00-04:00,ASML,positive
+100649.0,Pacific Crest Upgrades ASML Holding N.V. to Outperform,2014-07-21 07:31:00-04:00,ASML,neutral
+100650.0,Morning Market Losers ,2014-07-16 09:54:00-04:00,ASML,negative
+100651.0,Benzinga's Top #PreMarket Losers,2014-07-16 08:20:00-04:00,ASML,negative
+100652.0,UPDATE: ASML Posts Rise In Q2 Profit,2014-07-16 05:43:00-04:00,ASML,positive
+100653.0,"Earnings Scheduled For July 16, 2014",2014-07-16 05:26:00-04:00,ASML,neutral
+100654.0,Benzinga's Top #PreMarket Losers,2014-06-23 08:14:00-04:00,ASML,negative
+100655.0,"Credit Suisse Maintains Neutral on ASML Holding N.V., Lowers PT to $55.00",2014-04-17 06:55:00-04:00,ASML,positive
+100656.0,Mid-Afternoon Market Update: Markets Trade Up as Bank of America Shares Remain Down,2014-04-16 15:40:00-04:00,ASML,positive
+100657.0,ISI Group Upgrades ASML Holding N.V. to Neutral,2014-04-16 13:47:00-04:00,ASML,neutral
+100658.0,Mid-Day Market Update: Yahoo Jumps On Upbeat Results; ASML Shares Decline,2014-04-16 12:38:00-04:00,ASML,positive
+100659.0,Mid-Morning Market Update: US Markets Open Higher; Bank of America Reports Q1 Net Loss,2014-04-16 10:15:00-04:00,ASML,negative
+100660.0,Morning Market Losers ,2014-04-16 09:46:00-04:00,ASML,negative
+100661.0,Benzinga's Top #PreMarket Losers,2014-04-16 08:18:00-04:00,ASML,negative
+100662.0,"ASML Posts Surge In Q1 Profit, Lowers Outlook",2014-04-16 05:29:00-04:00,ASML,positive
+100663.0,"Earnings Scheduled For April 16, 2014",2014-04-16 05:18:00-04:00,ASML,neutral
+100664.0,ISI Initiates Coverage on Semi/Semi Equip. Stocks,2014-04-10 16:28:00-04:00,ASML,neutral
+100665.0,Benzinga's Top Upgrades,2014-01-23 08:00:00-05:00,ASML,positive
+100666.0,LBBW Upgrades ASML Holding N.V. to Buy,2014-01-23 07:54:00-05:00,ASML,neutral
+100667.0,Benzinga's Top #PreMarket Gainers,2014-01-22 08:18:00-05:00,ASML,positive
+100668.0,Commerzbank Upgrades ASML Holding N.V. to Hold,2014-01-22 07:43:00-05:00,ASML,neutral
+100669.0,"Earnings Scheduled For January 22, 2014",2014-01-22 04:16:00-05:00,ASML,neutral
+100670.0,"Credit Suisse Downgrades ASML Holding, Has Subdued 2014 View",2014-01-14 10:43:00-05:00,ASML,positive
+100671.0,Credit Suisse Downgrades ASML Holding N.V. to Neutral,2014-01-14 07:07:00-05:00,ASML,positive
+100672.0,Societe Generale Upgrades ASML Holding N.V. to Buy,2013-11-26 07:55:00-05:00,ASML,neutral
+100673.0,Baader Downgrades ASML Holding N.V. to Sell,2013-10-18 07:24:00-04:00,ASML,neutral
+100674.0,Morgan Stanley Downgrades ASML Holding N.V. to Equal-weight,2013-10-17 06:32:00-04:00,ASML,neutral
+100675.0,Shares of ASML Very Slightly Lower Amid 30% Decline in Q3 Profit,2013-10-16 08:40:00-04:00,ASML,positive
+100676.0,"Earnings Scheduled For October 16, 2013",2013-10-16 05:15:00-04:00,ASML,neutral
+100677.0,Susquehanna Downgrades ASML Holding N.V. to Neutral,2013-10-10 09:01:00-04:00,ASML,neutral
+100678.0,"Western Digital Announces CFO Wolfgang Nickl to Resign in Nov., Will Join ASML Holdings",2013-09-25 16:31:00-04:00,ASML,negative
+100679.0,Benzinga's Top Pre-Market Gainers,2013-09-12 08:07:00-04:00,ASML,positive
+100680.0,Berenberg Initiates Coverage on ASML Holding N.V. at Hold,2013-07-23 08:56:00-04:00,ASML,neutral
+100681.0,Benzinga's Top Pre-Market Gainers,2013-07-17 08:10:00-04:00,ASML,positive
+100682.0,UPDATE: ASML Posts 24% Drop In Q2 Profit,2013-07-17 04:49:00-04:00,ASML,positive
+100683.0,"Earnings Scheduled For July 17, 2013",2013-07-17 04:29:00-04:00,ASML,neutral
+100684.0,Redburn Upgrades ASML Holding N.V. to Buy,2013-07-08 08:32:00-04:00,ASML,neutral
+100685.0,Korean Regulator Approves ASML Acquisition of Cymer ,2013-05-26 17:27:00-04:00,ASML,positive
+100686.0,Deutsche Bank Upgrades ASML Holding N.V. to Buy,2013-04-18 06:25:00-04:00,ASML,neutral
+100687.0,Benzinga's Top Pre-Market Gainers,2013-04-17 08:48:00-04:00,ASML,positive
+100688.0,US Stock Futures Down; Bank of America Earnings In Focus,2013-04-17 06:49:00-04:00,ASML,neutral
+100689.0,"Earnings Scheduled For April 17, 2013",2013-04-17 05:24:00-04:00,ASML,neutral
+100690.0,Benzinga's Top Pre-Market Losers,2013-03-26 08:21:00-04:00,ASML,negative
+100691.0,"RBC Capital Downgrades ASML Holding N.V. to Underperform, Lowers PT to $52.00",2013-03-04 08:00:00-05:00,ASML,negative
+100692.0,Benzinga's Top Downgrades,2013-03-04 07:17:00-05:00,ASML,positive
+100693.0,A Peek Into The Market Before The Trading Starts,2013-02-06 07:14:00-05:00,ASML,neutral
+100694.0,Cymer Shareholders Approve Merger with ASML ,2013-02-06 05:58:00-05:00,ASML,neutral
+100695.0,Cymer Holders Approve Merger Agreement with ASML,2013-02-05 17:03:00-05:00,ASML,positive
+100696.0,Citigroup Upgrades ASML Holding N.V. to Buy,2013-01-30 07:01:00-05:00,ASML,neutral
+100697.0,"UPDATE: Citigroup Upgrades ASML Holding NV to Buy, Raises PT",2013-01-28 10:37:00-05:00,ASML,neutral
+100698.0,"Citigroup Upgrades ASML Holding N.V. to Buy, Announces $85.48 PT",2013-01-28 09:39:00-05:00,ASML,neutral
+100699.0,Benzinga's Top Pre-Market Gainers,2013-01-28 08:43:00-05:00,ASML,positive
+100700.0,"UPDATE: Deutsche Bank Upgrades ASML Holding N.V. to Hold on Execution, Lower CapEx Forecast",2013-01-22 08:59:00-05:00,ASML,negative
+100701.0,Deutsche Bank Upgrades ASML Holding N.V. to Hold,2013-01-22 06:38:00-05:00,ASML,neutral
+100702.0,KLA Tencor Spokesperson Attributes Strength in Share Price Thursday to Positive Guidance from ASML,2013-01-17 12:43:00-05:00,ASML,positive
+100703.0,UPDATE: Bank of America Upgrades ASML Holding N.V. to Buy on 20mm Company Note  ,2013-01-17 09:37:00-05:00,ASML,neutral
+100704.0,"Bank of America Upgrades ASML Holding N.V. to Buy, Raises PO to $60.00",2013-01-17 07:27:00-05:00,ASML,negative
+100705.0,ASML Q3 Net Profit Rises 4.6%,2013-01-17 03:04:00-05:00,ASML,positive
+100706.0,"Earnings Scheduled For January 17, 2013",2013-01-17 02:39:00-05:00,ASML,neutral
+100707.0,"BofA Downgraded ASML to Neutral, Shares Falling",2013-01-07 09:36:00-05:00,ASML,positive
+100708.0,A Peek Into The Market Before The Trading Starts,2012-12-17 07:25:00-05:00,ASML,neutral
+100709.0,ASML Announces Completion of Share Buy Back,2012-12-17 06:14:00-05:00,ASML,positive
+100710.0,From Earlier: Pacific Crest Downgrades ASML Holding N.V. to Sector Perform,2012-12-14 12:18:00-05:00,ASML,neutral
+100711.0,"From Earlier: Caris Downgrades ASML Holding N.V. to Average, Maintains $63.00 PT",2012-12-14 12:18:00-05:00,ASML,neutral
+100712.0,Update on ASML Acquisition of Cymer,2012-12-14 06:08:00-05:00,ASML,neutral
+100713.0,Stocks Hitting 52-Week Highs,2012-12-11 10:04:00-05:00,ASML,neutral
+100714.0,ASML Shares Trade Higher After $11.862/Share Capital Repayment ,2012-11-29 09:31:00-05:00,ASML,positive
+100715.0,ASML Issues Statement on Synthetic Buyback ,2012-11-14 06:13:00-05:00,ASML,neutral
+100716.0,RBC Capital Downgraded ASML Holding from Outperform to Sector Perform,2012-10-18 09:54:00-04:00,ASML,neutral
+100717.0,"Benzinga's M&A Chatter for Wednesday October 17, 2012",2012-10-17 18:04:00-04:00,ASML,neutral
+100718.0,Benzinga Mid-Afternoon Market Update,2012-10-17 15:49:00-04:00,ASML,neutral
+100719.0,Benzinga Mid-Day Market Update,2012-10-17 12:51:00-04:00,ASML,neutral
+100720.0,Benzinga Mid-Morning Market Update,2012-10-17 10:36:00-04:00,ASML,neutral
+100721.0,Benzinga's Top Pre-Market Gainers,2012-10-17 08:15:00-04:00,ASML,positive
+100722.0,UPDATE: Cymer Rises 64% Pre-Market on Acquisition by ASML,2012-10-17 07:54:00-04:00,ASML,neutral
+100723.0,ASML to Acquire Cymer for $2.5B in Cash and Stock,2012-10-17 06:19:00-04:00,ASML,neutral
+100724.0,"Benzinga Market Primer, Wednesday October 17",2012-10-17 06:09:00-04:00,ASML,neutral
+100725.0,US Stock Futures Flat; Bank of America Earnings In Focus,2012-10-17 06:00:00-04:00,ASML,neutral
+100726.0,ASML To Acquire Cymer For $2.5B,2012-10-17 03:40:00-04:00,ASML,neutral
+100727.0,"Earnings Scheduled For October 17, 2012",2012-10-17 03:14:00-04:00,ASML,neutral
+100728.0,Barron's Recap (10/13/12): Almost There,2012-10-15 06:47:00-04:00,ASML,neutral
+100729.0,"CLSA Initiated Coverage on ASML Holding at Outperform, Announced PT to $62",2012-10-09 09:23:00-04:00,ASML,neutral
+100730.0,Benzinga's Top Pre-Market Losers,2012-09-19 08:12:00-04:00,ASML,negative
+100731.0,UPDATE: JP Morgan Initiates ASML Holdings at Overweight  ,2012-09-19 07:26:00-04:00,ASML,neutral
+100732.0,"JP Morgan Initiates Coverage on ASML Holding at Overweight, Announces PT of $57.50",2012-09-19 06:41:00-04:00,ASML,neutral
+100733.0,Benzinga's Top Downgrades,2012-09-06 07:25:00-04:00,ASML,positive
+100734.0,Deutsche Bank Downgrades ASML Holding from Hold  to Sell,2012-08-28 06:17:00-04:00,ASML,neutral
+100735.0,ASML CEO Expects 'Steady Increase In Profitability'    ,2012-07-18 09:16:00-04:00,ASML,positive
+100736.0,ASML Holding Reports Q2 EPS $0.87 vs $0.83 Est,2012-07-18 06:35:00-04:00,ASML,neutral
+100737.0,ASML Q2 Net Profit Down 32%,2012-07-18 02:41:00-04:00,ASML,positive
+100738.0,Benzinga's Top Downgrades,2012-07-13 07:25:00-04:00,ASML,positive
+100739.0,Benzinga's Top Pre-Market Gainers,2012-07-10 08:12:00-04:00,ASML,positive
+100740.0,ASML Holding Jumps as Intel Takes Stake,2012-07-09 20:41:00-04:00,ASML,neutral
+100741.0,ASML Holding Rises 7% After-Hours on Intel Stake,2012-07-09 16:50:00-04:00,ASML,neutral
+100742.0,UPDATE: Intel Will Buy 10% Initial Stake in ASML for $2.1B,2012-07-09 16:12:00-04:00,ASML,neutral
+100743.0,Intel and ASML Reach Agreements to Accelerate Key Next-Generation Semiconductor Manufacturing Technologies   ,2012-07-09 16:10:00-04:00,ASML,positive
+100744.0,Benzinga's Top Pre-Market Losers,2012-07-05 08:19:00-04:00,ASML,negative
+100745.0,Bernstein Initiates Coverage On ASML Holding at Outperform,2012-06-21 08:19:00-04:00,ASML,neutral
+100746.0,ASML Holding Reports Q1 EPS $0.68 vs $0.67 Est; Revenues $1.25B vs $1.21B Est,2012-04-18 06:45:00-04:00,ASML,neutral
+100747.0,Is ASML Holding Topped out? ,2012-02-21 14:57:00-05:00,ASML,neutral
+100748.0,ASML Holding Hits 52-Week High of $45.99,2012-02-16 10:26:00-05:00,ASML,neutral
+100749.0,ASML Holding Hits 52-Week High of $45.93,2012-02-15 11:59:00-05:00,ASML,neutral
+100750.0,Notable Call Options Activity in ASML Holding,2012-01-18 10:32:00-05:00,ASML,neutral
+100751.0,Earnings Roundup,2012-01-18 08:45:00-05:00,ASML,neutral
+100752.0,Benzinga's Top Pre-Market Gainers,2012-01-18 08:13:00-05:00,ASML,positive
+100753.0,ASML Holding Reports Q1 EPS EUR0.69 vs EUR0.54 Est			,2012-01-18 06:45:00-05:00,ASML,neutral
+100754.0,ASML Reports 30% Drop In Q4 Net Profit,2012-01-18 05:40:00-05:00,ASML,positive
+100755.0,Benzinga's Top Pre-Market Losers,2011-12-30 08:22:00-05:00,ASML,negative
+100756.0,Notable Call Options Activity in ASML Holding,2011-11-29 10:13:00-05:00,ASML,neutral
+100757.0,Benzinga's Top Pre-Market Losers,2011-10-31 08:15:00-04:00,ASML,negative
+100758.0,Notable Put Options Activity in ASML Holding,2011-10-20 12:52:00-04:00,ASML,neutral
+100759.0,ASML Reports 32% Surge In Q3 Net Profit,2011-10-12 05:05:00-04:00,ASML,positive
+100760.0,Earnings Scheduled For October 12,2011-10-12 04:22:00-04:00,ASML,neutral
+100761.0,Stocks To Watch For October 12,2011-10-12 04:10:00-04:00,ASML,neutral
+100762.0,Notable Put Options Activity in ASML Holding,2011-09-27 12:30:00-04:00,ASML,neutral
+100763.0,Notable Put Options Activity in ASML Holding,2011-08-30 10:16:00-04:00,ASML,neutral
+100764.0,Monday's Put/Call Ratio Leaders,2011-08-15 12:27:00-04:00,ASML,neutral
+100765.0,Thursday's Put/Call Ratio Leaders,2011-07-28 12:15:00-04:00,ASML,neutral
+100766.0,Options Brief: ASML Holding,2011-07-28 11:13:00-04:00,ASML,neutral
+100767.0,Calls Purchased on ASML Holding,2011-07-15 15:08:00-04:00,ASML,neutral
+100768.0,Calls Purchased on ASML Holding,2011-07-13 10:31:00-04:00,ASML,neutral
+100769.0,ASML Holding Down 2% Despite Solid Earnings,2011-07-13 09:13:00-04:00,ASML,negative
+100770.0,Benzinga's Top Pre-Market NASDAQ Losers,2011-07-13 08:25:00-04:00,ASML,negative
+100771.0,"News Summary for July 13, 2011",2011-07-13 07:58:00-04:00,ASML,neutral
+100772.0,ASML Holdings Reports Q2 EPS of 1 EUR; Revenues 1.53B EUR,2011-07-13 07:00:00-04:00,ASML,neutral
+100773.0,ASML Reports 80% Surge In Q2 Net Profit,2011-07-13 03:42:00-04:00,ASML,positive
+100774.0,Earnings Scheduled For July 13,2011-07-13 03:04:00-04:00,ASML,neutral
+100775.0,Benzinga's Top Upgrades,2011-07-11 09:03:00-04:00,ASML,positive
+100776.0,"Citigroup Upgrades KLAC, ASML To Hold",2011-07-11 05:51:00-04:00,ASML,neutral
+100777.0,ASML Holding Up 3%,2011-07-07 09:31:00-04:00,ASML,neutral
+100778.0,Benzinga's Top Upgrades,2011-07-07 08:08:00-04:00,ASML,positive
+100779.0,Wednesday's Put/Call Ratio Leaders,2011-07-06 12:58:00-04:00,ASML,neutral
+100780.0,Options Brief: ASML Holding,2011-07-06 10:53:00-04:00,ASML,neutral
+100781.0,Complete Preparation for Summer Earnings Season 2011,2011-06-30 18:10:00-04:00,ASML,neutral
+100782.0,Options Brief: ASML Holding N.V.,2011-06-29 10:30:00-04:00,ASML,neutral
+100783.0,Benzingas Top Pre-Market NASDAQ Losers,2011-06-28 08:11:00-04:00,ASML,negative
+100784.0,Benzinga's Top Pre-Market NASDAQ Losers,2011-06-16 08:23:00-04:00,ASML,negative
+100785.0,Benzinga's Top Pre-Market NASDAQ Gainers,2011-06-14 08:10:00-04:00,ASML,positive
+100786.0,Benzinga's Top Pre-Market NASDAQ Gainers,2011-06-07 08:15:00-04:00,ASML,positive
+100787.0,Hottest Technology stocks to watch- Heavily Traded Last Week,2011-05-22 13:56:00-04:00,ASML,neutral
+100788.0,"Few Technology Stocks Moves ON 5/19/11- AOS, ABB, ATVI, AYI, ADTN, ASX, ATE, AIXG…",2011-05-19 09:22:00-04:00,ASML,neutral
+100789.0,"Benzinga's Top Pre-Market NASDAQ Gainers (MAIL, QTWW, SYMC, ASML)",2011-05-12 08:23:00-04:00,ASML,positive
+100790.0,"Benzinga's Top Pre-Market NASDAQ Gainers (KLIC, VVUS, ASML, ASMI)",2011-05-03 08:14:00-04:00,ASML,positive
+100791.0,"Benzinga's Volume Movers (TRS, STSA, INTC, ASML)",2011-04-20 10:17:00-04:00,ASML,neutral
+100792.0,"Benzinga's Top Pre-Market NASDAQ Gainers (ASML, INTC, AIXG, REDF)",2011-04-20 08:12:00-04:00,ASML,positive
+100793.0,"Earnings Preview: Intel & How To Trade It (INTC, KLAC, ASML, AMD)",2011-04-19 13:53:00-04:00,ASML,neutral
+100794.0,"Benzinga's Top Pre-Market NASDAQ Losers (ASML, MRVL, SINA, ARMH)",2011-04-18 08:25:00-04:00,ASML,negative
+100795.0,"Benzinga's Top Pre-Market NASDAQ Losers (INVE, DSCM, ASML, SMT)",2011-04-13 08:23:00-04:00,ASML,negative
+100796.0,The Long and Short of ASML Holding N.V. (ASML),2011-04-11 15:50:00-04:00,ASML,neutral
+100797.0,"Benzinga's Top Pre-Market NASDAQ Losers (PWER, XING, TZOO, ASML)",2011-04-07 08:21:00-04:00,ASML,negative
+100798.0,Options Brief: ASML Holding N.V. (ASML),2011-03-31 10:56:00-04:00,ASML,neutral
+100799.0,Calls Purchased on ASML Holding N.V. (ASML),2011-03-29 11:18:00-04:00,ASML,neutral
+100800.0,"Time To Look At ASML And Other Chip Equipment Companies? (ASML, INTC, AMAT, KLAC)",2011-03-25 11:44:00-04:00,ASML,neutral
+100801.0,Calls Purchased on ASML Holding N.V (ASML),2011-03-25 11:14:00-04:00,ASML,neutral
+100802.0,Options Brief: ASML Holding N.V. (ASML),2011-03-24 15:17:00-04:00,ASML,neutral
+100803.0,"Benzinga's Top Pre-Market NASDAQ Gainers (MOBI, MOTR, ASML, ERIC)",2011-03-23 08:08:00-04:00,ASML,positive
+100804.0,"Benzinga's Top Upgrades (ACN, MDAS, ASML, SI)",2011-03-18 08:20:00-04:00,ASML,positive
+100805.0,Calls Purchased on ASML Holding N.V.  (ASML),2011-03-17 14:43:00-04:00,ASML,neutral
+100806.0,"Benzinga's Top Pre-Market NASDAQ Losers (PEET, CSIQ, ARMH, ASML)",2011-03-10 08:09:00-05:00,ASML,negative
+100807.0,"Intuit, ASML Holding, and STMicroelectronics Attending UBS Tech Conference (INTU, ASML, STM)",2011-03-08 15:53:00-05:00,ASML,neutral
+100808.0,ING Group Opens ASML With Buy,2011-03-08 05:45:00-05:00,ASML,neutral
+100809.0,"Benzinga's Top Pre-Market NASDAQ Losers (ARMH, ASML, GLUU, JBLU)",2011-02-22 08:19:00-05:00,ASML,negative
+100810.0,"Benzinga's Top Pre-Market NASDAQ Gainers (ERIC, SWKS, ASML, FITB)",2011-01-25 08:10:00-05:00,ASML,positive
+100811.0,"Benzinga's Top Pre-Market NASDAQ Losers (OVTI, MIPS, MNKD, ASML)",2011-01-24 08:30:00-05:00,ASML,negative
+100812.0,ASML Continues Higher (ASML),2011-01-20 14:19:00-05:00,ASML,neutral
+100813.0,Update: Morgan Stanley Upgrades ASML To Overweight (ASML),2011-01-20 12:02:00-05:00,ASML,negative
+100814.0,ASML Holding Upgraded to Overweight at Morgan Stanley,2011-01-20 11:47:00-05:00,ASML,negative
+100815.0,Semiconductors Sparkle - Zacks Industry Rank Analysis,2011-01-19 14:01:00-05:00,ASML,positive
+100816.0,"Chips Falling Where They May (NVDA, MU, AMAT)",2011-01-19 12:30:00-05:00,ASML,negative
+100817.0,"""Seen On The Wires"" News Roundup (AAPL, IBM, ASML, UUP)",2011-01-19 10:56:00-05:00,ASML,neutral
+100818.0,ASML Getting Whacked Hard (ASML),2011-01-19 10:49:00-05:00,ASML,negative
+100819.0,Zacks #1 Rank Additions for Wednesday - Tale of the Tape,2011-01-19 08:31:00-05:00,ASML,neutral
+100820.0,Zacks #1 Rank Additions for Wednesday - Tale of the Tape,2011-01-19 08:14:00-05:00,ASML,neutral
+100821.0,ASML Profits Surge on Record Bookings,2011-01-19 04:38:00-05:00,ASML,positive
+100822.0,Semiconductors Sparkle - Zacks Industry Rank Analysis,2011-01-19 00:00:00-05:00,ASML,positive
+100823.0,Piper Jaffray's Semiconductor Update,2011-01-18 09:20:00-05:00,ASML,neutral
+100824.0,"Benzinga's Top Pre-Market NASDAQ Losers (AAPL, NVDA, ARMH, ASML)",2011-01-18 08:35:00-05:00,ASML,negative
+100825.0,"Chips Showing Strength This Morning On Intel's Blow Out Quarter (AMAT, INTC, ASML, KLAC)",2011-01-14 08:48:00-05:00,ASML,positive
+100826.0,"Benzinga's Top Pre-Market NASDAQ Losers (SVA, WTSLA, RIMM, ASML)",2011-01-06 08:34:00-05:00,ASML,negative
+100827.0,"Benzinga's Top Pre-Market NASDAQ Losers (LOGI, XOMA, ASML, HBAN)",2011-01-05 08:25:00-05:00,ASML,negative
+100828.0,"Benzinga's Top Pre-Market NASDAQ Losers (BANR, MNKD, ASML, ERIC)",2011-01-04 08:25:00-05:00,ASML,negative
+100829.0,Options Brief: ASML Holding (ASML),2010-12-29 10:17:00-05:00,ASML,neutral
+100830.0,"Benzinga's Top Pre-Market NASDAQ Gainers (APWR, MAIL, CSCO, ASML)",2010-12-27 08:26:00-05:00,ASML,positive
+100831.0,Semiconductor Industry Outlook - Industry Outlook,2010-12-21 17:00:00-05:00,ASML,neutral
+100832.0,Semiconductor Industry Outlook - Zacks Analyst Interviews,2010-12-21 17:00:00-05:00,ASML,neutral
+100833.0,Semiconductor Industry Outlook - Industry Outlook,2010-12-21 17:00:00-05:00,ASML,neutral
+100834.0,Semiconductor Industry Outlook - Industry Outlook,2010-12-21 16:30:00-05:00,ASML,neutral
+100835.0,Semiconductor Industry Outlook - Industry Outlook,2010-12-21 00:00:00-05:00,ASML,neutral
+100836.0,Semiconductor Industry Outlook - Zacks Analyst Interviews,2010-12-21 00:00:00-05:00,ASML,neutral
+100837.0,ASML Holding Down On Heavy Pre-Market Volume (ASML),2010-12-20 08:20:00-05:00,ASML,neutral
+100838.0,Piper Jaffray's Semiconductor Picks for 2011,2010-12-13 07:52:00-05:00,ASML,neutral
+100839.0,"Benzinga's Top Downgrades (CML, ASML, OII, PPO)",2010-12-10 07:57:00-05:00,ASML,positive
+100840.0,"Benzinga's Volume Movers (LULU, DMND, ASML, NTLS)",2010-12-09 11:03:00-05:00,ASML,neutral
+100841.0,"NASDAQ Stocks Hitting 52-Week Highs (ASML, DMND, ORIT, DDMX)",2010-12-09 10:49:00-05:00,ASML,neutral
+100842.0,ASML Holding N.V. Trading Higher on Increased Volume (ASML),2010-12-09 10:41:00-05:00,ASML,positive
+100843.0,Options Brief: ASML Holding (ASML),2010-12-09 10:40:00-05:00,ASML,neutral
+100844.0,"Benzinga's Top Pre-Market NASDAQ Gainers (LULU, HITK, TEVA, ASML)",2010-12-09 08:20:00-05:00,ASML,positive
+100845.0,US Stock Futures Up As Investors Await Weekly Jobless Data,2010-12-09 06:43:00-05:00,ASML,positive
+100846.0,ASML Sees 4Q Bookings Above $2.66B,2010-12-09 03:55:00-05:00,ASML,negative
+100847.0,"Benzinga's Top Pre-Market NASDAQ Losers (MNTA, NFLX, ASML, ERIC)",2010-12-08 08:29:00-05:00,ASML,negative
+100848.0,"Benzinga's Top Pre-Market NASDAQ Losers (MCOX, CBAK, STX, ASML)",2010-11-30 08:31:00-05:00,ASML,negative
+100849.0,"Benzinga's Top Pre-Market NASDAQ Losers (BSDM, ASML, AIXG, VOD)",2010-11-29 08:28:00-05:00,ASML,negative
+100850.0,"Benzinga's Top Pre-Market NASDAQ Losers (TSTC, ACGY, ASML, VOD)",2010-11-24 08:39:00-05:00,ASML,negative
+100851.0,Zacks #1 Rank Additions for Tuesday  - Tale of the Tape,2010-11-23 08:30:00-05:00,ASML,neutral
+100852.0,Zacks #1 Rank Additions for Tuesday  - Tale of the Tape,2010-11-23 03:14:00-05:00,ASML,neutral
+100853.0,"Benzinga's Top Pre-Market NASDAQ Losers (ARMH, ERIC, JASO, ASML)",2010-11-22 08:33:00-05:00,ASML,negative
+100854.0,"Applied Tops, Outlook Weakens - Analyst Blog",2010-11-18 08:00:00-05:00,ASML,positive
+100855.0,"Applied Tops, Outlook Weakens - Analyst Blog",2010-11-18 02:30:00-05:00,ASML,positive
+100856.0,"Benzinga's Top Pre-Market NASDAQ Gainers (URBN, BRCD, ASML, ARMH)",2010-11-16 08:17:00-05:00,ASML,positive
+100857.0,Overweight Semiconductors,2010-11-12 07:34:00-05:00,ASML,negative
+100858.0,Puts Purchased on ASML Holding (ASML),2010-11-09 10:26:00-05:00,ASML,neutral
+100859.0,Puts Purchased on ASML Holding N.V. (ASML),2010-10-14 10:52:00-04:00,ASML,neutral
+100860.0,Puts Purchased on ASML Holding N.V. (ASML),2010-10-13 11:20:00-04:00,ASML,neutral
+100861.0,"Earnings Scheduled For October 13 (JPM, APOL, HST, ACGY, TESS, SPTN, ASML, MTOX, IGTE, CMN, OZRK)",2010-10-13 05:03:00-04:00,ASML,neutral
+100862.0,Credit Suisse Rates ASML At Outperform (ASML),2010-10-01 08:05:00-04:00,ASML,positive
+100863.0,ASML Drops On Downgrade In Rating,2010-08-31 10:31:00-04:00,ASML,neutral
+100864.0,"Benzinga’s Top Pre-Market NASDAQ Losers (AVNR, CHBT, ASML, CRUS)",2010-08-31 08:34:00-04:00,ASML,negative
+100865.0,"Benzinga’s Top Downgrades (DGIT, ASML, POT, ARST)",2010-08-31 07:25:00-04:00,ASML,positive
+100866.0,Deutsche Bank Downgrades ASML To Hold,2010-08-31 06:22:00-04:00,ASML,neutral
+100867.0,"Benzinga’s Top Pre-Market NASDAQ Losers (DGIT, ERIC, ASML, VOD)",2010-08-30 08:32:00-04:00,ASML,negative
+100868.0,"Benzinga’s Top Pre-Market NASDAQ Losers (CRUS, ASML, GERN, COCO)",2010-08-24 08:51:00-04:00,ASML,negative
+100869.0,"Benzinga’s Top Pre-Market NASDAQ Losers (COCO, ASML, RIMM, DELL)",2010-08-20 08:25:00-04:00,ASML,negative
+100870.0,Applied Grows But Misses  - Analyst Blog,2010-08-19 14:13:00-04:00,ASML,negative
+100871.0,"Benzinga’s Top Pre-Market NASDAQ Gainers (ARMH, BSDM, CATM, ASML)",2010-08-19 08:26:00-04:00,ASML,positive
+100872.0,Semiconductor Industry Outlook - August 2010 - Industry Outlook,2010-08-17 12:13:00-04:00,ASML,neutral
+100873.0,Semiconductor Industry Outlook - August 2010 - Industry Outlook,2010-08-17 00:24:00-04:00,ASML,neutral
+100874.0,"Benzinga’s Top Pre-Market NASDAQ Losers (CSCO, NLST, ASML, LTXC)",2010-08-12 08:50:00-04:00,ASML,negative
+100875.0,"Benzinga’s Top Pre-Market NASDAQ Losers (AOSL, CREE, ASML, ARMH)",2010-08-11 08:41:00-04:00,ASML,negative
+100876.0,Puts Purchased on ASML Holding (ASML),2010-08-04 13:12:00-04:00,ASML,neutral
+100877.0,Puts Purchased on ASML Holding (ASML),2010-07-29 11:42:00-04:00,ASML,neutral
+100878.0,"Benzinga’s Top Pre-Market NASDAQ Losers (QGEN, ERIC, ASML, AMZN)",2010-07-26 08:37:00-04:00,ASML,negative
+100879.0,Downside Purchased on ASML Holding (ASML),2010-07-20 12:49:00-04:00,ASML,negative
+100880.0,"Benzinga’s Top Pre-Market NASDAQ Losers (AMZN, VECO, BMTI, ASML)",2010-07-15 09:06:00-04:00,ASML,negative
+100881.0,"Benzinga’s Volume Movers (ADTN, IGTE, ASML, INTC)",2010-07-14 15:00:00-04:00,ASML,neutral
+100882.0,"Benzinga’s Top Pre-Market Gainers (INTC, ASML, NVDA, ALVR)",2010-07-14 09:07:00-04:00,ASML,positive
+100883.0,US Stock Futures Move Up On INTC’s Results,2010-07-14 09:05:00-04:00,ASML,neutral
+100884.0,"Benzinga’s Top Pre-Market Losers (ASML, VOD, CRUS, ACGY)",2010-07-12 08:50:00-04:00,ASML,negative
+100885.0,"Benzinga’s Volume Movers (SHPGY, HSNI, SSRX, ASML)",2010-07-06 14:53:00-04:00,ASML,neutral
+100886.0,"Benzinga’s Top Pre-Market Gainers (ASML, MU, JASO, DRYS)",2010-07-06 08:47:00-04:00,ASML,positive
+100887.0,Puts Sold on ASML Holding (ASML),2010-06-28 11:06:00-04:00,ASML,neutral
+100888.0,"Benzinga’s Top Pre-Market Gainers (MAIL, PRTS, ASML, GOLD)",2010-06-23 09:20:00-04:00,ASML,positive
+100889.0,"Benzinga’s Top Pre-Market Gainers (MAIL, PRTS, ASML, GOLD)",2010-06-23 09:13:00-04:00,ASML,positive
+100890.0,"Benzinga’s Top Pre-Market Losers (AIXG, VOD, RIMM, ASML)",2010-06-22 09:05:00-04:00,ASML,negative
+100891.0,"Benzinga’s Top Pre-Market Losers (VVUS, ASML, ARMH, QQQQ)",2010-06-18 08:48:00-04:00,ASML,negative
+100892.0,Downside Purchased on ASML Holding NV (ASML),2010-06-17 11:03:00-04:00,ASML,negative
+100893.0,Infologix Notified that McGladrey Terminating Their Accounting Agreement (IFLG),2010-06-17 10:58:00-04:00,ASML,positive
+100894.0,"Benzinga’s Top Pre-Market Gainers (CLNE, ASML, JBLU, GOLD)",2010-06-14 08:31:00-04:00,ASML,positive
+100895.0,"Benzinga’s Top Pre-Market Gainers (ARMH, APWR, NVAX, ASML)",2010-06-10 09:13:00-04:00,ASML,positive
+100896.0,Solid Pullback  05-24-2010,2010-05-24 15:16:00-04:00,ASML,positive
+100897.0,Monitoring Put/Call Ratio  05-24-2010,2010-05-24 14:45:00-04:00,ASML,neutral
+100898.0,Call Spread Purchased in ASML,2010-05-24 13:10:00-04:00,ASML,neutral
+100899.0,"Benzinga’s Top Pre-Market Losers (ALVR, ASML, CREE, DRYS, MU)",2010-05-24 08:45:00-04:00,ASML,negative
+100900.0,"Benzinga’s Top Pre-Market Gainers (GERN, MSPD, ENG, QGEN, ASML)",2010-05-19 10:00:00-04:00,ASML,positive
+100901.0,46 Short Setups with Stop-Losses,2010-05-18 19:47:00-04:00,ASML,neutral
+100902.0,Tight Risk Parameters Key  05-14-2010,2010-05-14 14:46:00-04:00,ASML,negative
+100903.0,27 Short Setups with Stop-Losses,2010-05-11 20:47:00-04:00,ASML,neutral
+100904.0,"Benzinga’s Top Pre-Market Losers (PCLN, VISN, CRXL, ASML, ERIC)",2010-05-11 08:37:00-04:00,ASML,negative
+100905.0,ASML Holdings Continues to Look Bearish,2010-05-05 13:52:00-04:00,ASML,neutral
+100906.0,ASML Holdings Continues to Look Bearish,2010-05-05 13:52:00-04:00,ASML,neutral
+100907.0,23 Short Setups with Stop-Losses,2010-05-05 06:57:00-04:00,ASML,neutral
+100908.0,US Stock Futures Point To Strong Opening Today,2010-04-14 09:03:00-04:00,ASML,positive
+100909.0,ASML Shines In Q1 On Jump In Orders,2010-04-14 08:59:00-04:00,ASML,neutral
+100910.0,"Benzinga’s News Roundup (JPM, IGTE, MAPP, ASML)",2010-04-14 07:58:00-04:00,ASML,neutral
+100911.0,"Benzinga’s Top Pre-Market Losers (SONC, ASML, BOCH, BLDP)",2010-03-24 08:21:00-04:00,ASML,negative
+100912.0,"Benzinga’s Top Pre-Market Losers (JDSU, ACGY, ARMH, CLNE, CAGC, ASML, NVAX)",2010-02-08 08:20:00-05:00,ASML,negative
+100913.0,"Analyst Shares Tech Stock Picks With CNBC (JNPR, SNDK, LRCX)",2010-02-05 10:59:00-05:00,ASML,positive
+100914.0,"Benzinga’s News Roundup (MGA, ASML, PCS, PLX, MRNA, ROSG)",2010-01-13 08:05:00-05:00,ASML,neutral
+100915.0,"Benzinga’s Top Pre- Market Gainers (STEC, VVUS, AIG, VICL, OSIS, AMZN, ASML)",2009-12-29 08:12:00-05:00,ASML,positive
+100916.0,New Capacity Growth Cycle To Boost ASML’s Growth,2009-12-14 14:22:00-05:00,ASML,positive
+100917.0,"Benzinga’s Top Pre- Market Gainers (WPP, SPPI, RYAAY, ASML, BWY, SPN, PFE, GOLD)",2009-12-11 08:24:00-05:00,ASML,positive
+100918.0,"Futures Higher After JPMorgan (JPM) And Intel (INTC) Wow The Market, More Data To Come",2009-10-14 07:45:00-04:00,ASML,positive
+100919.0,Golden Minerals Reports Second Quarter 2009 Results,2009-08-10 07:00:00-04:00,ASML,neutral

@@ -1,0 +1,23 @@
+Unnamed: 0,title,date,stock,sentiment
+246507.0,Stocks That Hit 52-Week Lows On Thursday,2020-03-12 12:10:00-04:00,CII,negative
+246508.0,Stocks That Hit 52-Week Lows On Friday,2020-02-28 10:16:00-05:00,CII,negative
+246509.0,Stocks That Hit 52-Week Highs On Wednesday,2020-02-12 11:45:00-05:00,CII,neutral
+246510.0,Stocks That Hit 52-Week Highs On Tuesday,2020-02-11 10:17:00-05:00,CII,neutral
+246511.0,Stocks That Hit 52-Week Highs On Monday,2020-02-10 10:25:00-05:00,CII,neutral
+246512.0,Stocks That Hit 52-Week Highs On Friday,2020-01-17 13:23:00-05:00,CII,neutral
+246513.0,Stocks That Hit 52-Week Highs On Friday,2020-01-10 12:18:00-05:00,CII,neutral
+246514.0,Stocks That Hit 52-Week Highs On Thursday,2020-01-09 15:15:00-05:00,CII,neutral
+246515.0,Stocks That Hit 52-Week Highs On Friday,2019-12-27 11:27:00-05:00,CII,neutral
+246516.0,Stocks That Hit 52-Week Highs On Monday,2019-12-23 10:20:00-05:00,CII,neutral
+246517.0,Stocks That Hit 52-Week Highs On Friday,2019-12-20 11:59:00-05:00,CII,neutral
+246518.0,Stocks That Hit 52-Week Highs On Thursday,2019-12-12 10:21:00-05:00,CII,neutral
+246519.0,"Stocks Which Set New 52-Week Low Yesterday, Tues., Dec. 20, 2018",2018-12-20 11:33:00-05:00,CII,negative
+246520.0,"Stocks Which Set New 52-Week Low Last Trading Session, Fri., Dec. 14, 2018",2018-12-17 11:48:00-05:00,CII,negative
+246521.0,"Stocks Which Set New 52-Week High Yesterday, August 29th",2018-08-30 11:47:00-04:00,CII,neutral
+246522.0,"Stocks Which Set New 52-Week High Yesterday, August 28th",2018-08-29 11:13:00-04:00,CII,neutral
+246523.0,"Stocks Which Set New 52-Week High Yesterday, August 21st",2018-08-22 09:06:00-04:00,CII,neutral
+246524.0,"Stocks Which Set New 52-Week High Tues., Aug. 21, 2018",2018-08-21 14:50:00-04:00,CII,neutral
+246525.0,"Stocks Which Set New 52-Week High Yesterday, August 9th",2018-08-10 10:03:00-04:00,CII,neutral
+246526.0,"Vyvanse (lisdexamfetamine dimesylate) Capsules, Now Approved in the US for Maintenance Treatment in Adults with ADHD ",2012-02-07 12:17:00-05:00,CII,positive
+246527.0,Investor Ideas' Friday's NASDAQ Winners,2011-11-28 14:01:00-05:00,CII,positive
+246528.0,"Discovery Channel's ""CASH CAB"" Gets a Little More Mobile",2009-08-13 09:00:00-04:00,CII,neutral

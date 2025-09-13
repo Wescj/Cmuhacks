@@ -1,0 +1,68 @@
+Unnamed: 0,title,date,stock,sentiment
+92997.0,Stocks That Hit 52-Week Lows On Thursday,2020-03-19 10:49:00-04:00,ARKR,negative
+92998.0,Ark Restaurants Reports Temporary Closure Of Certain Restaurants,2020-03-17 16:30:00-04:00,ARKR,positive
+92999.0,Ark Restaurants To Defer Dividend Payments,2020-03-13 16:41:00-04:00,ARKR,negative
+93000.0,Stocks That Hit 52-Week Lows On Friday,2020-03-13 11:13:00-04:00,ARKR,negative
+93001.0,Stocks That Hit 52-Week Lows On Friday,2020-03-06 11:22:00-05:00,ARKR,negative
+93002.0,Stocks That Hit 52-Week Highs On Tuesday,2020-02-11 10:17:00-05:00,ARKR,neutral
+93003.0,Ark Restaurants Q1 Sales $43.514M Up From $40.548M YoY,2020-02-10 16:11:00-05:00,ARKR,neutral
+93004.0,"Ark Restaurants Q4 EPS $(0.16) May Not Compare To $0.28 YoY, Sales $41.688M Up From $40.562M YoY",2019-12-16 16:07:00-05:00,ARKR,neutral
+93005.0,"Ark Restaurants Q3 EPS $1.12 Up From $0.75 YoY, Sales $44.807M Up From $44.8M YoY",2019-08-12 16:06:00-04:00,ARKR,neutral
+93006.0,"Ark Restaurants Q2 EPS $(0.19), Same YoY, Sales $35.31M Up From $35.276M YoY",2019-05-13 16:09:00-04:00,ARKR,neutral
+93007.0,"Ark Restaurants Q4 EPS $0.28 Down From $0.37 YoY, Sales $40.562M Up From $39.467M YoY",2018-12-19 16:12:00-05:00,ARKR,neutral
+93008.0,"Stocks Trading Ex Dividend For Mon., Dec. 17, 2018",2018-12-17 10:08:00-05:00,ARKR,neutral
+93009.0,"Stocks Which Set New 52-Week Low Yesterday, Thurs., Dec. 13, 2018",2018-12-14 11:03:00-05:00,ARKR,negative
+93010.0,"Stocks That Will Be Trading Ex Dividend Mon., Dec. 17, 2018",2018-12-14 11:02:00-05:00,ARKR,neutral
+93011.0,"Ark Restaurants Q3 EPS $0.75 Up From $0.39 YoY, Sales $44.8M Up From $41.201M YoY",2018-08-13 16:22:00-04:00,ARKR,neutral
+93012.0,"Ark Restaurants Reports Death Of Pres, CFO Robert Stewart",2018-07-30 17:06:00-04:00,ARKR,negative
+93013.0,"Ark Restaurants Q2 EPS $(0.19) Down From $(0.11) YoY, Sales $35.276M Up From $34.478M YoY",2018-05-14 16:32:00-04:00,ARKR,neutral
+93014.0,"Ark Restaurants Reports Q1 EPS $0.46 vs $0.49 In Same Qtr. Last Year, Sales $39.352M vs $38.42M YoY, Comps Up 2.2%",2018-02-12 16:24:00-05:00,ARKR,neutral
+93015.0,"Ark Restaurants Reports Q4 EPS $0.37 vs $0.28 In Same Qtr. Last Year, Sales $39.467M vs $38.529M YoY",2017-12-27 16:07:00-05:00,ARKR,neutral
+93016.0,"Earnings Scheduled For August 11, 2017",2017-08-11 04:37:00-04:00,ARKR,neutral
+93017.0,"Ark Restaurants Reports Q2 EPS $0.38 vs $(0.09) In Same Qtr. Last Year, Sales $34.478M vs $34.272M YoY",2017-05-12 17:30:00-04:00,ARKR,neutral
+93018.0,"Ark Restaurants Reports Q1 EPS $0.49 vs. Prior Year Quarter $0.09, Rev. $38.39M vs. Prior Year Quarter $36.35M",2017-02-10 16:07:00-05:00,ARKR,neutral
+93019.0,"Ark Restaurants Reports Q4 GAAP EPS $0.28 vs $0.57 in Same Qtr. Last Year, Sales $150.152M; Comps Down 7%",2016-12-29 16:14:00-05:00,ARKR,neutral
+93020.0,Ark Restaurants Entered into Several Asset Purchase Agreements,2016-11-16 06:15:00-05:00,ARKR,positive
+93021.0,"9 Notable Stocks Trading  Ex-Dividend Monday, September 19",2016-09-16 11:25:00-04:00,ARKR,neutral
+93022.0,"Ark Restaurants Q3 EPs $0.96, Rev $41.23M",2016-08-11 16:17:00-04:00,ARKR,neutral
+93023.0,"Ark Restaurants Reports Q3 EPS $0.99 vs. Prior Year Quarter $0.95, Rev. $41.23M vs. Prior Year Quarter $40.375M",2016-08-11 16:16:00-04:00,ARKR,neutral
+93024.0,Ark Restaurants To Buyback 500K Shares,2016-07-05 16:00:00-04:00,ARKR,positive
+93025.0,"Ark Restaurants Reports Q2 EPS $(0.19) vs $(0.17) in Same Qtr. Last Year, Sales $34.272M",2016-05-12 16:08:00-04:00,ARKR,neutral
+93026.0,Ark Restaurants Reports Q4 Comps Up 7.4%,2015-12-23 16:01:00-05:00,ARKR,neutral
+93027.0,"Ark Restaurants Reports Q4 EPS $0.57, Sales $40.581M",2015-12-23 16:01:00-05:00,ARKR,neutral
+93028.0,8-K from Ark Restaurants Shows CEO Weinstein (on Recent Conference Call) Discussed 'Very Close to Another' Purchase of Restaurant in Florida for $5.6M,2015-08-07 14:49:00-04:00,ARKR,neutral
+93029.0,Stocks Hitting 52-Week Highs,2015-02-10 10:18:00-05:00,ARKR,neutral
+93030.0,"Ark Restaurants Reports Q1 EPS $0.21, Sales $33.4M, No Est. Available",2015-02-09 16:27:00-05:00,ARKR,negative
+93031.0,Ark Restaurants Reports Q4 EPS of $0.66; Revenue of $37.07M,2014-12-19 16:59:00-05:00,ARKR,neutral
+93032.0,Ark Restaurants Corp. Reports Q3 EPS of $0.65; Revenue of $39.10M,2014-08-11 15:55:00-04:00,ARKR,neutral
+93033.0,Top 4 NASDAQ Stocks In The Restaurants Industry With The Highest Dividend Yield,2014-05-28 04:53:00-04:00,ARKR,positive
+93034.0,Food for Thought: Some Profitable Food Stocks New Yorkers love,2014-04-18 13:19:00-04:00,ARKR,positive
+93035.0,"Ark Restaurants Reports Q4 EPS Cont. Ops. $0.43, Sales $33.9M, Comps Down 2%",2013-12-20 16:32:00-05:00,ARKR,neutral
+93036.0,"Time to Chow Down on this High-Dividend, Low-Debt Takeover Candidate?",2013-12-05 16:16:00-05:00,ARKR,neutral
+93037.0,Stocks Hitting 52-Week Highs,2013-08-30 10:23:00-04:00,ARKR,neutral
+93038.0,"Ark Restaurants Corp. Reports Q3 EPS of $0.77, Down 14% YOY; Revenue of $36.47M, Down 7% YOY",2013-08-13 14:12:00-04:00,ARKR,neutral
+93039.0,Ark Restaurants Corp. Reports Q2 EPS of $(0.08); Revenue of $29.09M,2013-05-13 13:47:00-04:00,ARKR,neutral
+93040.0,Ark Restaurants Announces Deal with New Meadowlands Racetrack,2013-03-12 12:32:00-04:00,ARKR,neutral
+93041.0,Landry's Sends Letter To Ark Restaurants Questioning Rejection of $22.00/Share Bid,2013-03-08 05:53:00-05:00,ARKR,negative
+93042.0,"Benzinga's M&A Chatter for Friday February 22, 2013",2013-02-23 10:53:00-05:00,ARKR,neutral
+93043.0,"Ark Restaurants Shares Open for Trade, However No Trades Have Gone Through",2013-02-22 09:50:00-05:00,ARKR,neutral
+93044.0,Ark Restaurants Shares to Resume Trading at 9:45AM EST,2013-02-22 09:31:00-05:00,ARKR,positive
+93045.0,UPDATE: Ark Restaurants Board Rejects Landry's Bid,2013-02-22 09:01:00-05:00,ARKR,negative
+93046.0,Ark Restuarants Board Rejects Landry's Unsolicited Bid,2013-02-22 09:00:00-05:00,ARKR,negative
+93047.0,Ark Restaurants Shares Halted News Pending,2013-02-22 08:55:00-05:00,ARKR,positive
+93048.0,"Ark Restaurants Corp. Reports Q1 EPS of $0.00, Down 100% YOY; Revenue of $31.34M, Down 5% YOY",2013-02-11 17:21:00-05:00,ARKR,neutral
+93049.0,Ark Restaurants Confirms $22/Share Bid from Landry's; Board to Review Proposal,2013-02-08 08:34:00-05:00,ARKR,neutral
+93050.0,"Benzinga's M&A Chatter for Thursday February 7, 2013",2013-02-07 16:58:00-05:00,ARKR,neutral
+93051.0,A Peek Into The Market Before The Trading Starts,2013-02-07 07:16:00-05:00,ARKR,neutral
+93052.0,Landry's Offers to Acquire Ark Restaurants for $22.00/ Share ,2013-02-07 05:55:00-05:00,ARKR,positive
+93053.0,"Ark Restaurants Corp. Reports Q4 EPS of $0.54, Up 38% YOY; Revenue of $36.08M, Down 2% YOY",2012-12-26 16:04:00-05:00,ARKR,neutral
+93054.0,"Tiny Market Caps, Big Dividends",2012-11-04 18:18:00-05:00,ARKR,neutral
+93055.0,Ark Restaurants Reports Q2 Comp Store Sales Up 8.2%,2012-05-14 16:45:00-04:00,ARKR,neutral
+93056.0,"Ark Restaurants Repurchases 250,000 Shares of Common Stock From Stockholder",2011-12-12 16:11:00-05:00,ARKR,positive
+93057.0,"End-of-Day Market Summary for November 29, 2011",2011-11-29 16:15:00-05:00,ARKR,neutral
+93058.0,"Ark Restaurants Announces Repurchase of 250,000 Shares of Common Stock From Stockholder   ",2011-11-29 15:56:00-05:00,ARKR,positive
+93059.0,Ark Restaurants Announces Declaration of Dividend Of $0.25,2011-03-04 14:08:00-05:00,ARKR,neutral
+93060.0,Ark Restaurants Reports Q1 EPS of $(0.06) ,2011-02-14 16:28:00-05:00,ARKR,neutral
+93061.0,Ark Restaurants Profit Drops - Analyst Blog,2010-12-30 16:31:00-05:00,ARKR,positive
+93062.0,Ark Restaurants Reports Financial Results for the Fourth Quarter and Full Year 2010   ,2010-12-29 16:15:00-05:00,ARKR,neutral
+93063.0,Ark Restaurants Declares Dividend of $.25 (ARKR),2010-08-27 11:23:00-04:00,ARKR,neutral

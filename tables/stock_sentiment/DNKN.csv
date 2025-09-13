@@ -1,0 +1,938 @@
+Unnamed: 0,title,date,stock,sentiment
+372010.0,Dunkin' Spokesperson Says Co. 'Has Not Implemented Any Mass Layoffs Or Furloughs' Since The Coronavirus Crisis Started; Says Some Franchisees Are Moving Employees From Temporarily Closed Stores To Open Stores,2020-06-10 11:41:00-04:00,DNKN,negative
+372011.0,"KeyBanc Says It's Time To Make The Donuts, Upgrades Dunkin Brands On Valuation, Accelerating Momentum",2020-06-08 11:31:00-04:00,DNKN,neutral
+372012.0,"'Dunkin' plans to hire 25,000 workers as restaurant industry begins pandemic recovery' -CNBC Report",2020-06-08 09:07:00-04:00,DNKN,neutral
+372013.0,"KeyBanc Upgrades Dunkin Brands Group to Overweight, Announces $78 Price Target",2020-06-08 04:46:00-04:00,DNKN,negative
+372014.0,"Piper Sandler Maintains Neutral on Dunkin Brands Group, Raises Price Target to $66",2020-06-04 09:26:00-04:00,DNKN,neutral
+372015.0,Dunkin' Says Qtr.-To-Date Comps Down 10.5% For Baskin-Robbins US Stores,2020-06-03 08:11:00-04:00,DNKN,neutral
+372016.0,"Dunkin' Brands 8-K Shows US Qtr.-To-Date Comps As Of May 23 Down 23% Year Over Year, Comps During Week Ended May 23 Down 15% YoY",2020-06-03 08:09:00-04:00,DNKN,neutral
+372017.0,"Barron's Picks And Pans: Dropbox, Slack, Starbucks And More",2020-05-23 13:16:00-04:00,DNKN,neutral
+372018.0,Bored Of Reheated Pasta? Benzinga's Top Foods To Order Or Cook Has You Covered,2020-05-10 16:30:00-04:00,DNKN,negative
+372019.0,"The Worst Is Yet to Come for Starbucks, But They're Providing A Path Forward",2020-05-08 18:01:00-04:00,DNKN,negative
+372020.0,"Shares of several companies in the restaurant sector are trading higher. Strength potentially related to some US states reopening certain businesses, including restaurants.",2020-05-07 10:49:00-04:00,DNKN,positive
+372021.0,Dunkin' Reports Expansion Of Delivery Options To Include Uber Eats,2020-05-04 10:04:00-04:00,DNKN,neutral
+372022.0,Dunkin' Reports Expansion Of Delivery Options To Include Uber Eats,2020-05-04 10:04:00-04:00,DNKN,neutral
+372023.0,"Wells Fargo Maintains Equal-Weight on Dunkin Brands Group, Lowers Price Target to $60",2020-05-01 09:43:00-04:00,DNKN,positive
+372024.0,"UBS Maintains Neutral on Dunkin Brands Group, Lowers Price Target to $66",2020-05-01 09:06:00-04:00,DNKN,negative
+372025.0,"Morgan Stanley Maintains Equal-Weight on Dunkin Brands Group, Raises Price Target to $56",2020-05-01 08:00:00-04:00,DNKN,neutral
+372026.0,"Wedbush Maintains Neutral on Dunkin Brands Group, Raises Price Target to $63",2020-05-01 06:41:00-04:00,DNKN,neutral
+372027.0,"CFRA Maintains Hold on Dunkin Brands Group, Lowers Price Target to $68",2020-04-30 13:04:00-04:00,DNKN,negative
+372028.0,Dunkin Brands Group Q1 EPS $0.67 Beats $0.62; Revenue $323.1M Beats $311.78M Est,2020-04-30 06:17:00-04:00,DNKN,neutral
+372029.0,"Shares of several restaurant companies are trading higher. Strength potentially in anticipation of Georgia's reopening of businesses, including restaurants.",2020-04-27 12:01:00-04:00,DNKN,positive
+372030.0,"Wells Fargo Maintains Equal-Weight on Dunkin Brands Group, Lowers Price Target to $63",2020-04-27 09:21:00-04:00,DNKN,positive
+372031.0,"Wedbush Maintains Neutral on Dunkin Brands Group, Lowers Price Target to $60",2020-04-24 06:23:00-04:00,DNKN,negative
+372032.0,"Shares of several companies in the restaurant and fast food space are trading higher, potentially following a strong Q1 report from Chipotle and upbeat Q2 guidance from Aramark.",2020-04-22 11:34:00-04:00,DNKN,positive
+372033.0,"Jefferies Maintains Hold on Dunkin Brands Group, Raises Price Target to $60",2020-04-22 10:09:00-04:00,DNKN,neutral
+372034.0,Shares of several restaurant companies are trading higher amid optimistic coronavirus outlook following positive drug data from Gilead. This has raised hopes of a sooner return to spending and economic activity.,2020-04-17 09:55:00-04:00,DNKN,positive
+372035.0,"Shares of several restaurant, fast food and dining companies are trading lower amid continued uncertainty around demand caused by the coronavirus which has significantly decreased consumer spending.",2020-04-13 10:52:00-04:00,DNKN,negative
+372036.0,10 Biggest Price Target Changes For Monday,2020-04-13 08:21:00-04:00,DNKN,neutral
+372037.0,"Credit Suisse Upgrades Dunkin Brands Group to Outperform, Lowers Price Target to $67",2020-04-13 06:41:00-04:00,DNKN,positive
+372038.0,"7 More New Foods We Can't Wait To Try: Dickey's BBQ Family Pack, Dairy Queen Blizzards And More",2020-04-10 13:50:00-04:00,DNKN,neutral
+372039.0,"Shares of several restaurant, fast food and dining companies are trading higher amid positive market sentiment on speculation some coronavirus hotspots could soon level off. A sooner recovery could mean a sooner reopening of restaurants.",2020-04-09 13:00:00-04:00,DNKN,positive
+372040.0,Dunkin Offering Free Delivery with Grubhub Through April 19,2020-04-07 10:00:00-04:00,DNKN,positive
+372041.0,Shares of several restaurant companies are trading higher amid positive market sentiment on optimism of cases potentially leveling off in some hotspots globally. Lower cases could mean a sooner return to store openings and spending by consumers.,2020-04-07 09:22:00-04:00,DNKN,positive
+372042.0,"Piper Sandler Maintains Neutral on Dunkin Brands Group, Lowers Price Target to $52",2020-04-07 09:22:00-04:00,DNKN,negative
+372043.0,"Shares of several restaurant companies are trading higher amid overall market strength. Restaurants have been negatively impacted amid lockdown measures to curb the spread of the coronavirus, though delivery and drive-thru names have remained open.",2020-04-06 12:47:00-04:00,DNKN,positive
+372044.0,"Shares of several restaurant companies are trading lower amid overall market weakness. Restaurants have been negatively impacted amid lockdown measures to curb the spread of the coronavirus, though delivery and drive-thru names have remained open.",2020-04-03 15:15:00-04:00,DNKN,negative
+372045.0,"Cramer Shares His Thoughts On Procter & Gamble, Virgin Galactic And More",2020-04-02 09:28:00-04:00,DNKN,positive
+372046.0,"Morgan Stanley Maintains Equal-Weight on Dunkin Brands Group, Lowers Price Target to $49",2020-03-25 10:06:00-04:00,DNKN,negative
+372047.0,"Shares of several fast food companies are trading higher. The coronavirus outbreak has led to several dine-in restaurants closing, which could be a potential positive catalyst for fast food chains with drive through and delivery options.",2020-03-23 13:30:00-04:00,DNKN,positive
+372048.0,"Dunkin' Brands 8-K Shows All Dunkin' US, Baskin-Robins US, Canada Restaurants To Be Limited To Carry-Out, Drive Thru, Delivery At Select Locations",2020-03-19 16:11:00-04:00,DNKN,negative
+372049.0,Stocks That Hit 52-Week Lows On Thursday,2020-03-19 10:49:00-04:00,DNKN,negative
+372050.0,BTIG On Restaurants: 'Cash Is King',2020-03-18 16:35:00-04:00,DNKN,neutral
+372051.0,BTIG Research Upgrades Dunkin Brands Group to Buy,2020-03-18 10:54:00-04:00,DNKN,neutral
+372052.0,Stocks That Hit 52-Week Lows On Thursday,2020-03-12 12:10:00-04:00,DNKN,negative
+372053.0,Stocks That Hit 52-Week Lows On Friday,2020-03-06 11:22:00-05:00,DNKN,negative
+372054.0,"Beyond Meat CEO Talks Health Claims, Asia And More With Cramer",2020-03-03 09:20:00-05:00,DNKN,neutral
+372055.0,"Dunkin' Says More Than 800 Participating Dunkin' Restaurants Will Now Offer Delivery Through Grubhub & Co's New York-Specific Brand, Seamless",2020-03-02 15:34:00-05:00,DNKN,neutral
+372056.0,Stocks That Hit 52-Week Lows On Friday,2020-02-28 10:16:00-05:00,DNKN,negative
+372057.0,Beyond Meat Facing Increased Competition As Demand Heats Up,2020-02-26 14:10:00-05:00,DNKN,positive
+372058.0,"Benzinga's Top Upgrades, Downgrades For February 19, 2020",2020-02-19 09:47:00-05:00,DNKN,positive
+372059.0,Argus Research Downgrades Dunkin Brands Group to Hold,2020-02-19 07:42:00-05:00,DNKN,neutral
+372060.0,"Wells Fargo Maintains Equal-Weight on Dunkin Brands Group, Lowers Price Target to $71",2020-02-07 08:54:00-05:00,DNKN,positive
+372061.0,"Wedbush Maintains Outperform on Dunkin Brands Group, Lowers Price Target to $88",2020-02-07 08:11:00-05:00,DNKN,negative
+372062.0,"Dunkin' Brands Shutters Half Its China Doughnut, Ice Cream Shops",2020-02-06 14:53:00-05:00,DNKN,neutral
+372063.0,"Dunkin Brands Group Earlier Reported Q4 EPS $0.73 Beats $0.69 Estimate, Sales $335.917M Miss $336.13M Estimate; Sees FY20 Adj. EPS $3.16-$3.21",2020-02-06 07:21:00-05:00,DNKN,negative
+372064.0,Dunkin Brands Group Increases Dividend 7.3% to $0.4025/Share,2020-02-06 06:25:00-05:00,DNKN,neutral
+372065.0,"Earnings Scheduled For February 6, 2020",2020-02-06 04:30:00-05:00,DNKN,neutral
+372066.0,Wendy's Nationwide Breakfast Launch Is Coming Soon,2020-02-05 09:39:00-05:00,DNKN,neutral
+372067.0,"Wells Fargo Maintains Equal-Weight on Dunkin Brands Group, Lowers Price Target to $72",2020-01-23 08:43:00-05:00,DNKN,positive
+372068.0,Guggenheim Incrementally Bullish On Dunkin' Brands,2020-01-21 13:06:00-05:00,DNKN,neutral
+372069.0,"Guggenheim Maintains Buy on Dunkin Brands Group, Raises Price Target to $86",2020-01-21 11:46:00-05:00,DNKN,neutral
+372070.0,Beyond D-O-Double G: Snoop Dogg Brings A Glazed Donut Beyond Meat Sandwich To Dunkin,2020-01-14 09:26:00-05:00,DNKN,neutral
+372071.0,Bernstein Estimates Beyond Meat's 'Blue-Sky' Scenario With McDonald's,2020-01-08 10:01:00-05:00,DNKN,neutral
+372072.0,Restaurant Business Dishes Out What To Look Out For In 2020,2019-12-31 07:32:00-05:00,DNKN,neutral
+372073.0,"Benzinga's Top Upgrades, Downgrades For December 20, 2019",2019-12-20 10:01:00-05:00,DNKN,positive
+372074.0,Guggenheim Securities Upgrades Dunkin Brands Group to Buy,2019-12-20 07:40:00-05:00,DNKN,positive
+372075.0,"Morgan Stanley Maintains Equal-Weight on Dunkin Brands Group, Raises Price Target to $79",2019-12-19 08:15:00-05:00,DNKN,neutral
+372076.0,What Grayscale Had To Say About The Future Of Crypto In Its Latest Investor Presentation,2019-12-18 07:15:00-05:00,DNKN,neutral
+372077.0,Which Restaurant Stocks Is RBC Hungry For?,2019-12-10 15:53:00-05:00,DNKN,neutral
+372078.0,"Benzinga's Top Upgrades, Downgrades For December 10, 2019",2019-12-10 09:47:00-05:00,DNKN,positive
+372079.0,"RBC Capital Initiates Coverage On Dunkin Brands Group with Sector Perform Rating, Announces $79 Price Target",2019-12-10 06:30:00-05:00,DNKN,neutral
+372080.0,Chick-Fil-A Is The Slowest Drive-Thru In America For 2019,2019-12-05 14:50:00-05:00,DNKN,neutral
+372081.0,"'Fast Money Halftime Report' Traders Advise Viewers On Twilio, GE And More",2019-12-03 17:10:00-05:00,DNKN,neutral
+372082.0,"Mastercard, Wynn And More 'Fast Money Halftime Report' Picks From Dec. 3",2019-12-03 16:51:00-05:00,DNKN,neutral
+372083.0,"Eat, Shop, Love...These Black Friday Restaurant Deals",2019-11-27 08:47:00-05:00,DNKN,neutral
+372084.0,Dunkin Brands Group Option Alert: Dec 20 $77.5 Calls Sweep (41) near the Ask: 584 @ $0.5 vs 471 OI; Ref=$75.25,2019-11-26 11:30:00-05:00,DNKN,positive
+372085.0,Dunkin Fans Mourn Loss Of Foam Coffee Cup,2019-11-25 11:18:00-05:00,DNKN,negative
+372086.0,"Citigroup Maintains Buy on Dunkin Brands Group, Lowers Price Target to $88",2019-11-14 09:32:00-05:00,DNKN,negative
+372087.0,"Veterans Day Deals: Businesses Say Thanks With Free Coffee, Pizza, Clothing And Dental Work",2019-11-08 16:35:00-05:00,DNKN,positive
+372088.0,"Dunkin' Announces Plans For 18 New Restaurants, Including Ten Multi-Brand Locations With Baskin-Robbins, In The Houston Area",2019-11-06 08:18:00-05:00,DNKN,neutral
+372089.0,"Credit Suisse Maintains Underperform on Dunkin Brands Group, Raises Price Target to $72",2019-11-01 09:45:00-04:00,DNKN,positive
+372090.0,Starbucks Tops Estimates Growing Traffic For The Second Consecutive Quarter,2019-10-31 11:24:00-04:00,DNKN,positive
+372091.0,"Dunkin Brands Group Q3 Adj. EPS $0.9 Beats $0.81 Estimate, Sales $355.9M Miss $359.03M Estimate; Dunkin' US Comps Up 1.5%, Baskin-Robbins US Comps Up 3.6%",2019-10-31 06:03:00-04:00,DNKN,negative
+372092.0,Beyond Meat Analyst Sees More Downside Ahead,2019-10-24 13:49:00-04:00,DNKN,negative
+372093.0,"'Fast Money Halftime Report Traders' Weigh In On Dunkin, Hasbro And More",2019-10-22 16:10:00-04:00,DNKN,neutral
+372094.0,Dunkin' Press Release Confirms Deal With Beyond Meat For Beyond Sausage Sandwich In 9K+ Dunkin' Restaurants Across US Starting Nov. 6,2019-10-21 10:09:00-04:00,DNKN,neutral
+372095.0,"Beyond Meat's Dunkin' Sandwich To Go Nationwide On Nov. 6, Will Be Available In 9,000+ US Sites",2019-10-21 09:09:00-04:00,DNKN,neutral
+372096.0,'Fast Money Halftime Report' Picks For October 9,2019-10-09 16:46:00-04:00,DNKN,neutral
+372097.0,OTR GLobal Upgrades Dunkin Brands Group to Positive,2019-10-09 09:41:00-04:00,DNKN,positive
+372098.0,Shares of several fast food/casual stocks trading lower following a warning from a JP Morgan analyst that signals into McDonald's checks indicate weaker-than-expected Q3 comps. NOTE: The overall stock market is on a downward trend contributing to the fall in fast food stocks today.,2019-10-01 12:47:00-04:00,DNKN,neutral
+372099.0,UPDATE: New York Attorney General Alleges Dunkin Failed To Undertake Probe Or Notify ~20K Impacted Customers After Being Informed Of Attack,2019-09-26 11:27:00-04:00,DNKN,negative
+372100.0,Dunkin Shares At Session Lows Amid Report New York Attorney General Sued Co. Related To Customer Cyberattack Notification,2019-09-26 11:26:00-04:00,DNKN,positive
+372101.0,Shares of several restaurants and companies in the broader fast food market are trading lower in sympathy with Wendy's after the company issued weak FY19 EPS guidance.,2019-09-10 10:44:00-04:00,DNKN,negative
+372102.0,Stocks That Hit 52-Week Highs On Thursday,2019-09-05 12:29:00-04:00,DNKN,neutral
+372103.0,10 Biggest Price Target Changes For Monday,2019-08-19 09:12:00-04:00,DNKN,neutral
+372104.0,"Citigroup Maintains Buy on Dunkin Brands Group, Lowers Price Target to $95",2019-08-19 07:29:00-04:00,DNKN,negative
+372105.0,Stocks That Hit 52-Week Highs On Friday,2019-08-16 10:35:00-04:00,DNKN,neutral
+372106.0,Stocks That Hit 52-Week Highs On Thursday,2019-08-15 11:17:00-04:00,DNKN,neutral
+372107.0,"Citigroup Maintains Buy on Dunkin Brands Group, Raises Price Target to $102",2019-08-15 09:11:00-04:00,DNKN,neutral
+372108.0,"Benzinga's Top Upgrades, Downgrades For August 7, 2019",2019-08-07 09:48:00-04:00,DNKN,positive
+372109.0,Argus Upgrades Dunkin Brands Group to Buy,2019-08-07 07:43:00-04:00,DNKN,neutral
+372110.0,"Morgan Stanley Maintains Equal-Weight on Dunkin Brands Group, Raises Price Target to $77",2019-08-02 11:25:00-04:00,DNKN,neutral
+372111.0,Dunkin' Brands Reports Q2 Mixed Earnings,2019-08-01 07:25:00-04:00,DNKN,neutral
+372112.0,Dunkin Brands Q2 EPS $0.86 Beats $0.82 Est; Revenue $359.3M Misses $360.68M Est,2019-08-01 06:06:00-04:00,DNKN,negative
+372113.0,"Earnings Scheduled For August 1, 2019",2019-08-01 04:05:00-04:00,DNKN,neutral
+372114.0,"Benzinga's Top Upgrades, Downgrades For July 29, 2019",2019-07-29 09:55:00-04:00,DNKN,positive
+372115.0,"Goldman Sachs Initiates Coverage On Dunkin Brands Group with Neutral Rating, Announces $85 Price Target",2019-07-29 07:19:00-04:00,DNKN,neutral
+372116.0,Beyond Meat Shorts Take Another $100M Hit On Dunkin' Partnership,2019-07-26 14:42:00-04:00,DNKN,neutral
+372117.0,Beyond Meat Partners With Dunkin' For Beyond Sausage In Manhattan,2019-07-24 08:21:00-04:00,DNKN,neutral
+372118.0,UPDATE: Dunkin Will Introduce New Beyond Sausage Breakfast Sandwich In Manhattan,2019-07-24 07:16:00-04:00,DNKN,neutral
+372119.0,Dunkin' Announces Partnership With Beyond Meat,2019-07-24 07:16:00-04:00,DNKN,neutral
+372120.0,"Wells Fargo Maintains Market Perform on Dunkin Brands Group, Raises Price Target to $78",2019-07-15 08:49:00-04:00,DNKN,positive
+372121.0,"JP Morgan Maintains Neutral on Dunkin Brands Group, Lowers Price Target to $73",2019-06-28 07:49:00-04:00,DNKN,positive
+372122.0,"UPDATE: Credit Suisse Initiates Dunkin' Brands With Underperform, $70 Target As Firm Notes Co. 'is trading near peak valuation despite ongoing traffic and SSS challenges and lower development targets'",2019-06-25 09:30:00-04:00,DNKN,positive
+372123.0,"Credit Suisse Initiates Coverage On Dunkin Brands Group with Underperform Rating, Announces $70 Price Target",2019-06-25 07:06:00-04:00,DNKN,positive
+372124.0,Wedbush's Checks With Dunkin Franchisees Points To Bullish Outlook,2019-06-24 12:27:00-04:00,DNKN,neutral
+372125.0,"Benzinga's Top Upgrades, Downgrades For June 24, 2019",2019-06-24 09:50:00-04:00,DNKN,positive
+372126.0,Wedbush Upgrades Dunkin Brands Group to Outperform,2019-06-24 07:07:00-04:00,DNKN,neutral
+372127.0,Cramer Passes On Buying Coffee Stocks — For Now,2019-06-19 11:05:00-04:00,DNKN,neutral
+372128.0,Today's Pickup: Microgrids To Play Key Role In EV Scalability; 3PL Winnowing To Come Not From Digital Disruption,2019-06-17 13:51:00-04:00,DNKN,positive
+372129.0,Dunkin Announces Nationwide Delivery With Grubhub,2019-06-17 09:06:00-04:00,DNKN,neutral
+372130.0,"Benzinga's Top Upgrades, Downgrades For June 12, 2019",2019-06-12 09:07:00-04:00,DNKN,positive
+372131.0,Evercore ISI Group Initiates Coverage On Dunkin Brands Group with In-Line Rating,2019-06-12 07:17:00-04:00,DNKN,neutral
+372132.0,"Dunkin Reaffirms FY19 Adj. EPS $2.94-$2.99 vs $2.98 Estimate, Comps Growth In Low Single Digit Percent Range",2019-05-02 06:05:00-04:00,DNKN,positive
+372133.0,"Dunkin Brands Group Q1 Adj. EPS $0.67 Beats $0.62 Estimate, Sales $319.1M Beat $312.31M Estimate",2019-05-02 06:05:00-04:00,DNKN,neutral
+372134.0,A Preview Of Dunkin Brands Group's Q1 Earnings,2019-05-01 14:41:00-04:00,DNKN,neutral
+372135.0,Maxim Group Downgrades Dunkin Brands Group to Hold,2019-04-22 09:17:00-04:00,DNKN,neutral
+372136.0,Morgan Stanley Passes On Chipotle For Domino's,2019-04-17 09:32:00-04:00,DNKN,neutral
+372137.0,Valuation Concerns Prompt BMO To Downgrade Dunkin' Brands,2019-04-03 11:53:00-04:00,DNKN,neutral
+372138.0,BMO Capital Downgrades Dunkin Brands Group to Market Perform,2019-04-03 07:00:00-04:00,DNKN,neutral
+372139.0,"Benzinga's Top Upgrades, Downgrades For March 26, 2019",2019-03-26 09:18:00-04:00,DNKN,positive
+372140.0,Oppenheimer Initiates Coverage On Dunkin Brands Group with Perform Rating,2019-03-26 08:34:00-04:00,DNKN,neutral
+372141.0,Starbucks Revamps Rewards Program,2019-03-20 11:42:00-04:00,DNKN,positive
+372142.0,Dunkin' Brands Announces Refinancing Transaction,2019-03-12 07:37:00-04:00,DNKN,neutral
+372143.0,"Citigroup Maintains Buy on Dunkin Brands Group, Lowers Price Target to $82",2019-02-14 09:09:00-05:00,DNKN,negative
+372144.0,"Benzinga's Top Upgrades, Downgrades For February 14, 2019",2019-02-14 09:09:00-05:00,DNKN,positive
+372145.0,Argus Downgrades Dunkin Brands Group to Hold,2019-02-14 08:13:00-05:00,DNKN,neutral
+372146.0,The 12 Biggest Earnings Reports From Thursday,2019-02-08 07:35:00-05:00,DNKN,neutral
+372147.0,Dunkin' Sees FY19 Adj. EPS $2.94-$2.99 vs $2.99 Estimate,2019-02-07 06:04:00-05:00,DNKN,neutral
+372148.0,"Dunkin Brands Group Q4 EPS $0.68 Beats $0.61 Estimate, Sales $319.6M Miss $329.99M Estimate",2019-02-07 06:02:00-05:00,DNKN,negative
+372149.0,"Earnings Scheduled For February 7, 2019",2019-02-07 04:01:00-05:00,DNKN,neutral
+372150.0,Starbucks Ramps Up Coffee Delivery,2019-02-06 16:47:00-05:00,DNKN,neutral
+372151.0,"KeyBanc Previews Dunkin Brands Q4 Earnings, Says Coffee Chain Set For EPS Beat",2019-02-04 12:56:00-05:00,DNKN,neutral
+372152.0,'McDonald's reportedly will sell its own version of Dunkin's Donut Fries' -CNBC,2019-01-03 11:10:00-05:00,DNKN,neutral
+372153.0,Dunkin' Brands Announces New Executive Promotions And Appointments,2018-12-18 10:00:00-05:00,DNKN,neutral
+372154.0,"'Fast Money' Picks: AT&T, CME Group, Dunkin Brands, UUP",2018-12-05 09:41:00-05:00,DNKN,neutral
+372155.0,"Stocks Trading Ex Dividend For Fri., Nov. 23, 2018",2018-11-23 09:05:00-05:00,DNKN,neutral
+372156.0,"Stocks That Will Be Trading Ex Dividend Fri., Nov. 23, 2018",2018-11-21 08:38:00-05:00,DNKN,neutral
+372157.0,"Alibaba, Cleveland-Cliffs, Dunkin Grands, JPMorgan Chase: 'Fast Money' Picks For November 14",2018-11-14 07:41:00-05:00,DNKN,neutral
+372158.0,"Jefferies Maintains Hold on Dunkin Brands Group, Raises Price Target to $70",2018-10-26 11:42:00-04:00,DNKN,neutral
+372159.0,"BMO Capital Maintains Outperform on Dunkin Brands Group, Raises Price Target to $81",2018-10-26 10:55:00-04:00,DNKN,neutral
+372160.0,"From Dunkin' Brands Conference Call; CEO Said Q3 Was A Quarter Of Sequential Improvement In Traffic, But Still Not Where We Need To Be",2018-10-25 09:15:00-04:00,DNKN,positive
+372161.0,Dunkin' Brands Group Raises FY18 Adj. EPS Guidance From $2.68-$2.72 To $2.80-$2.82 vs $2.73 Est.,2018-10-25 06:05:00-04:00,DNKN,neutral
+372162.0,"Dunkin' Brands Group, Inc. Q3 Adj. EPS $0.83 Beats $0.73 Estimate, Sales $350M Beat $342.95M Estimate",2018-10-25 06:03:00-04:00,DNKN,neutral
+372163.0,Dunkin' Brands Q3 Earnings Preview,2018-10-24 14:52:00-04:00,DNKN,neutral
+372164.0,"Gordon Haskett Initiates Coverage On Dunkin Brands Group with Hold Rating, Announces $70 Price Target",2018-10-19 13:39:00-04:00,DNKN,neutral
+372165.0,Wells Fargo Raises Restaurant Price Targets Ahead Of Q3 Reports,2018-10-16 14:33:00-04:00,DNKN,positive
+372166.0,Positive Vibes: Bank Results Shift Focus Back To Earnings as Overseas Stocks Rise,2018-10-12 09:56:00-04:00,DNKN,positive
+372167.0,"Barclays Maintains Overweight on Dunkin Brands Group, Raises Price Target to $78",2018-10-09 07:21:00-04:00,DNKN,negative
+372168.0,Who To Choose In Fast Food? KeyBanc Sizes Them Up,2018-10-04 15:07:00-04:00,DNKN,neutral
+372169.0,KeyBanc Initiates Coverage On Dunkin Brands Group with Sector Weight Rating,2018-10-04 06:14:00-04:00,DNKN,neutral
+372170.0,3 Restaurants That Could See Labor Pressure From Amazon's Wage Increase,2018-10-03 10:22:00-04:00,DNKN,neutral
+372171.0,"Dunkin' Reports 5-Year Deal With World Coffee Research For Coffee Sustainability, No Terms Disclosed",2018-09-27 12:01:00-04:00,DNKN,negative
+372172.0,A Dunkin' By Any Other Name: Maxim Raises Stock's Price Target,2018-09-26 15:30:00-04:00,DNKN,neutral
+372173.0,From WW To Dunkin': A Look At Some Of The Biggest Corporate Name Changes,2018-09-26 10:54:00-04:00,DNKN,neutral
+372174.0,Breakfast Brew: IHOP's Pancake-Infused Stout Joins List Of Restaurant-Branded Beers,2018-09-26 10:19:00-04:00,DNKN,positive
+372175.0,10 Biggest Price Target Changes For Wednesday,2018-09-26 09:48:00-04:00,DNKN,neutral
+372176.0,"Maxim Group Maintains Buy on Dunkin Brands Group, Raises Price Target to $83",2018-09-26 08:11:00-04:00,DNKN,neutral
+372177.0,"Benzinga's Top Upgrades, Downgrades For September 14, 2018",2018-09-14 09:25:00-04:00,DNKN,positive
+372178.0,"RBC Downgrades Dunkin Brands On Valuation, Says Coffee Franchise Taking 'Necessary Steps'",2018-09-14 09:22:00-04:00,DNKN,neutral
+372179.0,"RBC Capital Downgrades Dunkin Brands Group to Sector Perform, Maintains $75 Price Target",2018-09-14 07:43:00-04:00,DNKN,neutral
+372180.0,"Stocks Which Set New 52-Week High Yesterday, September 11th",2018-09-12 12:17:00-04:00,DNKN,neutral
+372181.0,"Stocks Which Set New 52-Week High Yesterday, September 5th",2018-09-06 08:48:00-04:00,DNKN,neutral
+372182.0,"Stocks Which Set New 52-Week High Yesterday, September 4th",2018-09-05 10:22:00-04:00,DNKN,neutral
+372183.0,"UPDATE: Baird Maintains Outperform Rating, $80 Price Target On Dunkin' Brands Following Media Speculation Co. Is A Strategic Acquisition Target",2018-09-04 15:30:00-04:00,DNKN,neutral
+372184.0,"Baird On Dunkin' Buyout Speculation: '...while we would hesitate to build a thesis based solely on the potential for a transaction to occur, we do believe ongoing buyout speculation can help to put a floor on valuation metrics...'",2018-09-04 15:29:00-04:00,DNKN,positive
+372185.0,'$DNKN always a crummy short. $HD an electric long that should never have been down. Can only pound the table so much on that one!!' -Tweet From CNBC's Jim Cramer,2018-09-04 15:11:00-04:00,DNKN,neutral
+372186.0,Dunkin' Brands Shares Up 1.5% For Session; Traders Circulating 'Coke's Costa deal is a taste of things to come' -FT,2018-09-04 09:39:00-04:00,DNKN,positive
+372187.0,Dunkin' Donuts Expands Order-Anywhere Accessibility with Amazon Alexa Integration,2018-08-29 11:16:00-04:00,DNKN,positive
+372188.0,"Stocks Trading Ex Dividend For Fri., Aug. 24, 2018",2018-08-24 11:00:00-04:00,DNKN,neutral
+372189.0,"Citigroup Maintains Buy on Dunkin Brands Group, Raises Price Target to $83",2018-08-13 08:55:00-04:00,DNKN,neutral
+372190.0,Dunkin' Stock Is Winning The Coffee War — For Now,2018-07-29 16:57:00-04:00,DNKN,negative
+372191.0,"Morgan Stanley Maintains Equal-Weight on Dunkin Brands Group, Raises Price Target to $73",2018-07-27 11:43:00-04:00,DNKN,neutral
+372192.0,"JP Morgan Maintains Neutral on Dunkin Brands Group, Raises Price Target to $73",2018-07-27 08:01:00-04:00,DNKN,positive
+372193.0,UPDATE: Dunkin Cuts FY18 Adj. EPS Outlook From $2.69-$2.74 To $2.68-$2.72 vs $2.74 Estimate,2018-07-26 06:06:00-04:00,DNKN,negative
+372194.0,Dunkin Cuts FY18 Outlook,2018-07-26 06:04:00-04:00,DNKN,negative
+372195.0,"Dunkin Brands Group Q2 EPS $0.77 Beats $0.74 Estimate, Sales $350.6M Beat $342.83M Estimate",2018-07-26 06:03:00-04:00,DNKN,neutral
+372196.0,Q2 Earnings Preview: Dunkin Brands Group,2018-07-25 15:11:00-04:00,DNKN,neutral
+372197.0,All The Major Executive Departures Of 2018 — So Far,2018-07-23 17:19:00-04:00,DNKN,neutral
+372198.0,Stocks Which Set New 52-Week Highs Friday,2018-07-23 11:08:00-04:00,DNKN,neutral
+372199.0,Stocks Which Set New 52-Week High Yesterday,2018-07-20 09:05:00-04:00,DNKN,neutral
+372200.0,"Chanos On CNBC Says He's Still Short Dunkin' Brands, Is Currently Talking The Co.'s Franchisee Model",2018-07-18 12:53:00-04:00,DNKN,neutral
+372201.0,"Morgan Stanley Maintains Equal-Weight on Dunkin Brands Group, Raises Price Target to $70",2018-07-16 07:32:00-04:00,DNKN,neutral
+372202.0,Dunkin Brands Group Option Alert: Jul 20 $70 Puts Sweep (2) near the Ask: 700 @ $0.575 vs 158 OI; Earnings 7/26 Before Open Ref=$71.31,2018-07-11 14:30:00-04:00,DNKN,positive
+372203.0,What Dunkin Investors Should Know About David Hoffmann,2018-07-11 09:53:00-04:00,DNKN,neutral
+372204.0,Dunkin' Brands Names David Hoffman CEO; Nigel Travis Chair,2018-07-11 08:16:00-04:00,DNKN,neutral
+372205.0,Massachusetts Attorney General Is Leading Multistate Investigation Of Worker 'No-Poach' Agreements At National Fast Food Franchises,2018-07-09 12:37:00-04:00,DNKN,positive
+372206.0,Longbow Research Upgrades Dunkin Brands Group to Neutral,2018-07-09 07:20:00-04:00,DNKN,neutral
+372207.0,"Barron's Picks And Pans: Apple, Mastercard, Sirius XM, Verizon And More",2018-06-30 18:02:00-04:00,DNKN,neutral
+372208.0,"Shares Of Dunkin Donuts Volatile, Hearing Jab Holdings Is Said To Be Raising E$5B Consumer Fund",2018-06-21 11:52:00-04:00,DNKN,positive
+372209.0,Dunkin Brands Group Option Alert: Jul 20 $67.5 Puts at the Bid: 3000 @ $0.95 vs 115 OI; Earnings 7/26 Before Open [est] Ref=$68.65,2018-06-18 10:31:00-04:00,DNKN,positive
+372210.0,Dunkin' Brands Announces a $250M Buyback,2018-05-22 07:00:00-04:00,DNKN,neutral
+372211.0,"Baird Says The Recent Dunkin' Donuts Franchise Disclosure Document Filing Data Was Generally Reassuring, Sees A Favorable Risk/Reward Setup For The Co.'s Shares; Believes Better Top-Line Momentum In Coming Quarters Will Instill Greater Investor Confidence",2018-05-07 10:20:00-04:00,DNKN,positive
+372212.0,Jim Chanos Reveals Short Thesis On A Couple Of Fast-Food Stocks,2018-04-26 09:05:00-04:00,DNKN,neutral
+372213.0,Dunkin' Brands Raises FY18 Outlook: Adj. EPS From $2.40-$2.45 To $2.69-$2.74 vs $2.64 Est.,2018-04-26 06:10:00-04:00,DNKN,neutral
+372214.0,Dunkin' Brands Enters $650M Accelerated Buyback,2018-04-26 06:02:00-04:00,DNKN,neutral
+372215.0,"Dunkin' Brands Q1 EPS $0.62 Beats $0.53 Est., Sales $301.3M Misses $303.1M Est.",2018-04-26 06:02:00-04:00,DNKN,negative
+372216.0,Hearing OTR Global Out Positive On Dunkin Donuts,2018-04-23 09:39:00-04:00,DNKN,positive
+372217.0,"Morgan Stanley: As Refranchising Dies Down, What's Next For Fast Food Restaurants?",2018-03-30 09:40:00-04:00,DNKN,neutral
+372218.0,Dunkin' Donuts Integrates On-the-Go Mobile Ordering With the Google Assistant,2018-03-14 10:00:00-04:00,DNKN,neutral
+372219.0,BMO Analyst Calls For 20% Upside In Dunkin Brands,2018-02-12 09:00:00-05:00,DNKN,neutral
+372220.0,BMO Capital Upgrades Dunkin Brands Group to Outperform,2018-02-12 07:13:00-05:00,DNKN,neutral
+372221.0,5 Biggest Price Target Changes For Friday,2018-02-09 10:13:00-05:00,DNKN,neutral
+372222.0,"Baird Maintains Outperform on Dunkin Brands Group, Lowers price target to $74.00",2018-02-09 09:12:00-05:00,DNKN,negative
+372223.0,"Wells Fargo Maintains Market Perform on Dunkin Brands Group, Lowers price target to $54.00",2018-02-09 07:46:00-05:00,DNKN,positive
+372224.0,"Dunkin' Brands Sees FY18 Adj. EPS $2.40-$2.45 vs $2.89 Est., Comps At Dunkin' Donuts US Up 1%",2018-02-08 07:38:00-05:00,DNKN,neutral
+372225.0,"Dunkin' Brands Offers 3-Year Plan At Investor & Analyst Day, Discusses 5 Initiatives",2018-02-08 07:37:00-05:00,DNKN,neutral
+372226.0,Dunkin' Brands Sees FY18 Adj. EPS $2.40 to $2.45 vs $2.89 Est.,2018-02-08 06:07:00-05:00,DNKN,neutral
+372227.0,"Dunkin' Brands Shares Down ~1.4% Following Q4 Results: Adj. EPS $0.64 vs $0.63 Est., Sales $227.1M vs $220.6M Est.",2018-02-06 08:15:00-05:00,DNKN,positive
+372228.0,Dunkin' Brands Raises Qtr. Dividend From $0.3225 To $0.3475/Share,2018-02-06 06:06:00-05:00,DNKN,neutral
+372229.0,The Week Ahead: IPOs Ramp Up Just As Earnings Season Fades,2018-02-05 13:22:00-05:00,DNKN,neutral
+372230.0,Dr. Pepper Snapple Soars 30% Amid Plans To Merge With Keurig Green Mountain,2018-01-29 08:15:00-05:00,DNKN,neutral
+372231.0,Dunkin Brands Gets An Upgrade Ahead Of Q4 Earnings,2018-01-22 13:47:00-05:00,DNKN,neutral
+372232.0,"Benzinga's Top Upgrades, Downgrades For January 22, 2018",2018-01-22 10:14:00-05:00,DNKN,positive
+372233.0,William Blair Upgrades Dunkin Brands Group to Outperform,2018-01-22 08:05:00-05:00,DNKN,neutral
+372234.0,Dunkin' Brands Is 2018's First Go-Private Rumor; Shares Benefit,2018-01-02 13:48:00-05:00,DNKN,positive
+372235.0,"Maxim Earlier Highlighted Dunkin' Brands As 'We still view DNKN as one of the strongest Quick Service candidates for a potential acquisition'; Maintains Buy Rating, Raised Price Target From $64 To $71",2018-01-02 10:03:00-05:00,DNKN,positive
+372236.0,5 Biggest Price Target Changes For Tuesday,2018-01-02 09:48:00-05:00,DNKN,neutral
+372237.0,"BZ NOTE: Dunkin' Had Been Mention As A Possible Takeover Candidate For JAB Partners At The End Of Oct. '17; On Nov. 8, '17, Dunkin' Shares Responded By Moving Lower When JAB's Panera Purchased Au Bon Pain, A Bakery",2018-01-02 09:40:00-05:00,DNKN,negative
+372238.0,UPDATE: T-Online Germany Article (Translated) 'Billionaire family Reimann seeks lenders for acquisitions' Does Not Specifically Mention Dunkin' Brands,2018-01-02 09:36:00-05:00,DNKN,neutral
+372239.0,"Dunkin' Brands Shares Spike To Session High Of $66.17, Quickly Pullback From Session Highs; Traders Circulating Article From T-Online Germany",2018-01-02 09:34:00-05:00,DNKN,positive
+372240.0,"Benzinga's Top Upgrades, Downgrades For December 22, 2017",2017-12-22 09:59:00-05:00,DNKN,positive
+372241.0,"The Market In 5 Minutes: Bitcoin Tumbles, Papa John Steps Away, Congress Keeps Government Open (For Now)",2017-12-22 09:22:00-05:00,DNKN,neutral
+372242.0,Jefferies Upgrades Dunkin Brands Group to Hold,2017-12-22 06:23:00-05:00,DNKN,neutral
+372243.0,Dunkin Brands Option Alert: Jan 19 $67.5 Calls Above Ask!: 1400 @ $1.051 vs 588 OI; Ref=$65.07,2017-12-21 11:15:00-05:00,DNKN,positive
+372244.0,Credit Suisse Raises Price Target On Dunkin Donuts From $61 To $68 On Tax Reform And Franchisee Same Store Sales Checks Tracking Similar To Recent Quarters,2017-12-21 11:01:00-05:00,DNKN,positive
+372245.0,Are Restaurants Safe From The Amazon Effect?,2017-11-30 12:12:00-05:00,DNKN,positive
+372246.0,Dunkin Brands Holding Business Update Call Today,2017-11-16 09:11:00-05:00,DNKN,neutral
+372247.0,"The Week Ahead For November 13: Conferences, Earnings and IPO Events To Watch",2017-11-13 09:36:00-05:00,DNKN,neutral
+372248.0,Stephens Analyst On Price Action In Dunkin' Following Panera M&A News: 'today's news would push out any supposed deal talks for [Dunkin'] in the near term',2017-11-08 15:49:00-05:00,DNKN,neutral
+372249.0,"BZ NOTE On Dunkin' Move Lower Amid Panera Purchase Of Au Bon Pain: JAB, Which Purchased Panera In Apr. '17, Had Previously Been Rumored As A Possible Suitor For Dunkin'; Move By JAB/Panera Wed. Could Suggest Firm Less Interested In Player Like Dunkin",2017-11-08 15:09:00-05:00,DNKN,positive
+372250.0,"Dunkin' Shares Fall To Session Lows, Down 1.7%, Potentially Following News Panera Purchased Au Bon Pain For Immaterial Amount",2017-11-08 15:03:00-05:00,DNKN,negative
+372251.0,"Wall Street's M&A Chatter From November 1: Dunkin Brands, Novartis, Owens & Minor-Halyard Health",2017-11-02 07:43:00-04:00,DNKN,neutral
+372252.0,"Wall Street's M&A Chatter From October 30: Sprint-T-Mobile, Lennar-CalAtlantic, CenturyLink-Level 3, Dunkin Brands",2017-10-31 07:41:00-04:00,DNKN,neutral
+372253.0,"Hearing Rumor Of JAB Takeover Interest In Dunkin Donuts Is From Street Insider, Citing Sources",2017-10-30 13:52:00-04:00,DNKN,positive
+372254.0,Shares of Dunkin Donuts Volatile Following Options Alert And Subsequent Chatroom Chatter Of JAB Interest In Acquiring Dunkin Donuts,2017-10-30 13:49:00-04:00,DNKN,positive
+372255.0,Dunkin Brands Option Alert: Jan 19 $55 Calls Sweep (27) at the Ask: 1039 @ $2.5 vs 948 OI; Ref=$57.279,2017-10-30 13:46:00-04:00,DNKN,positive
+372256.0,"The Market In 5 Minutes: Big Tech Blows Out Earnings, Trump And The Opioid Epidemic",2017-10-27 09:15:00-04:00,DNKN,neutral
+372257.0,"Benzinga's Top Upgrades, Downgrades For October 27, 2017",2017-10-27 09:11:00-04:00,DNKN,positive
+372258.0,Mizuho Downgrades Dunkin Brands Group to Underperform,2017-10-27 06:50:00-04:00,DNKN,neutral
+372259.0,Dunkin' Brands Reports Q3 Sales $224.2M vs $214.9M Est.,2017-10-26 06:02:00-04:00,DNKN,neutral
+372260.0,Dunkin' Brands Reports Q3 Adj. EPS $0.61 vs $0.63 Est.,2017-10-26 06:01:00-04:00,DNKN,neutral
+372261.0,"Earnings Preview: Food And Beverage Companies McDonald's, Chipotle And Coca-Cola Report This Week",2017-10-23 11:55:00-04:00,DNKN,neutral
+372262.0,11 Places To Eat Free On Your Birthday,2017-09-09 16:11:00-04:00,DNKN,positive
+372263.0,Dunkin' Brands Announces the Recapitalization of Some Subsidiaries,2017-09-05 07:03:00-04:00,DNKN,neutral
+372264.0,"Dunkin' Brands Reports Q2 Adj. EPS $0.64 vs $0.62 Est., Sales $218.5M vs $220.9M Est., Dunkin' US Comps Growth 0.8%, Baskin-Robbins US Comps Down 0.9%",2017-07-27 06:03:00-04:00,DNKN,positive
+372265.0,Stephens' Cheat Sheet For Restaurant Sector's Earnings,2017-07-24 15:01:00-04:00,DNKN,negative
+372266.0,Iwaspoisoned.com May Be Creating Opportunity For Long-Term Restaurant Investors,2017-07-20 09:28:00-04:00,DNKN,positive
+372267.0,"Other Companies With 'iwaspoisioned.com' Food Poisoning Reports Today Include Domino's, Walmart, McDonald's, IHOP; Chipotle Had Similar Move Tues., Co. Closed 3.5% Higher From Session Lows",2017-07-19 09:53:00-04:00,DNKN,negative
+372268.0,"Dunkin' Brands Shares Plunge ~$1.50 As Traders Circulating Alert From Website 'iwaspoisoned.com' (Site Which Broke Chipotle News On Tues.) Related To Co.'s Arlington Heights, Illinois Store",2017-07-19 09:49:00-04:00,DNKN,positive
+372271.0,"Dunkin Brands CEO Nigel Travis At Investor Conf. Says Co. Is Looking At Bolstering On-The-Go Business, Says Competition From McDonald's And Convenience Stores Is Aggressive",2017-06-21 10:58:00-04:00,DNKN,negative
+372272.0,"Mizuho Initiates Coverage On Dunkin Brands Group with Neutral Rating, Announces $56.00 Price Target",2017-06-09 06:04:00-04:00,DNKN,neutral
+372275.0,Dunkin' Donuts Upgraded After Another Earnings Beat,2017-06-06 11:31:00-04:00,DNKN,neutral
+372276.0,"Benzinga's Top Upgrades, Downgrades For June 6, 2017",2017-06-06 09:27:00-04:00,DNKN,positive
+372277.0,"Argus Research Upgrades Dunkin Brands Group to Buy, Announces $68.00",2017-06-06 08:30:00-04:00,DNKN,neutral
+372278.0,Dunkin's CEO Talks Doughnuts And Coffee On National Doughnut Day,2017-06-02 13:39:00-04:00,DNKN,neutral
+372279.0,Watch These 10 Huge Call Purchases In Thursday Trade,2017-06-01 04:47:00-04:00,DNKN,positive
+372280.0,Option Alert: Dunkin Brands Jul 62.5 Calls: 750 @  ASK  $0.35: 758 traded vs 16 OI:  Earnings 7/20 Before Open (est)  $58.47 Ref,2017-05-31 15:21:00-04:00,DNKN,positive
+372281.0,Dunkin' Brands Names Kate Jaspon CFO,2017-05-31 07:32:00-04:00,DNKN,neutral
+372282.0,A Peek Into The Markets: U.S. Stock Futures Rise Ahead Of Jobless Claims Report,2017-05-04 07:06:00-04:00,DNKN,neutral
+372283.0,Dunkin' Brands  Sees FY17 Adj. EPS $2.40-$2.43 vs $2.38 Est.,2017-05-04 06:01:00-04:00,DNKN,neutral
+372284.0,"Dunkin' Brands Reports Q1 Adj. EPS $0.54 vs $0.48 Est., Sales $190.7M vs $192M Est.",2017-05-04 06:00:00-04:00,DNKN,neutral
+372285.0,5 Biggest Price Target Changes For Monday,2017-05-01 09:45:00-04:00,DNKN,neutral
+372286.0,"Benzinga's Top Upgrades, Downgrades For May 1, 2017",2017-05-01 09:25:00-04:00,DNKN,positive
+372287.0,"RBC Capital Upgrades Dunkin Brands Group to Outperform, Raises Price Target to $64.00",2017-05-01 07:43:00-04:00,DNKN,neutral
+372288.0,Hearing Evercore ISI Making Negative Comments on Dunkin' Brands,2017-04-25 10:38:00-04:00,DNKN,negative
+372289.0,"Domestic Fair Trade Label Set To Enrich Local Economies, Expand Retailer Options",2017-04-24 10:50:00-04:00,DNKN,positive
+372290.0,Sell-Side Weighs In On Panera Sale: Surprises And The Lack Of Thereof,2017-04-06 12:15:00-04:00,DNKN,negative
+372291.0,The 5 Biggest Restaurant M&As,2017-04-05 13:44:00-04:00,DNKN,neutral
+372292.0,Dunkin' Donuts Reports Plans For 12 New Restaurants In North Carolina,2017-04-05 08:52:00-04:00,DNKN,neutral
+372293.0,What Do Wall Street Analysts Think Of The Panera Up-For-Sale Report?,2017-04-04 15:48:00-04:00,DNKN,neutral
+372294.0,Watch These 8 Huge Put Purchases In Tuesday Trade,2017-04-04 04:57:00-04:00,DNKN,positive
+372295.0,Benzinga's Option Alert Recap From April 3,2017-04-03 16:27:00-04:00,DNKN,positive
+372296.0,Option Alert: Dunkin Brands Apr 52.5 Puts Sweep: 1983 @  ASK  $0.35: 1993 traded vs 310 OI:  Earnings 4/27 Before Open (est)  $54.51 Ref,2017-04-03 15:37:00-04:00,DNKN,positive
+372297.0,"Benzinga's Top Upgrades, Downgrades For March 29, 2017",2017-03-29 09:29:00-04:00,DNKN,positive
+372298.0,The Market In 5 Minutes,2017-03-29 09:26:00-04:00,DNKN,neutral
+372299.0,A Peek Into The Markets: U.S. Stock Futures Mostly Lower Ahead Of Fed Speakers,2017-03-29 07:52:00-04:00,DNKN,negative
+372300.0,"Goldman Sachs Downgrades Dunkin Brands Group To Sell, Lowers Price Target To $47",2017-03-29 07:20:00-04:00,DNKN,negative
+372301.0,"Dunkin' Brands CFO Paul Carbone To Leave Company, Names Kate Jaspon Interim CFO",2017-03-23 16:30:00-04:00,DNKN,negative
+372302.0,Starbucks Shares Under Pressure Amid Concerning xAd Market Share Data,2017-03-08 15:21:00-05:00,DNKN,positive
+372303.0,Use Any Pullbacks In Restaurant Stocks To Add Exposure: Baird,2017-02-15 15:40:00-05:00,DNKN,neutral
+372304.0,A Calendar Of All The National Food Days You Can Take Advantage Of,2017-02-13 09:07:00-05:00,DNKN,positive
+372305.0,"Dunkin' Brands Reports Q4 Adj. EPS $0.64 vs $0.61 Est., Sales $215.7M vs $215.5M Est.",2017-02-09 06:07:00-05:00,DNKN,neutral
+372306.0,Dunkin' Brands Raises Qtr. Dividend from $0.30 to $0.3225/Share,2017-02-09 06:06:00-05:00,DNKN,neutral
+372307.0,"Earnings Scheduled For February 9, 2017",2017-02-09 04:43:00-05:00,DNKN,neutral
+372308.0,Watch These 5 Huge Put Purchases In Thursday Trade,2017-02-09 04:32:00-05:00,DNKN,positive
+372309.0,Benzinga's Option Alert Recap From February 8,2017-02-08 16:48:00-05:00,DNKN,positive
+372310.0,Option Alert: Dunkin Feb 52.5 Puts: 1500 @  ASK  $1.55: 1872 traded vs 272 OI:  Earnings tmrrw Before Open  $52.05 Ref,2017-02-08 12:00:00-05:00,DNKN,positive
+372311.0,Option Alert: Dunkin  Mar 50.0 Puts Sweep: 879 @  ASK  $1.05: 920 traded vs 264 OI:  Earnings tmrrw Before Open  $52.42 Ref,2017-02-08 10:50:00-05:00,DNKN,positive
+372312.0,Dunkin Brands Vs. Yum Brands: Q4 Restaurant Earnings Face-Off This Week,2017-02-06 14:10:00-05:00,DNKN,neutral
+372313.0,"Q4 Restaurant Review: Wedbush Favors Jack In The Box, Starbucks",2017-01-26 09:24:00-05:00,DNKN,positive
+372314.0,Use Any Further Pullbacks In Restaurant Stocks To Add Exposure,2017-01-18 11:00:00-05:00,DNKN,neutral
+372315.0,Jim Cramer Shares His Thoughts On Dunkin Brands And STMicroelectronics,2017-01-12 06:48:00-05:00,DNKN,positive
+372316.0,"UPDATE: Cleveland on Dunkin' Warns US Comps Under Pressure to End Q4, Sees FY17 Guidance More Cautious Amid Increasing Price, Competitive Concerns",2017-01-11 09:53:00-05:00,DNKN,negative
+372317.0,Cleveland Research Cautious on Dunkin' Brands,2017-01-11 09:52:00-05:00,DNKN,negative
+372318.0,"Cleveland Research Out Cautious On Dunkin Donuts, Sees U.S. Comps Likely Under Pressure And 2017 Outlook Affected By Growing Competitive/Pricing Concerns",2017-01-11 09:06:00-05:00,DNKN,negative
+372319.0,Option Alert: Dunkin Brands  Feb 52.5 Calls Sweep: 550 @  ASK  $1.90: 550 traded vs 153 OI:  Earnings 2/2 Before Open (est)  $52.05 Ref,2017-01-10 09:54:00-05:00,DNKN,positive
+372320.0,"Growth In Caffeine Still Potent, But Potential For Buzz Kills Looms",2017-01-10 09:29:00-05:00,DNKN,negative
+372321.0,Jefferies' Recipe For Restaurant Investing In 2017,2017-01-04 11:43:00-05:00,DNKN,neutral
+372322.0,Jefferies Downgrades Dunkin Brands Group to Underperform,2017-01-04 09:13:00-05:00,DNKN,neutral
+372323.0,RBC's 3 Restaurant Picks For 2017,2016-12-22 13:22:00-05:00,DNKN,neutral
+372324.0,Did You Know That 95% Of Dunkin' Donuts Locations Are In Eastern United States?,2016-12-19 11:51:00-05:00,DNKN,positive
+372325.0,Can You Guess This Chart?,2016-12-19 07:35:00-05:00,DNKN,neutral
+372326.0,"On Investor Slides, Dunkin Donuts Says It Sees 0-2% U.S. Comp. Store Sales Growth, Sees FY16 EPS $2.20-$2.22 vs. Est. $2.22",2016-12-19 07:26:00-05:00,DNKN,positive
+372327.0,Wall Street's M&A Chatter From December 16-18,2016-12-19 07:03:00-05:00,DNKN,neutral
+372328.0,Watch These 7 Huge Call Purchases In Monday Trade,2016-12-19 04:23:00-05:00,DNKN,positive
+372329.0,Dunkin' Brands On Takeover Chatter Tells Benzinga It Does Not Comment On Rumor Or Speculation,2016-12-16 11:56:00-05:00,DNKN,neutral
+372330.0,Option Alert: DNKN Jan17 57.5 Calls Sweep: 703 @  ASK  $1.251: 1781 traded vs 98 OI:  Earnings 2/2 Before Open (est)  $55.58 Ref,2016-12-16 10:31:00-05:00,DNKN,positive
+372331.0,Dunkin' Brands Shares Up ~$1 Over Last Few Mins as Traders Discussing Unconfirmed Takeover Chatter,2016-12-16 10:19:00-05:00,DNKN,positive
+372332.0,"Cowen & Co. Initiates Coverage On Dunkin Brands Group at Market Perform, Announces $55.00 Target",2016-12-13 16:46:00-05:00,DNKN,neutral
+372333.0,Watch These 7 Huge Put Purchases In Tuesday Trade,2016-12-06 03:02:00-05:00,DNKN,positive
+372334.0,"Option Alert: DNKN Jan. $55 Puts Sweep at the Bid: Volume of 2,350 at $2.45 vs Open Interest 155",2016-12-05 12:32:00-05:00,DNKN,positive
+372335.0,Stocks Hitting 52-Week Highs,2016-11-29 10:12:00-05:00,DNKN,neutral
+372336.0,"Cleveland Research Sees Better Comps Momentum For Dunkin Donuts In Q4, 2017 Outlook Seems Solid",2016-11-22 09:07:00-05:00,DNKN,positive
+372337.0,Watch These 5 Huge Put Purchases In Thursday Trade,2016-11-17 02:45:00-05:00,DNKN,positive
+372338.0,"10 Notable Stocks Trading Ex-Dividend Thursday, November 17",2016-11-16 11:32:00-05:00,DNKN,neutral
+372339.0,Option Alert: DNKN Dec16 50.0 Puts Sweep: 1176 @  ASK  $1.15: 3786 traded vs 298 OI:  Earnings 2/2 Before Open (est)  $50.94 Ref,2016-11-16 10:16:00-05:00,DNKN,positive
+372340.0,Watch These 5 Huge Put Purchases In Monday Trade,2016-11-07 04:11:00-05:00,DNKN,positive
+372341.0,Weak Revenues Leave A Hole In The Middle Of Dunkin's Q3 Performance,2016-10-26 15:36:00-04:00,DNKN,negative
+372342.0,"Barron's Picks And Pans: Super Chip Stocks, Time Warner And More",2016-10-22 18:31:00-04:00,DNKN,positive
+372343.0,The List Of Executives Blaming The U.S. Election Grew On Thursday,2016-10-21 09:36:00-04:00,DNKN,negative
+372344.0,Take A Bite Out Of This Fast Food Guide To The Q3 Earnings Season,2016-10-21 08:35:00-04:00,DNKN,neutral
+372345.0,Dunkin Donuts Sees U.S. Comp. Sales Growth Of 0-2% for FY16,2016-10-20 17:04:00-04:00,DNKN,positive
+372346.0,UPDATE: Dunkin Donuts Sees FY 2016 Adj EPS $2.20-$2.22 Vs Est $2.21,2016-10-20 06:24:00-04:00,DNKN,neutral
+372347.0,UPDATE: Dunkin Donuts Sees FY 2016 Revs Up ~2%,2016-10-20 06:22:00-04:00,DNKN,neutral
+372348.0,Dunkin Brands Reports Q3 EPS $0.60 vs $0.59 Est; Revenue $152.425M,2016-10-20 06:03:00-04:00,DNKN,neutral
+372349.0,Option Alert: DNKN Oct16 52.5 Calls Sweep: 540 @  ASK  $0.40: 586 traded vs 380 OI:  Earnings tmrrw Before Market (confirmed)  $50.40 Ref,2016-10-19 10:58:00-04:00,DNKN,positive
+372350.0,Yum Brands Has 30% Upside Following China Divestiture,2016-10-19 08:47:00-04:00,DNKN,neutral
+372351.0,Dunkin' Donuts Dropped Down To Sector Perform At RBC,2016-10-17 10:25:00-04:00,DNKN,neutral
+372352.0,Benzinga's Top Downgrades,2016-10-17 09:17:00-04:00,DNKN,positive
+372353.0,"RBC Capital Downgrades Dunkin' Brands Group, Inc. - Common Stock to Sector Perform",2016-10-17 06:26:00-04:00,DNKN,neutral
+372354.0,"22 Stocks Which Rallied Four Days, Then Sold Off Yesterday",2016-09-28 09:15:00-04:00,DNKN,neutral
+372355.0,Channel Checks Suggest It's Time To Buy The Dunkin Donuts,2016-09-20 10:04:00-04:00,DNKN,neutral
+372356.0,9 Restaurant Stocks Baird Analysts Hunger For,2016-09-07 15:33:00-04:00,DNKN,negative
+372357.0,"10 Notable Stocks Trading Ex-Dividend Thursday, August 18",2016-08-17 13:46:00-04:00,DNKN,neutral
+372358.0,Threat Of Dunkin' Brands Having To Cut Store Growth Strategy 'Looming',2016-08-12 12:57:00-04:00,DNKN,negative
+372359.0,"Dunkin Brands Traders Responding to Longbow Note Reiterating Underperform Rating, $34 Target",2016-08-12 09:45:00-04:00,DNKN,neutral
+372360.0,4 Players Made The Exclusive '99 Club' in Upcoming Madden 2017,2016-08-11 16:03:00-04:00,DNKN,positive
+372361.0,Starbucks + Lyft = Win-Win?,2016-08-10 15:31:00-04:00,DNKN,neutral
+372362.0,Drinking And Driving Takes On New Meaning As Coffee May Be The Next Target For Driving Bans,2016-08-08 18:53:00-04:00,DNKN,neutral
+372363.0,Restaurant Same-Store Sales Guidance Is Broadly Lower,2016-08-08 16:41:00-04:00,DNKN,negative
+372364.0,"Seeing Limited Catalysts, CLSA Downgrades Dunkin' Brands To UnderPerform",2016-07-28 15:30:00-04:00,DNKN,negative
+372365.0,Benzinga's Top Downgrades,2016-07-28 09:08:00-04:00,DNKN,positive
+372366.0,CLSA Downgrades Dunkin Brands Group to Underperform,2016-07-28 06:21:00-04:00,DNKN,neutral
+372367.0,"More Americans Brown-Bagging It, Putting The Squeeze On Food Stocks",2016-07-27 13:44:00-04:00,DNKN,neutral
+372368.0,Dunkin' Brands One-Year Risk-Reward Outlook Remains Attractive,2016-07-22 12:41:00-04:00,DNKN,positive
+372369.0,"Dunkin' Brands Sees Small Improvement, But Goldman Still Sees Risks",2016-07-22 07:44:00-04:00,DNKN,negative
+372370.0,18 Stocks Moving In Thursday's Pre-Market Session,2016-07-21 08:23:00-04:00,DNKN,neutral
+372371.0,Dunkin' Cuts FY16 Sales Growth Target from 4-6% to 3-5% 'as a result of the sale of company-owned stores in Q2 as well as anticipated future sales of company-owned stores in 2016.',2016-07-21 06:19:00-04:00,DNKN,positive
+372372.0,Dunkin' Brands Affirms FY16 Adj. EPS Outlook of $2.20-$2.22 vs $2.21 Est.,2016-07-21 06:11:00-04:00,DNKN,neutral
+372373.0,Dunkin Brands Reports Q2 EPS $0.57 vs $0.56 Est; Revenue $216.3M vs $219.89M	 Est,2016-07-21 06:02:00-04:00,DNKN,neutral
+372374.0,"Goldman Grades America's Restaurants; Recommends Buy On Domino's, Starbucks",2016-07-19 15:05:00-04:00,DNKN,positive
+372375.0,Domino's Gets Goldman's Blessing Heading Into Earnings,2016-07-19 13:12:00-04:00,DNKN,positive
+372376.0,Hearing Cleveland Research Out With Cautious Comments On Dunkin Donuts,2016-06-30 09:34:00-04:00,DNKN,negative
+372377.0,These Restaurant Stocks Could Benefit From Their U.S. Focus Post-Brexit,2016-06-27 16:10:00-04:00,DNKN,positive
+372378.0,Dunkin Donuts Addresses Customer Complaints With New App,2016-06-03 17:19:00-04:00,DNKN,negative
+372379.0,Dunkin Brands Pulling Back on Volume; Traders Attributing to Negative HedgeEye Report,2016-06-02 10:43:00-04:00,DNKN,negative
+372380.0,13G Filing Shows Dunkin Brands Holder Meritage Group LP Holds 5.4% Stake As Of May 24,2016-06-01 16:39:00-04:00,DNKN,neutral
+372381.0,13F From George Soros Shows New Stake In Dunkin Brands,2016-05-16 16:38:00-04:00,DNKN,neutral
+372382.0,Dunkin Brands Shares Rise Almost 1% to $46.55 Following Krispy Kreme Going Private News,2016-05-09 08:21:00-04:00,DNKN,positive
+372383.0,Dunkin Reaffirms FY 2016 Guidance,2016-04-28 06:08:00-04:00,DNKN,neutral
+372384.0,"Dunkin Q1 EPS $0.44 vs $0.43 est, Revenue $189.8M vs $188.0M est",2016-04-28 06:08:00-04:00,DNKN,neutral
+372385.0,"Earnings Scheduled For April 28, 2016",2016-04-28 05:00:00-04:00,DNKN,neutral
+372386.0,Credit Suisse SSS Checks Show Surprise Potential At Dunkin Donuts,2016-04-20 10:30:00-04:00,DNKN,positive
+372387.0,Nomura Initiates Coverage on Dunkin Brands Group at Neutral,2016-04-20 08:39:00-04:00,DNKN,neutral
+372388.0,CLSA Downgrades Dunkin Brands Group to Outperform,2016-04-12 23:51:00-04:00,DNKN,neutral
+372389.0,"Goldman Sachs Says Starbucks Continues To Gain market Share, Says Co K-Cup Trends Accelerating, Sees Dunkin Brands K-Cups Losing Market Share As High Prices Weigh On Volumes",2016-04-05 16:22:00-04:00,DNKN,positive
+372390.0,Benzinga's Top Initiations,2016-04-05 09:36:00-04:00,DNKN,positive
+372391.0,Evercore ISI Group Initiates Coverage on Dunkin Brands Group at Sell,2016-04-05 07:20:00-04:00,DNKN,neutral
+372392.0,Dunkin' Donuts Reports Plans for 29 New Restaurants Throughout California,2016-04-04 09:35:00-04:00,DNKN,neutral
+372393.0,Option Alert: DNKN Apr16 45.0 Puts: 1347 @  ASK  $0.35: 1513 traded vs 5394 OI:  Earnings 4/28  $46.83 Ref,2016-03-30 11:00:00-04:00,DNKN,positive
+372394.0,Dunkin Brands Says CEO Travis's 2015 Compensation Was $5.4M Vs 2014 Compensation of $10.2M,2016-03-28 16:20:00-04:00,DNKN,neutral
+372395.0,Dunkin Upgraded By Vetr Top Raters,2016-03-24 12:35:00-04:00,DNKN,positive
+372396.0,23 Ways To Say 'I'm A Contrarian Investor',2016-03-24 11:49:00-04:00,DNKN,neutral
+372397.0,"The Market In 5 Minutes: Monday, March 7, 2016",2016-03-07 11:36:00-05:00,DNKN,neutral
+372398.0,Dunkin' Shares Tumble Following Guggenheim Downgrade,2016-03-07 11:36:00-05:00,DNKN,positive
+372399.0,Benzinga's Top Downgrades,2016-03-07 08:47:00-05:00,DNKN,positive
+372400.0,"Barron's Picks & Pans: Martin Marietta Materials, Deutsche Bank, Mylan And More",2016-03-07 06:55:00-05:00,DNKN,neutral
+372401.0,Guggenheim Securities Downgrades Dunkin Brands Group to Hold,2016-03-07 06:39:00-05:00,DNKN,positive
+372402.0,Option Alert: DNKN Mar16 45.0 Puts Sweep: 609 @  ASK  $1.10: 2536 traded vs 400 OI: $45.94 Ref,2016-02-25 11:06:00-05:00,DNKN,positive
+372403.0,Option Alert: DNKN Mar16 45.0 Puts Sweep: 1200 @  ASK  $1.05: 1783 traded vs 400 OI: $46.09 Ref,2016-02-25 10:06:00-05:00,DNKN,positive
+372404.0,Option Alert: DNKN Apr16 45.0 Puts Sweep: 700 @  ASK  $1.45: 1171 traded vs 0 OI: $46.22 Ref,2016-02-24 14:41:00-05:00,DNKN,positive
+372405.0,The Winner From Starbucks' New Loyalty Program Is...Dunkin?,2016-02-23 12:43:00-05:00,DNKN,positive
+372406.0,Maxim Expects Dunkin Brands To See Improving Customer Trends Following Starbucks' 'less rewarding' Loyalty Program,2016-02-23 09:31:00-05:00,DNKN,positive
+372407.0,"Credit Suisse Says CMG, MCD, PNRA, And DNKN Are Top Restaurant Picks",2016-02-23 08:32:00-05:00,DNKN,positive
+372408.0,Benzinga's Top Downgrades,2016-02-18 09:20:00-05:00,DNKN,positive
+372409.0,CL King Downgrades Dunkin Brands Group to Neutral,2016-02-18 07:22:00-05:00,DNKN,neutral
+372410.0,"Dunkin' Donuts Accused Of Overcharging Customers, Report Alleges",2016-02-09 10:48:00-05:00,DNKN,negative
+372411.0,Suit Alleges Dunkin' Donuts Stores Overcharged Customers for Sales Tax -NY Post,2016-02-09 04:34:00-05:00,DNKN,neutral
+372412.0,Earnings Recap For February 4,2016-02-04 16:59:00-05:00,DNKN,neutral
+372413.0,"Stephens & Co Encouraged By Dunkin's Q4 Performance, Says Business Model Displays Impressive Earnings Stability",2016-02-04 11:44:00-05:00,DNKN,positive
+372414.0,"Investors Aren't Impressed With Dunkin' Brands Q4 And Guidance, Shares Down 3%",2016-02-04 09:09:00-05:00,DNKN,negative
+372415.0,"From Conf Call: Dunkin Brands Says On-the-Go Ordering, Delivery Being Tested in Some Markets",2016-02-04 08:23:00-05:00,DNKN,neutral
+372416.0,Dunkin Raises Dividend From $0.27 to $0.30/Share,2016-02-04 06:21:00-05:00,DNKN,neutral
+372417.0,"Dunkin Brands Sees FY 2016 EPS $2.17 to $2.19 vs $2.18 est, Revenue $843M to $860M vs $852M est",2016-02-04 06:20:00-05:00,DNKN,neutral
+372418.0,"Dunkin Brands Reports Q4 EPS $0.52 Vs Est $0.50, Sales $203.8M Vs Est $203.31M, US Dunkin Comps Up 1.4%",2016-02-04 06:02:00-05:00,DNKN,neutral
+372419.0,"Earnings Scheduled For February 4, 2016",2016-02-04 04:13:00-05:00,DNKN,neutral
+372420.0,Option Alert: DNKN Feb16 42.5 Calls: 500 @  ASK  $0.85: 1578 traded vs 5620 OI:  Earnings tmrrw Before Open  $40.89 Ref,2016-02-03 11:56:00-05:00,DNKN,positive
+372421.0,"Over 1,000 Stocks On The NYSE Just Hit 52-Week Lows",2016-01-20 13:53:00-05:00,DNKN,negative
+372422.0,Benzinga's Top Downgrades,2016-01-19 09:30:00-05:00,DNKN,positive
+372423.0,William Blair Downgrades Dunkin Brands Group to Market Perform,2016-01-19 08:17:00-05:00,DNKN,neutral
+372424.0,William Blair Downgrades Dunkin Brands Group to Market Perform,2016-01-19 06:26:00-05:00,DNKN,neutral
+372425.0,"McDonald's Spikes Lower, But Wall Street Darling Still Closer To 52-Week High Than 52-Week Low",2016-01-14 11:06:00-05:00,DNKN,positive
+372426.0,Sonic Starts The Quick-Service Earnings Season Off With A...Fizzle,2016-01-06 11:26:00-05:00,DNKN,neutral
+372427.0,Option Alert: DNKN Feb16 42.5 Calls: 1926 @  ASK  $1.05: 2499 traded vs 2290 OI:  Earnings 2/4  $40.31 Ref,2016-01-05 10:23:00-05:00,DNKN,positive
+372428.0,Option Alert: DNKN Feb16 42.5 Calls Sweep: 599 @  ASK  $1.00: 769 traded vs 9 OI:  Earnings 2/4  $40.51 Ref,2016-01-04 15:05:00-05:00,DNKN,positive
+372429.0,"Stocks To Watch For December 29, 2015",2015-12-29 05:19:00-05:00,DNKN,neutral
+372430.0,"Madison Square Garden, Dunkin' Donuts Report Marketing Partnership",2015-12-28 16:04:00-05:00,DNKN,neutral
+372431.0,Option Alert: DNKN Jan16 45.0 Calls Sweep: 638 @  ASK  $0.25: 638 traded vs 5902 OI:  Earnings 2/4  $42.26 Ref,2015-12-24 12:46:00-05:00,DNKN,positive
+372432.0,Option Alert: DNKN Jan16 45.0 Calls Sweep: 1540 @  ASK  $0.50: 1549 traded vs 1032 OI: $42.56 Ref,2015-12-08 15:30:00-05:00,DNKN,positive
+372433.0,40 Big Brands Likely Returning To Argentina With The Government Change,2015-12-08 10:09:00-05:00,DNKN,neutral
+372434.0,"Credit Suisse's Top 10 Consumer Discretionary Stocks: J M Smucker Out, Kellogg In",2015-12-08 08:46:00-05:00,DNKN,positive
+372435.0,Vetr Crowd Loves Starbucks' Stock,2015-12-04 11:41:00-05:00,DNKN,positive
+372436.0,Dunkin Brings Donuts Straight To Your Door,2015-12-01 08:32:00-05:00,DNKN,positive
+372437.0,"Dunkin' Donuts Reports Deal with Franchise Group Berliner III to Develop 14 New Restaurants in St. Louis, Two New Locations in Kansas City",2015-11-30 10:53:00-05:00,DNKN,neutral
+372438.0,"CSLA Upgrades Dunkin Brands, Sees Investor Hopes For McDonald's To Regain Breakfast Market With All-Day Breakfast Menu As Misguided, Says 'it's the same product at different a time'",2015-10-28 09:27:00-04:00,DNKN,positive
+372439.0,"CLSA Upgrades Dunkin Brands Group to Buy, Announces $50.00 PT",2015-10-28 09:22:00-04:00,DNKN,neutral
+372440.0,Tigress Financial Downgrades Dunkin Brands Group to Buy,2015-10-27 15:23:00-04:00,DNKN,neutral
+372441.0,"Dunkin' Downgraded At Piper, Stock Now Worth Only $42 Firm Says",2015-10-23 10:26:00-04:00,DNKN,positive
+372442.0,"Piper Jaffray Downgrades Dunkin Brands Group to Neutral, Lowers to $42.00",2015-10-23 06:44:00-04:00,DNKN,negative
+372443.0,Top 4 Mid-Cap Stocks In The Restaurants Industry With The Highest ROE,2015-10-23 04:46:00-04:00,DNKN,positive
+372444.0,Dunkin Sees FY EPS $1.87 to $1.91 vs $1.90 est,2015-10-22 06:10:00-04:00,DNKN,neutral
+372445.0,"Dunkin Brands Q3 EPS $0.52 vs $0.51 est, Revenue $209.8M vs $204.3M, Announces Several Management Changes",2015-10-22 06:03:00-04:00,DNKN,neutral
+372446.0,"Argus Analyst Cuts Dunkin' Brands To Hold, Cites 'Weaker Outlook'",2015-10-15 10:06:00-04:00,DNKN,negative
+372447.0,Benzinga's Top Downgrades,2015-10-15 09:22:00-04:00,DNKN,positive
+372448.0,"Argus Downgrades Dunkin' Brands To Hold On Weak Outlook, Says Price Hikes Meant To Offset Labor Costs May Hurt Store Traffic And Dampen Comparable Store Sales",2015-10-15 07:36:00-04:00,DNKN,negative
+372449.0,Argus Research Downgrades Dunkin Brands Group to Hold,2015-10-15 07:34:00-04:00,DNKN,neutral
+372450.0,"Credit Suisse's Top 10 Consumer Discretionary Stocks: J M Smucker In, Mondelez Out",2015-10-07 07:05:00-04:00,DNKN,positive
+372451.0,Dunkin's Long-Term Story Remains Intact: Credit Suisse,2015-10-02 12:29:00-04:00,DNKN,positive
+372452.0,CLSA's Jeremy Scott: I'm Upgrading Dunkin' On Valuation,2015-10-02 10:45:00-04:00,DNKN,neutral
+372453.0,Morning Market Losers,2015-10-01 09:56:00-04:00,DNKN,negative
+372454.0,Dunkin' Brands Affirms FY15 Adj. EPS $1.87-$1.91 vs $1.92 Est.,2015-10-01 09:21:00-04:00,DNKN,neutral
+372455.0,Dunkin Brands Spiking Lower To $45,2015-10-01 09:03:00-04:00,DNKN,negative
+372456.0,"UPDATE: Dunkin' Sees FY 2015 EPS $1.87-$1.91 Vs Est $1.92, Sees 1-3% Comp Store Growth, Baskin-Robbins Comps To Grow 1-3%, Dunkin Brands Revs To Grow 6-8%",2015-10-01 09:03:00-04:00,DNKN,positive
+372457.0,Dunkin' Donuts Sees 100 U.S. Store Closings in 2015 and 2016,2015-10-01 09:00:00-04:00,DNKN,neutral
+372458.0,Dunkin' Donuts Sees Q3 U.S. Same-Store Sales Up 1.1%,2015-10-01 08:55:00-04:00,DNKN,neutral
+372459.0,Starbucks Keeps Selling K-Cups By The Boatload,2015-09-16 16:36:00-04:00,DNKN,neutral
+372460.0,Coming To A Menu Near You: A Flurry Of Food Product Launches,2015-09-11 14:48:00-04:00,DNKN,neutral
+372461.0,"Dunkin' Brands Names Michael Shutley Vice President, Federal & State Government Affairs",2015-09-08 09:03:00-04:00,DNKN,neutral
+372462.0,Benzinga's Top Initiations,2015-08-28 09:33:00-04:00,DNKN,positive
+372463.0,"Maxim Group Initiates Coverage on Dunkin Brands Group at Buy, Announces $61.00 PT",2015-08-28 06:27:00-04:00,DNKN,neutral
+372464.0,Credit Suisse's Top 10 Consumer Discretionary Stocks,2015-08-12 12:52:00-04:00,DNKN,positive
+372465.0,Americans Are Dining Out More: Here's How To Play The Trend,2015-07-27 12:19:00-04:00,DNKN,positive
+372466.0,"Dunkin' Donuts US Q2 Comps Growth 2.9%, Baskin-Robbins US Comps Up 3.4%",2015-07-23 06:02:00-04:00,DNKN,positive
+372467.0,"Dunkin' Sees FY15 Adj. EPS $1.87-$1.91 vs $1.91 Est., Dunkin' Donuts US, Baskin-Robbins US Comps Growth 1-3%",2015-07-23 06:02:00-04:00,DNKN,positive
+372468.0,Benzinga's Top Downgrades,2015-07-20 09:27:00-04:00,DNKN,positive
+372469.0,Dunkin' Donuts Announces Plans For 26 New Restaurants In Fresno And San Francisco,2015-07-20 09:03:00-04:00,DNKN,neutral
+372470.0,CLSA Downgrades Dunkin Brands Group to Underperform,2015-07-20 06:41:00-04:00,DNKN,neutral
+372471.0,"BTIG Initiates Coverage Of 15 Restaurant Stocks; Prefers Chipotle, Starbucks, B-Dubs Over McDonald's, Yum & Others",2015-07-15 17:48:00-04:00,DNKN,neutral
+372472.0,Barclays Predicts Restaurant Rebound,2015-07-13 13:18:00-04:00,DNKN,neutral
+372473.0,"Barclays Previews US Restaurants Into Q2 Results: Sees Outperformance 'Once Again' Prevailing; Highlights Favorites Into 2H as Panera, Dunkin, Bloomin Brands",2015-07-13 09:30:00-04:00,DNKN,positive
+372474.0,"Goldman Searching For Alpha In Restaurants: Downgrades Shake Shack & Dunkin Brands, Upgrades Panera",2015-07-09 12:35:00-04:00,DNKN,negative
+372475.0,Benzinga's Top Downgrades,2015-07-09 09:26:00-04:00,DNKN,positive
+372476.0,"Goldman Sachs Downgrades Dunkin Brands Group to Neutral, Maintains $55.00 PT",2015-07-09 06:12:00-04:00,DNKN,neutral
+372477.0,Top 4 NASDAQ Stocks In The Restaurants Industry With The Highest ROE,2015-07-09 04:35:00-04:00,DNKN,positive
+372478.0,"Dunkin Shares Trading Up 0.8% Monday; Credit Suisse Earlier Highlighted Stock as a Top Pick for 2H'15, Believes Q2-Q4 Comps Forecasts 'Could Prove Conservative'",2015-06-22 11:13:00-04:00,DNKN,positive
+372479.0,Digging Into Credit Suisse's Global Focus List,2015-06-05 15:43:00-04:00,DNKN,positive
+372480.0,UBS Evidence Lab Digs Into Dunkin Brands,2015-05-28 09:18:00-04:00,DNKN,neutral
+372481.0,Dunkin' Donuts K-Cup® Pods Now Available In Retail Outlets Nationwide,2015-05-27 16:01:00-04:00,DNKN,neutral
+372482.0,Limited Services Restaurants Trending In The Right Direction,2015-05-06 11:53:00-04:00,DNKN,negative
+372483.0,"UPDATE: Dunkin' Brands Will Replace Riverbed in MidCap 400, Walker & Dunlop to Replace Entropic",2015-04-23 17:17:00-04:00,DNKN,neutral
+372484.0,"Standard & Poor's Announces Dunkin' Brands to Join S&P MidCap 400, Walker & Dunlop to Join SmallCap 600",2015-04-23 17:16:00-04:00,DNKN,positive
+372485.0,Dunkin's CEO Says It's Difficult For McDonald's To Do All-Day Breakfast,2015-04-23 16:17:00-04:00,DNKN,negative
+372486.0,Stocks Hitting 52-Week Highs,2015-04-23 10:17:00-04:00,DNKN,neutral
+372487.0,Morning Market Gainers,2015-04-23 09:46:00-04:00,DNKN,neutral
+372488.0,Benzinga's Top #PreMarket Gainers,2015-04-23 08:20:00-04:00,DNKN,positive
+372489.0,"Dunkin Brands Shares +4.7% Premarket on Earnings Beat, Positive Guidance",2015-04-23 06:54:00-04:00,DNKN,positive
+372490.0,Dunkin Brands Beats Q1 Expectations,2015-04-23 06:49:00-04:00,DNKN,neutral
+372491.0,"Dunkin Expects FY EPS $1.87 to $1.91, $1.86 est",2015-04-23 06:21:00-04:00,DNKN,neutral
+372492.0,"Dunkin' Brands President, Global Marketing And Innovation, John Costello, to Retire in 2016",2015-04-23 06:07:00-04:00,DNKN,positive
+372493.0,"Dunkin Q1 EPS $0.40 vs $0.35 est, Revenue $185.9M vs $180.7M est",2015-04-23 06:02:00-04:00,DNKN,neutral
+372494.0,"Earnings Scheduled For April 23, 2015",2015-04-23 04:03:00-04:00,DNKN,neutral
+372495.0,Here's Why BJ's Restaurants Is Wedbush's Top Pick For Q1,2015-04-17 12:41:00-04:00,DNKN,positive
+372496.0,"BMO Says Dunkin' 'Not A Slam Dunk,' Won't Outperform Market",2015-04-16 10:28:00-04:00,DNKN,positive
+372497.0,"BMO Capital Initiates Coverage on Dunkin Brands Group at Market Perform, Announces $52.00 PT",2015-04-15 17:31:00-04:00,DNKN,neutral
+372498.0,"Guggenheim Securities Initiates Coverage on Dunkin Brands Group at Buy, Announces $53.00 PT",2015-04-15 16:35:00-04:00,DNKN,positive
+372499.0,Option Alert: Dunkin Brands May $52.5 Call; 1048 Contract Trade at Ask @$0.50; Now $49.37,2015-04-13 10:27:00-04:00,DNKN,positive
+372500.0,Will Quick Service Restaurants Success Last?,2015-04-13 10:12:00-04:00,DNKN,positive
+372501.0,A Little-Known Apple Pay Competitor Is Coming,2015-04-08 11:52:00-04:00,DNKN,negative
+372502.0,Is Dunkin' Donuts Playing Catch-Up With K-Cups?,2015-04-07 12:55:00-04:00,DNKN,positive
+372503.0,Dunkin' Donuts To Open Seven New Restaurants In Illinois,2015-04-06 09:04:00-04:00,DNKN,neutral
+372504.0,Clash Of The Coffee Titans: Starbucks Versus Dunkin,2015-04-02 15:17:00-04:00,DNKN,neutral
+372505.0,Dunkin' Donuts Makes K-Cup Pods Available For Sale Online For First Time,2015-04-02 10:01:00-04:00,DNKN,neutral
+372506.0,Which State Has The Best Consumers For Restaurants?,2015-03-24 14:15:00-04:00,DNKN,positive
+372507.0,Dunkin Brands Promotes Jack Clare TO Chief Information And Strategy Officer,2015-03-24 09:02:00-04:00,DNKN,positive
+372508.0,Option Alert: Dunkin Brands May $52.5 Call; 1134 Contract Trade at Ask @$0.55; Now $48.11,2015-03-18 10:14:00-04:00,DNKN,positive
+372509.0,The Axis Of The Restaurant Sector Just Shifted (Thanks To Credit Suisse),2015-03-11 12:58:00-04:00,DNKN,positive
+372511.0,CNBC's Stock Pops & Drops From March 5,2015-03-06 06:51:00-05:00,DNKN,neutral
+372512.0,Benzinga's Top Upgrades,2015-03-05 08:25:00-05:00,DNKN,positive
+372513.0,Goldman Sachs Upgrades Dunkin Brands Group To Buy,2015-03-05 08:18:00-05:00,DNKN,neutral
+372514.0,"Goldman Sachs Upgrades Dunkin Brands Group to Buy, Raises PT to $54.00",2015-03-05 06:19:00-05:00,DNKN,neutral
+372515.0,"UBS Initiates Coverage on Dunkin Brands Group at Neutral, Announces $49.00 PT",2015-03-03 07:14:00-05:00,DNKN,neutral
+372516.0,7 Brands Banking On 'House Of Cards' And Netflix This Weekend,2015-02-26 16:57:00-05:00,DNKN,neutral
+372517.0,Dunkin Brands CEO: K-Cups Deal Won't Cannibalize Dunkin' Donuts,2015-02-26 14:05:00-05:00,DNKN,neutral
+372518.0,Starbucks Makes Getting Your Caffeine Fix Even Easier,2015-02-18 10:42:00-05:00,DNKN,positive
+372519.0,Dunkin' Donuts Signs Development Agreements To Open 46 New Restaurants In Indiana,2015-02-18 09:20:00-05:00,DNKN,positive
+372520.0,"Dunkin Brands: After 'Lukewarm' Guidance, Sozzi Talks About The 'Cronut' With CFO Paul Carbone",2015-02-06 12:31:00-05:00,DNKN,neutral
+372521.0,Dunkin Brands CEO: 'Millennials Like Our Products',2015-02-06 07:50:00-05:00,DNKN,positive
+372522.0,Dunkin Brands 8-K Filing Shows Accelerated Buyback Plan With Goldman Sachs,2015-02-06 06:06:00-05:00,DNKN,neutral
+372523.0,UPDATE: Dunkin' Brands Q4 Profit Misses Expectations,2015-02-05 07:23:00-05:00,DNKN,positive
+372524.0,"Dunkin Brands Reports Q4 EPS $0.50 vs Est $0.47, Sales $193.2M Vs Est $191.37M",2015-02-05 06:02:00-05:00,DNKN,neutral
+372525.0,"Earnings Scheduled For February 5, 2015",2015-02-05 05:05:00-05:00,DNKN,neutral
+372526.0,4 Stocks That Could Be Hurt By 'Winter Storm Juno',2015-01-26 16:23:00-05:00,DNKN,negative
+372527.0,"Dunkin' Brands Reports Closing of $2.6B Securitization Refinancing; Announces $700M Buyback Plan; Co. Expecting FY Adj. EPS $1.83-$1.87, Had Previously Guided in $1.88-$1.91 Range",2015-01-26 16:18:00-05:00,DNKN,positive
+372528.0,Benzinga's Top Downgrades,2015-01-22 09:05:00-05:00,DNKN,positive
+372529.0,Wells Fargo Turns Negative On Dunkin' Brands,2015-01-22 08:52:00-05:00,DNKN,negative
+372530.0,Wells Fargo Downgrades Dunkin Brands Group To  Market Perform,2015-01-22 08:13:00-05:00,DNKN,positive
+372531.0,Wells Fargo Downgrades Dunkin Brands Group to Market Perform,2015-01-22 06:15:00-05:00,DNKN,positive
+372532.0,Cleveland Research Downgrades Dunkin Brands Group to Neutral,2015-01-14 09:40:00-05:00,DNKN,neutral
+372533.0,Fast Money Halftime Report Final Trade From January 13,2015-01-13 19:44:00-05:00,DNKN,neutral
+372534.0,"Option Alert: Dunkin Brands Mar $47.5 Call; 11,791 Contracts Traded vs 3,327 OI; Currently $45.30",2015-01-13 10:10:00-05:00,DNKN,positive
+372535.0,"Miller Tabak: Dunkin Brands Top Pick For 2015, Shares Poised To Rise",2015-01-12 11:04:00-05:00,DNKN,positive
+372536.0,From Webcast: Dunkin' Sees Significant Long Term Expansion; Sees FY2015 Comparable U.S. Sales up 1-3%; Sees Comps 3-4% In Coming Years',2015-01-12 10:27:00-05:00,DNKN,positive
+372537.0,Dunkin Brands ICR Webcast Begins,2015-01-12 10:04:00-05:00,DNKN,neutral
+372538.0,"UPDATE: Dunkin Brands Group Sees FY2015 EPS $1.88-1.91; Reports Q4 US Same-Store Sales Growth 1.4% at Dunkin' Donuts, Comps Growth 9.3% at Baskin Robins",2015-01-12 08:43:00-05:00,DNKN,positive
+372539.0,"Dunkin Brands Expects to Open 410-440 Dunkin' Donuts Locations, 5-10 Net Baskin-Robbins Sites in 2015",2015-01-12 06:08:00-05:00,DNKN,neutral
+372540.0,"Rambo's Reads For January 11, 2015",2015-01-11 19:10:00-05:00,DNKN,neutral
+372541.0,"Dunkin Donunts Announces More than 1,400 Restaurants to be Developed in China",2015-01-08 09:02:00-05:00,DNKN,neutral
+372542.0,Top 4 NASDAQ Stocks In The Restaurants Industry With The Highest Gross Margin,2015-01-08 05:05:00-05:00,DNKN,negative
+372543.0,Dunkin' Brands Announces Intention to Refinance  Existing Long-Term Debt Through A Securitization,2015-01-06 17:01:00-05:00,DNKN,negative
+372544.0,"Dunkin' Reports Donuts Entry Into Mexico, Announces Franchise Deal with Unit of Sizzling Platter for 100+ Restaurants Over Coming Years",2015-01-05 11:06:00-05:00,DNKN,neutral
+372545.0,Fast Money Halftime Report Final Trade From December 18,2014-12-19 07:18:00-05:00,DNKN,neutral
+372546.0,Mid-Day Market Update: Oracle Jumps On Upbeat Earnings; Silicon Image Shares Decline,2014-12-18 12:39:00-05:00,DNKN,positive
+372547.0,Mid-Morning Market Update: Markets Surge; Rite Aid Profit Beats Expectations,2014-12-18 10:50:00-05:00,DNKN,positive
+372548.0,4 Stocks With Major Social Momentum On Thursday,2014-12-18 10:35:00-05:00,DNKN,neutral
+372549.0,Morning Market Losers,2014-12-18 09:49:00-05:00,DNKN,negative
+372550.0,Benzinga's Top #PreMarket Losers,2014-12-18 08:19:00-05:00,DNKN,negative
+372551.0,"Dunkin Brands Announces 2015 Guidance, Expectations; Shares Plummet",2014-12-18 08:16:00-05:00,DNKN,positive
+372552.0,Dunkin Brands Group Sees FY2015 EPS $1.88-1.91 vs $2.02 Est,2014-12-18 07:05:00-05:00,DNKN,neutral
+372553.0,Dunkin Brands Group Sees FY2014 EPS $1.75-1.76 vs $1.76 Est,2014-12-18 07:05:00-05:00,DNKN,neutral
+372554.0,Dunkin Donuts To Add 410-440 New Stores In Fiscal year,2014-12-18 07:02:00-05:00,DNKN,neutral
+372555.0,"Option Alert: Dunkin Brands Jan $50 Call; 4,246 Contract Trade at Ask @$0.45; Currently $46.34",2014-12-15 12:04:00-05:00,DNKN,positive
+372556.0,Goldman Sachs Just Resumed Coverage On These Restaurant Stocks,2014-12-08 09:56:00-05:00,DNKN,neutral
+372557.0,The 'Fight For 15' Minimum Wage Movement Just Took A New Turn,2014-12-05 09:37:00-05:00,DNKN,negative
+372558.0,"UPDATE: Plans for 250+ Dunkin' Donuts Restaurants in California over Next Several Years, 1,000+ Locations Long-Term",2014-11-24 12:33:00-05:00,DNKN,neutral
+372559.0,"Dunkin' Donuts Announces Plans for 63 New Restaurants In Greater San Francisco Bay Area, Palm Springs, Bakersfield",2014-11-24 12:32:00-05:00,DNKN,positive
+372560.0,"Dunkin' Donuts Announces Plans For 7 New Restaurants In Phoenix, Arizona",2014-11-17 10:32:00-05:00,DNKN,neutral
+372561.0,Shares of Dunkin' Brands Charged Off Session Lows This Morning Following Mid-Day New Strong Buy Rating from Tigress Financial,2014-11-14 15:35:00-05:00,DNKN,positive
+372562.0,Mike Khouw Sees Unusual Options Activity In Dunkin Brands,2014-11-13 08:02:00-05:00,DNKN,neutral
+372563.0,"Fast Money Halftime Report Final Trade From November 12: Twitter, Dunkin Brands, Gilead Sciences",2014-11-12 15:58:00-05:00,DNKN,neutral
+372564.0,Dunkin' Donuts Announces Plans For 7 New Restaurants In Louisville ,2014-11-04 11:38:00-05:00,DNKN,neutral
+372565.0,"Markets Boosted From Strong Earnings Releases, Jobless Benefits",2014-10-23 17:14:00-04:00,DNKN,positive
+372566.0,Morning Market Losers ,2014-10-23 09:55:00-04:00,DNKN,negative
+372567.0,Dunkin Brands Shares Spike Down; Miller Tabak Sees Strong EPS Growth,2014-10-23 09:38:00-04:00,DNKN,positive
+372568.0,Benzinga's Top #PreMarket Losers,2014-10-23 08:14:00-04:00,DNKN,negative
+372569.0,"From Dunkin' Brands Earnings Conference Call: FY EPS Outlook Reiterated at $1.73-$1.77, Q3 Traffic Positive",2014-10-23 08:11:00-04:00,DNKN,positive
+372570.0,"Dunkin' Brands GroUp, Inc. Reports Q3 EPS of $0.49 vs $0.47 Est; Revenue of $192.60M vs $196.92M Est",2014-10-23 06:01:00-04:00,DNKN,neutral
+372571.0,How 5 Fast Food Companies Let You Order Ahead With An App,2014-10-22 16:48:00-04:00,DNKN,neutral
+372572.0,Benzinga Weekly Preview: Earnings Season Is In Full Swing,2014-10-19 10:19:00-04:00,DNKN,neutral
+372573.0,"Option Alert: Dunkin Brands Nov $47.5 Call; 1,410 Contract Trade at Ask @$0.60; Currently $45.06",2014-10-09 12:41:00-04:00,DNKN,positive
+372574.0,"Dow Suffers Largest Daily Decline Since July, S&P 500 At 8-Week Lows On Global Growth Concerns",2014-10-07 16:52:00-04:00,DNKN,negative
+372575.0,Benzinga's Top Downgrades,2014-10-07 09:13:00-04:00,DNKN,positive
+372576.0,Jefferies Downgrades Dunkin' Brands To Hold,2014-10-07 08:16:00-04:00,DNKN,neutral
+372577.0,"Jefferies Downgrades Dunkin' Brands Group, Inc. to Hold, Lowers PT to $47.00",2014-10-07 06:14:00-04:00,DNKN,negative
+372578.0,"Under Armour Inc, The Walt Disney Company - Fast Money Traders Share Their Trades For Autumn",2014-09-23 20:13:00-04:00,DNKN,positive
+372579.0,UPDATE: Morgan Stanley Reiterates On Dunkin Brands Group Inc Following Analyst Day,2014-09-18 09:05:00-04:00,DNKN,neutral
+372580.0,From Dunkin' Brands Analyst Day: Sees FY2014 EPS $1.73-1.77 vs $1.76 Est,2014-09-17 09:33:00-04:00,DNKN,neutral
+372581.0,UPDATE: Dunkin' Brands Expecting Comps Growth in 2-2.25% Range at Dunkin' Donuts,2014-09-17 09:10:00-04:00,DNKN,positive
+372582.0,8-K from Dunkin' Brands Ahead of Investor Day: Expecting Long-Term Adj. EPS Growth 15+%/Year,2014-09-17 09:10:00-04:00,DNKN,positive
+372583.0,Fast Money Halftime Report Final Trade From September 2,2014-09-02 14:06:00-04:00,DNKN,neutral
+372584.0,"Dunkin' Donuts Announces Planning to Open 200 Sites in California Over Next Few Years, Will Open Over 1K Operations in California Over the Long Term",2014-09-02 08:02:00-04:00,DNKN,neutral
+372585.0,Markets Mostly Higher Despite Initial Negative Reaction From FOMC Minutes,2014-08-20 17:31:00-04:00,DNKN,positive
+372586.0,Barclays: Dunkin' Brands Attractive Following Pullback,2014-08-20 13:02:00-04:00,DNKN,positive
+372587.0,"Barclays Upgrades Dunkin' Brands Group, Inc. to Overweight, Raises PT to $51.00",2014-08-20 06:39:00-04:00,DNKN,negative
+372588.0,"Dow Flirts With 19,000, S&P 500 Approaches 2,000 & NASDAQ Trading At 14-Year Highs ",2014-08-19 16:35:00-04:00,DNKN,positive
+372589.0,Dunkin' Brands Shares Up ~1.5% as Cleveland Research Earlier Initiated Coverage with Buy Rating,2014-08-19 10:45:00-04:00,DNKN,positive
+372590.0,Dow Suffers 300 Point Drop; S&P 500 And NASDAQ Also Tumble,2014-07-31 16:49:00-04:00,DNKN,negative
+372591.0,Markets Steady Despite Mixed Economic Data,2014-07-24 16:42:00-04:00,DNKN,neutral
+372592.0,Thursday Morning Earnings Reports,2014-07-24 12:14:00-04:00,DNKN,neutral
+372593.0,Dunkin' Brands Sees FY 2014 US SSS Growth of 2-3% vs Prior View of 3-4 % ,2014-07-24 06:26:00-04:00,DNKN,positive
+372594.0,"Dunkin' Brands GroUp, Inc. Reports Mar 28 EPS of $0.47, Inline; Revenue of $190.90M vs $198.54M Est",2014-07-24 06:01:00-04:00,DNKN,neutral
+372595.0,"Dunkin' Brands GroUp, Inc. Reports Mar 28 EPS of $0.47, Inline; Revenue of $(aN) vs $198.54M Est",2014-07-24 06:01:00-04:00,DNKN,neutral
+372596.0,Investors Focus On Earnings Rather Than Geopolitical Tensions,2014-07-18 18:08:00-04:00,DNKN,negative
+372597.0,Benzinga's Top Downgrades,2014-07-18 09:28:00-04:00,DNKN,positive
+372598.0,"Janney Capital Downgrades Dunkin' Brands To Neutral, Shares Drop",2014-07-18 08:36:00-04:00,DNKN,neutral
+372599.0,"Janney Capital Downgrades Dunkin' Brands Group, Inc. to Neutral, Lowers PT to $45.00",2014-07-18 06:47:00-04:00,DNKN,negative
+372600.0,"Dunkin Brands, in Response to Stock, Option Activity Today, Pointed to Upcoming Q2 2014 Earnings Call om Thursday, July 24th at 8:00 AM ET",2014-07-17 16:21:00-04:00,DNKN,neutral
+372601.0,"UPDATE: Dunkin Brands Shares Spike to Highs, Following Activity in Jan $47.5 Call",2014-07-17 15:11:00-04:00,DNKN,positive
+372602.0,"Option Alert: Dunkin Brands Jan $47.5 Call; 5,060 Contracts Traded vs 590 OI; Currently $43.47",2014-07-17 14:56:00-04:00,DNKN,positive
+372603.0,"UPDATE: Dunkin' Aiming for 410 US Stores in 2014, 685-800 Net New Stores Globally",2014-06-18 11:36:00-04:00,DNKN,neutral
+372604.0,Dunkin' Exec Begins Presentation at Jefferies' Global Consumer Conference: Expecting 15K US Stores Over the Long Term,2014-06-18 11:34:00-04:00,DNKN,neutral
+372605.0,4 Top Restaurant Stocks For The Rest Of 2014,2014-06-16 07:47:00-04:00,DNKN,positive
+372606.0,"Following Earlier Dunkin' Release Disclosing New Locations in CA, Bloomberg Reporting Spokesperson Has Said Mgmt Will Recommend Modest Price Increases Over This Year",2014-06-10 10:27:00-04:00,DNKN,positive
+372607.0,Dunkin Brands CEO Travis: 'You Will See Coffee Prices Go Up',2014-06-05 18:23:00-04:00,DNKN,neutral
+372608.0,Dunkin Brands CEO Travis: 'We have a Brand-New Sandwich Station',2014-06-05 18:19:00-04:00,DNKN,neutral
+372609.0,Dunkin Brands CEO Travis: ''We are Enthusiastic About Our West Coast Expansion',2014-06-05 18:18:00-04:00,DNKN,positive
+372610.0,Jim Cramer Interviews CEO Nigel Travis of Dunkin Brands on Mad Money ,2014-06-05 18:17:00-04:00,DNKN,negative
+372611.0,How To Avoid Wall Street Groupthink,2014-05-27 10:24:00-04:00,DNKN,negative
+372612.0,Dunkin' Donuts Announces Year-Long Deal with The USO of Metropolitan NY,2014-05-22 11:58:00-04:00,DNKN,neutral
+372613.0,Dunkin Brands Announces Irene Change Britt To Join Board,2014-05-19 16:05:00-04:00,DNKN,positive
+372614.0,Dunkin Donuts to Enter Sweeden,2014-05-15 09:06:00-04:00,DNKN,neutral
+372615.0,Market Wrap For April 29: Dow Approaches Record Highs Despite Ongoing Ukraine Tension and Upcoming Fed Meeting ,2014-04-29 16:43:00-04:00,DNKN,positive
+372616.0,Belus Capital's Brian Sozzi: Nike Should Take Hints From Under Armour,2014-04-24 17:04:00-04:00,DNKN,neutral
+372617.0,Market Wrap For April 24: Apple's Smashing Earnings Overshadowed By Ukraine Concerns,2014-04-24 16:41:00-04:00,DNKN,neutral
+372618.0,Coffee Won't Keep Dunkin' Shareholders Warm: Shares Dip Following Disappointing Results,2014-04-24 15:14:00-04:00,DNKN,neutral
+372619.0,Dunkin' Brands Sees FY2014 Adjusted EPS $1.79-1.83 vs $1.82 Est,2014-04-24 06:38:00-04:00,DNKN,neutral
+372620.0,Dunkin Brands Q! SSS +1.2%,2014-04-24 06:11:00-04:00,DNKN,neutral
+372621.0,Dunkin' Brands Reports Q1 Adjusted EPS of $0.33 vs $0.36 Est,2014-04-24 06:03:00-04:00,DNKN,neutral
+372622.0,"Dunkin Donuts to Open 20 New Restaurants in South Orange County, San Fernando Valley",2014-04-23 07:18:00-04:00,DNKN,neutral
+372623.0,Benzinga  Weekly Preview: Earnings Season Kicks Into High Gear,2014-04-18 17:30:00-04:00,DNKN,neutral
+372624.0,"Dunkin' Brands to Announce Q1 2014 Results on Thursday, April 24, 2014 Before the Market Open",2014-04-10 06:15:00-04:00,DNKN,neutral
+372625.0,Dunkin' Brands Announces Dunkin' Donuts Has Signed a Deal with OLH Group in Brazil,2014-03-20 14:00:00-04:00,DNKN,neutral
+372626.0,"Pete Najarian tweets: 'On @HalftimeReport DNKN is the name that makes no sense on our list, growth potential too strong, I own calls and think is goes higher'",2014-03-20 13:00:00-04:00,DNKN,positive
+372627.0,Market Wrap For March 5: Markets Calm Following Tuesday's Massive Rally,2014-03-05 16:40:00-05:00,DNKN,positive
+372628.0,"Dunkin' Donuts Announces Plans For 46 New Restaurants In Sacramento, CA",2014-03-05 09:30:00-05:00,DNKN,neutral
+372629.0,"S&P Capital IQ  Downgrades Dunkin' Brands Group, Inc. to Sell",2014-02-25 06:54:00-05:00,DNKN,neutral
+372630.0,"Market Wrap For February 7: Jobs Report Not Great, But Not Too Bad",2014-02-07 16:36:00-05:00,DNKN,positive
+372631.0,"#PreMarket Primer: Friday, February 7: Jobs Friday",2014-02-07 07:16:00-05:00,DNKN,neutral
+372632.0,Market Wrap For February 6: Stocks Higher With All Eyes On Friday's Jobs Report,2014-02-06 16:37:00-05:00,DNKN,neutral
+372633.0,Top Trending Tickers On StockTwits For February 6,2014-02-06 09:08:00-05:00,DNKN,positive
+372634.0,"US Stock Futures Surge Ahead Of GM Earnings, Jobless Claims Data",2014-02-06 07:19:00-05:00,DNKN,neutral
+372635.0,UPDATE: Dunkin' Brands Posts Rise In Q4 Profit,2014-02-06 06:36:00-05:00,DNKN,positive
+372636.0,Dunkin Brands Sees 2014 Adjusted EPS $1.79-$1.83 vs $1.80 Est,2014-02-06 06:15:00-05:00,DNKN,neutral
+372637.0,Dunkin Brands Increases Quarterly Dividend to $0.23 from $0.19,2014-02-06 06:13:00-05:00,DNKN,neutral
+372638.0,"Dunkin' Brands Reports Q4 Adjusted EPS of $0.43, Inline; Revenue of $183.20M vs $183.13M Est",2014-02-06 06:12:00-05:00,DNKN,neutral
+372639.0,"Dunkin' Donuts to Open 13 Restaurants In Oklahoma City, Oklahoma",2014-01-23 09:32:00-05:00,DNKN,neutral
+372640.0,Dunkin' Brands Announces Global Marketing Partnership With Liverpool Football Club ,2014-01-16 09:32:00-05:00,DNKN,neutral
+372641.0,Market Wrap For January 13: Markets Showing Weakness Ahead Of Major Earning Releases,2014-01-13 16:52:00-05:00,DNKN,negative
+372642.0,Dunkin' CEO Travis Speaking at ICR XCHANGE Conference: Says Co. Achieved Target for FY13 US Comp Sales Guidance,2014-01-13 15:12:00-05:00,DNKN,neutral
+372643.0,Dunkin' Brands Announces Plans to Open 685-800 Net New Locations in 2014; Remains on Track for 5% Net Annual Development Rate ,2014-01-13 05:57:00-05:00,DNKN,neutral
+372644.0,"Benzinga's M&A Chatter for Wednesday January 8, 2014",2014-01-08 17:52:00-05:00,DNKN,neutral
+372645.0,Report Dunkin Brands Not Aware of Reports in Chinese Media Regarding Goubuli Interest,2014-01-08 13:03:00-05:00,DNKN,positive
+372646.0,UPDATE: Dunkin Brands Shares Surge Higher on Global Times Report Goubuli intends to Buy Unnamed US Coffee Chain,2014-01-08 11:45:00-05:00,DNKN,positive
+372647.0,Dunkin Brands Spikes Higher; May be Attributed to Market Chatter of Chinese Buyer,2014-01-08 11:33:00-05:00,DNKN,neutral
+372648.0,"UPDATE: Dunkin Brands Shares Break Below Support at $47, Trend of Lower Lows (Since Late Oct.) Continuing",2014-01-07 12:28:00-05:00,DNKN,positive
+372649.0,Dunkin Brands Spikes Lower,2014-01-07 12:26:00-05:00,DNKN,negative
+372650.0,Will Coffee Prices Continue to Tumble in 2014?,2014-01-02 13:56:00-05:00,DNKN,neutral
+372651.0,"CL King Upgrades Dunkin' Brands Group, Inc. to Buy",2014-01-02 09:33:00-05:00,DNKN,neutral
+372652.0, Starbucks vs. Dunkin' Donuts: Which Is The Better Bet?,2013-12-31 16:18:00-05:00,DNKN,positive
+372653.0,UPDATE: Morgan Stanley Reiterates on Dunkin Brands Following Management Meetings,2013-12-06 11:26:00-05:00,DNKN,neutral
+372654.0,"New Keurig Machine Unlikely to Stop Competitors, OTR Global Reports ",2013-11-26 15:20:00-05:00,DNKN,negative
+372655.0,Benzinga's Top Initiations,2013-11-20 08:15:00-05:00,DNKN,positive
+372656.0,"Buckingham Research Initiates Coverage on Dunkin' Brands Group, Inc. at Neutral, Announces $52.00 PT",2013-11-20 07:55:00-05:00,DNKN,neutral
+372657.0,Is McDonald's Taking on Starbucks in Coffee Wars?,2013-11-15 09:30:00-05:00,DNKN,negative
+372658.0,UPDATE: RBC Capital Markets Initiates Coverage on Dunkin' Brands on Multiple Positive Factors,2013-11-08 10:42:00-05:00,DNKN,positive
+372659.0,Common Grounds: McDonald's Enters the Bagged Coffee Market,2013-11-06 14:06:00-05:00,DNKN,neutral
+372660.0,"Dunkin' Donuts Reports Plans for Nine New Restaurants in Reno, Nevada",2013-10-29 09:34:00-04:00,DNKN,neutral
+372661.0,Krispy Kreme to Open First Taiwan Location in December -WantChinaTImes,2013-10-24 07:33:00-04:00,DNKN,neutral
+372662.0,"US Stock Futures Up Ahead Of Ford Earnings, Jobless Claims Data",2013-10-24 07:13:00-04:00,DNKN,neutral
+372663.0,UPDATE: Dunkin' Brands Q3 Profit Surges 36%,2013-10-24 06:36:00-04:00,DNKN,positive
+372664.0,Dunkin' Brands Reports Q3 Adjusted EPS of $0.41 vs $0.43 Est; Revenue of $183.19M vs $182.95M Est,2013-10-24 06:22:00-04:00,DNKN,neutral
+372665.0,Earnings Expectations For The Week Of October 21: The Crunch Is On,2013-10-20 12:33:00-04:00,DNKN,neutral
+372666.0,Taxpayers Foot $1.2 Billion Public Assistance Bill for McDonald's Employees,2013-10-17 06:45:00-04:00,DNKN,neutral
+372667.0,UPDATE: Miller Tabak Upgrades Dunkin Brands Ahead of Company Earnings Release,2013-10-14 09:20:00-04:00,DNKN,neutral
+372668.0,Benzinga's Top Upgrades,2013-10-14 07:31:00-04:00,DNKN,positive
+372669.0,"Miller Tabak Upgrades Dunkin' Brands Group, Inc. to Buy, Raises PT to $53.00",2013-10-14 06:29:00-04:00,DNKN,neutral
+372670.0,Starbucks Squeezing its Way into a Larger Market Share of the Fresh Juice Craze (SBUX),2013-10-10 15:07:00-04:00,DNKN,positive
+372671.0,"Dunkin' Donuts to Open 27 New SoCal Restaurants in Central, Northern Inland Empire, Northern Orange County, with Embassy Suites",2013-10-07 09:33:00-04:00,DNKN,neutral
+372672.0,Dunkin' Brands CEO Travis: 'We Will do a Better Job in China',2013-09-26 18:30:00-04:00,DNKN,positive
+372673.0,"Dunkin' Brands CEO Travis: 'Social Media is All About Engagement, We Want to Communicate with Our Customers'",2013-09-26 18:30:00-04:00,DNKN,positive
+372674.0,Dunkin' Brands CEO Travis: 'We've Put WiFi in all the Stores at Great Speed',2013-09-26 18:28:00-04:00,DNKN,positive
+372675.0,Jim Cramer Interviews CEO Nigel Travis of Dunkin' Brands on Mad Money,2013-09-26 18:26:00-04:00,DNKN,negative
+372676.0,US Stock Futures Mostly Flat; Jobless Claims Data In Focus,2013-09-12 07:15:00-04:00,DNKN,neutral
+372677.0,Dunkin' Donuts Signs Agreement with Franchise Groups in UK,2013-09-12 05:44:00-04:00,DNKN,positive
+372678.0,Benzinga's Top Pre-Market Losers,2013-09-09 08:16:00-04:00,DNKN,negative
+372679.0,Campbell Soup Seeks K-Cup Revenue Boost (CPB),2013-09-08 19:20:00-04:00,DNKN,positive
+372680.0,You'll Never Believe That America's Favorite Coffee Is This Brand,2013-08-24 13:18:00-04:00,DNKN,positive
+372681.0,"Northcoast Research Initiates Coverage on Dunkin' Brands Group, Inc. at Neutral",2013-08-23 08:55:00-04:00,DNKN,neutral
+372682.0,Taco Bell Expands Testing of Waffle Taco (YUM),2013-08-07 09:08:00-04:00,DNKN,positive
+372683.0,"Dunkin' Brands Announces Plans For 19 New Restaurants In Southern Texas With Existing Franchise Group Sizzling Donuts, LLC ",2013-08-05 09:30:00-04:00,DNKN,neutral
+372684.0,Starbucks CEO Howard Schultz Breaks Down Q3 And Comments On Competition (SBUX),2013-07-26 11:40:00-04:00,DNKN,neutral
+372685.0,"Starbucks' Howard Schultz on CNBC Says 'Dunkin' and McDonald's Are in Another Business,' Doesn't Think Either Will Do Anything in California, 'Not Losing Any Sleep Over Dunkin''",2013-07-26 09:21:00-04:00,DNKN,positive
+372686.0,Dunkin' Brands Manifests Destiny With CEO Nigel Travis (DNKN),2013-07-25 11:38:00-04:00,DNKN,neutral
+372687.0,From Dunkin' Brands Call: Expecting the FY13 US New Store Guidance to Hit the Top End of the Range,2013-07-25 08:26:00-04:00,DNKN,positive
+372688.0,UPDATE: Dunkin' Brands Posts Higher Q2 Profit,2013-07-25 07:09:00-04:00,DNKN,positive
+372689.0,"Dunkin' Brands Group, Inc. Reports Adjusted Q2 EPS of $0.41 vs $0.40 Est; Revenue of $182.49 vs $183.09M Est",2013-07-25 06:19:00-04:00,DNKN,neutral
+372690.0,Starbucks Earnings Preview: Expectations Remain High (SBUX),2013-07-24 09:03:00-04:00,DNKN,neutral
+372691.0,"Stifel Nicolaus Initiates Coverage on Dunkin' Brands Group, Inc. at Hold",2013-07-16 08:29:00-04:00,DNKN,neutral
+372692.0,"Stifel Nicolaus Initiates Coverage on Dunkin' Brands Group, Inc. at Hold",2013-07-16 08:17:00-04:00,DNKN,neutral
+372693.0,"JP Morgan Maintains Neutral on Dunkin' Brands Group, Inc., Raises PT to $45.00",2013-07-16 06:43:00-04:00,DNKN,positive
+372694.0,Barron's Recap: The New Breed of Income Funds,2013-07-07 11:51:00-04:00,DNKN,neutral
+372695.0,Home Ice Advantage: Dunkin' Donuts Introduces Iced Coffee K-Cup® Packs ,2013-07-02 10:01:00-04:00,DNKN,positive
+372696.0,"Lazard Capital Markets Initiates Coverage on Dunkin' Brands Group at Buy, Announces $51.00 PT",2013-07-02 08:30:00-04:00,DNKN,neutral
+372697.0,Dunkin' to Sell Gluten-Free Doughnuts in Fast-Food Chain First,2013-06-19 12:57:00-04:00,DNKN,neutral
+372698.0,"Dunkin' CFO Carbone at Jefferies Conference Says Expecting to Re-Leverage Balance Sheet In Order to Buyback Shares, Expecting Dividend to Grow Faster Than Earnings",2013-06-18 13:08:00-04:00,DNKN,positive
+372699.0,Dunkin' Brands Expects to Open 330-360 New Restaurants in US For 2013 In Slideshow,2013-06-18 11:58:00-04:00,DNKN,neutral
+372700.0,Dunkin' Brands CEO Nigel Travis Shows Off The New Glazed Donut Breakfast Sandwich (DNKN),2013-06-07 08:00:00-04:00,DNKN,neutral
+372701.0,"Tiger Woods Back to World's Highest Paid Athlete, Thanks to Lucrative Nike, Electronic Arts Deals",2013-06-06 15:52:00-04:00,DNKN,positive
+372702.0,Coffee and Doughnuts on a Run,2013-06-02 09:33:00-04:00,DNKN,neutral
+372703.0,These Ridiculous Facts About the Coffee Industry Will Blow Your Mind,2013-05-22 12:45:00-04:00,DNKN,negative
+372704.0,"Longbow Research Downgrades Dunkin' Brands Group, Inc. to Neutral, Removes $45.00 PT",2013-05-20 08:59:00-04:00,DNKN,neutral
+372705.0,"Starbucks, Huntington Bancshares and Other Stocks Insiders Are Buying",2013-05-04 10:25:00-04:00,DNKN,neutral
+372706.0,Starbucks' Q2 Results Are 'Emblematic' of the Company's Success,2013-04-25 16:53:00-04:00,DNKN,positive
+372707.0,Expect More Than 5% Growth from Dunkin' Brands,2013-04-25 16:08:00-04:00,DNKN,positive
+372708.0,"(INTERVIEW) Dunkin' Brands' Nigel Travis on CNBC Says 'We Have Other Competitors Besides Starbucks,' Expecting 5+% Growth in US",2013-04-25 15:38:00-04:00,DNKN,positive
+372709.0,"Wedbush Maintains Neutral on Dunkin' Brands Group, Inc., Raises PT to $39.00",2013-04-25 15:07:00-04:00,DNKN,neutral
+372710.0,"Dunkin' Brands Matches EPS Estimates, Slam Dunks Revenue",2013-04-25 11:37:00-04:00,DNKN,negative
+372711.0,"Dunkin' Brands Group, Inc. Sees FY2013 EPS $1.50-1.53 vs $1.52 Est",2013-04-25 08:29:00-04:00,DNKN,neutral
+372712.0,"Dunkin' Brands GroUp, Inc. Reports Q1 EPS of $0.29, Inline; Revenue of $161.90M vs $160.55M Est",2013-04-25 06:09:00-04:00,DNKN,neutral
+372713.0,Starbucks Digital Innovation's,2013-04-22 08:59:00-04:00,DNKN,neutral
+372714.0,These 11 Companies Are Teaming Up to Help Victims of the Boston Marathon Bombings,2013-04-19 14:57:00-04:00,DNKN,positive
+372715.0,"Tea's Popularity Growing, says Washington Post ",2013-04-10 10:22:00-04:00,DNKN,positive
+372716.0,UPDATE: Jefferies Raises PT on Dunkin Brands Group on 1Q13 Preview,2013-04-08 10:47:00-04:00,DNKN,neutral
+372717.0,"Jefferies Maintains Buy on Dunkin' Brands Group, Inc., Raises PT to $44.00",2013-04-08 07:16:00-04:00,DNKN,neutral
+372718.0,Obamacare May Cost Far Less than Businesses Thought,2013-04-01 07:24:00-04:00,DNKN,neutral
+372719.0,Dunkin Donuts Spikes Higher,2013-03-26 15:25:00-04:00,DNKN,neutral
+372720.0,"Krispy Kreme Drops on Guidance, Earnings",2013-03-15 12:12:00-04:00,DNKN,neutral
+372721.0,Three Potential Small Cap Value Plays,2013-03-14 10:57:00-04:00,DNKN,positive
+372722.0,Dunkin' Brands Corrects Typo in Slideshow Presentation for BofA Conference: Says FY13 EPS Affirmed at $1.50-1.53,2013-03-12 11:51:00-04:00,DNKN,neutral
+372723.0,"From Dunkin' Brands Presentation at BofA Merrill Consumer & Retail Conference: Reaffirms FY13 EPS Outlook $1.50-1.53, Sees ~15K US Stores Long Term",2013-03-12 11:10:00-04:00,DNKN,neutral
+372724.0,Dunkin' Brands Baskin-Robbins Unit in Australia Joint Venture,2013-03-07 06:08:00-05:00,DNKN,neutral
+372725.0,Dunkin' Attempting To Breakout Over $38 Resistance ,2013-03-05 15:59:00-05:00,DNKN,neutral
+372726.0,Coffee Could Be The Brew Of The Week ,2013-02-19 14:10:00-05:00,DNKN,neutral
+372727.0,JM Smucker Announces Coffee Price Decreases,2013-02-19 08:04:00-05:00,DNKN,neutral
+372728.0,"Dunkin' Brands Reports Refinancing of Outstanding Credit Line, Says Total Debt Unchanged; Sees FY13 EPS $1.50-1.53 with Financing, Had Seen $1.48-1.51 vs $1.52 Est",2013-02-14 16:12:00-05:00,DNKN,positive
+372729.0,Dunkin' to Open 11 New Restaurants in New Orleans,2013-02-05 09:31:00-05:00,DNKN,neutral
+372730.0,Dunkin' CEO Travis: 'The Only Place You Can Get Dunkin' Donuts K-Cups is at Dunkin' Donuts Stores',2013-01-31 18:32:00-05:00,DNKN,neutral
+372731.0,Dunkin' CEO Travis: 'Baskin International is the Jewel-in-the Crown',2013-01-31 18:32:00-05:00,DNKN,neutral
+372732.0,Dunkin' CEO Travis: 'We Beleive we are Going to Double the Number of Stores; We are Just Putting Our Foot in California',2013-01-31 18:28:00-05:00,DNKN,positive
+372733.0,Jim Cramer Interviews CEO Nigel Travis of Dunkin' Brands on Mad Money,2013-01-31 18:27:00-05:00,DNKN,negative
+372734.0,"Miller Tabak Downgrades Dunkin' Brands Group, Inc. to Hold, Raises PT to $39.00",2013-01-31 10:56:00-05:00,DNKN,neutral
+372735.0,Stocks Hitting 52-Week Highs,2013-01-31 10:04:00-05:00,DNKN,neutral
+372736.0,Dunkin' Brands Raises Qtr. Dividend from $0.15 to $0.19/Share,2013-01-31 08:07:00-05:00,DNKN,neutral
+372737.0,"Dunkin' Brands Group, Inc. Sees FY2013 EPS $1.48-1.51 vs $1.52 Est; Sees Sales $697.70M-710.80M vs $717.20M Est",2013-01-31 08:06:00-05:00,DNKN,neutral
+372738.0,"Dunkin' Brands GroUp, Inc. Reports Q4 EPS of $0.34 vs $0.33 Est; Revenue of $161.70M vs $170.71M Est",2013-01-31 06:58:00-05:00,DNKN,neutral
+372739.0,Dunkin' Brands Raises Quarterly Dividend 27% to $0.19/ Share,2013-01-31 06:50:00-05:00,DNKN,positive
+372740.0,"Earnings Scheduled For January 31, 2013",2013-01-31 02:16:00-05:00,DNKN,neutral
+372741.0,A Peek Into The Market Before The Trading Starts,2013-01-30 07:12:00-05:00,DNKN,neutral
+372742.0,Dunkin' Donuts Signs Master Franchising Agreement for Vietnam ,2013-01-30 06:01:00-05:00,DNKN,positive
+372743.0,Starbucks Earnings Preview: Strong Fiscal First Quarter Expected,2013-01-23 11:54:00-05:00,DNKN,positive
+372744.0,Dunkin' Donuts to Enter Southern California Market,2013-01-16 06:48:00-05:00,DNKN,neutral
+372745.0,"Raymond James Downgrades Dunkin' Brands Group, Inc. to Market Perform",2013-01-10 09:15:00-05:00,DNKN,neutral
+372746.0,"Janney Capital Upgrades Dunkin' Brands Group, Inc. to Buy",2013-01-09 08:20:00-05:00,DNKN,neutral
+372747.0,"Williams Capital Group Maintains Buy on Dunkin' Brands Group, Inc., Raises PT to $43.00",2013-01-08 09:27:00-05:00,DNKN,neutral
+372748.0,Investing in Breakfast Stocks,2013-01-07 09:58:00-05:00,DNKN,neutral
+372749.0,Starbucks Continues to Bolster Eco-Friendly Image,2013-01-03 11:08:00-05:00,DNKN,neutral
+372750.0,"UPDATE: Miller Tabak Upgrades Dunkin' Brands to Buy on Traffic Gains, Catalysts  ",2012-12-19 13:07:00-05:00,DNKN,positive
+372751.0,"Miller Tabak Upgrades Dunkin' Brands Group, Inc. to Buy, Raises PT to $38.00",2012-12-19 06:14:00-05:00,DNKN,neutral
+372752.0,"Spotlight on Coffee Stocks (JVA, DNKN, GMCR, SBUX)",2012-12-17 14:18:00-05:00,DNKN,neutral
+372753.0,"Longbow Research Initiates Coverage on Dunkin' Brands Group, Inc. at Buy, Announces $40.00 PT",2012-12-04 09:54:00-05:00,DNKN,neutral
+372754.0,"Option Alert: Dunkin Brands December 32.5 Call; Block Trade: 1,992 Contracts @$0.15; Currently $31.16",2012-11-27 10:55:00-05:00,DNKN,negative
+372755.0,Benzinga's Top Initiations,2012-11-26 08:42:00-05:00,DNKN,positive
+372756.0,Dunkin' Brands Chair Jon Luther Sells 22K Shares Over Nov. 14-15th,2012-11-16 13:44:00-05:00,DNKN,positive
+372757.0,"Stephen Mandel's Lone Pine Opened Stakes in Dunkin Brands, JB Hunt, TripAdvisor, Sold Out of Ross Stores, Kohl's",2012-11-14 17:12:00-05:00,DNKN,negative
+372758.0,Dunkin' Brands Says Store Closures Due to Sandy Will Not Have Any 'Significant' Impact on Q4,2012-11-08 13:34:00-05:00,DNKN,neutral
+372759.0,UPDATE: Wedbush Securities Initiates Dunkin' Brands Group at Neutral on Valuation  ,2012-11-06 07:32:00-05:00,DNKN,positive
+372760.0,"Wedbush Securities Initiates Coverage on Dunkin' Brands Group at Neutral, Announces PT of $31",2012-11-06 06:06:00-05:00,DNKN,positive
+372761.0,"Tiny Market Caps, Big Dividends",2012-11-04 18:18:00-05:00,DNKN,neutral
+372762.0,Barron's Recap: The 25 Best Dividend Funds,2012-11-04 14:09:00-05:00,DNKN,positive
+372763.0,Starbucks Earnings Preview: Has It Turned the Corner?,2012-10-31 13:59:00-04:00,DNKN,neutral
+372764.0,McDonald's to Sell Ground Coffee at Canadian Retailers in November -DJ,2012-10-25 16:26:00-04:00,DNKN,neutral
+372765.0,Stock Futures Higher Heading into Thursday's Open,2012-10-25 08:33:00-04:00,DNKN,neutral
+372766.0,Dunkin' Brands Announces Q4 Dividend of $0.15/Share,2012-10-25 06:18:00-04:00,DNKN,neutral
+372767.0,Dunkin' Brands Group ReportsEPS $0.37 vs $0.35 Est; Revenues $171.7M vs $174.93M Est,2012-10-25 06:13:00-04:00,DNKN,neutral
+372768.0,UPDATE: Miller Tabak Initiates Dunkin' Brands Group at Hold; Waiting for More Attractive Entry  ,2012-10-23 12:07:00-04:00,DNKN,positive
+372769.0,Benzinga's Top Initiations,2012-10-23 08:10:00-04:00,DNKN,positive
+372770.0,"Miller Tabak Initiates Coverage on Dunkin' Brands Group at Hold, Announces PT of $34",2012-10-23 06:09:00-04:00,DNKN,neutral
+372771.0,Dunkin Brands Spikes Higher,2012-10-10 11:24:00-04:00,DNKN,neutral
+372772.0,"Starbucks takes on Green Mountain, Nestle and Starbucks?",2012-09-20 16:24:00-04:00,DNKN,neutral
+372773.0,Lone Pine Reports 6.7% Stake in Dunkin' Brands,2012-09-10 17:33:00-04:00,DNKN,negative
+372774.0,Dunkin' Donuts Introduces Oatmeal,2012-09-05 10:02:00-04:00,DNKN,neutral
+372775.0,Dunkin Brands Spikes Higher,2012-08-30 11:36:00-04:00,DNKN,neutral
+372776.0,"UPDATE: Morgan Stanley Reiterates Equal-Weight Rating, Raises PT on Dunkin Brands Group",2012-08-29 13:12:00-04:00,DNKN,neutral
+372777.0,"Morgan Stanley Maintains Dunkin' Brands Group at Equal-weight, Raises PT from $35 to $36",2012-08-29 06:35:00-04:00,DNKN,neutral
+372778.0,Suit Says Dunkin Brands Discriminates Against Minority Owners -NY Post,2012-08-20 07:11:00-04:00,DNKN,neutral
+372779.0,Dunkin' Donuts Launches First-Ever Mobile App for Payment & Gifting of Dunkin' Products ,2012-08-16 06:47:00-04:00,DNKN,neutral
+372780.0,Dunkin' Donuts Announces Expansion of Franchise Opportunites,2012-08-14 09:32:00-04:00,DNKN,neutral
+372781.0,"Barclays Maintains Dunkin' Brands Group at Equal-weight, Raises PT from $32 to $34",2012-08-10 14:22:00-04:00,DNKN,neutral
+372782.0, Dunkin' Brands Announces Commencement of Secondary Offering,2012-08-10 06:15:00-04:00,DNKN,neutral
+372783.0,Dunkin' Brands Announces Secondary Offering and Repurchase of Shares of its Common Stock,2012-08-09 16:40:00-04:00,DNKN,positive
+372784.0,"Dunkin' Brands Sees Basking Robins to be Slow Business; Guides FY12 EPS $1.22-1.25, Had Seen $1.21-1.24 vs $1.25 Est",2012-07-26 08:22:00-04:00,DNKN,neutral
+372785.0,Peet's Acquisition Heats Up the Coffee Battle,2012-07-26 07:54:00-04:00,DNKN,negative
+372786.0,Dunkin' Brands Group Reports Q2 EPS $0.33 vs $0.33 Est; Revenues $172.4M vs $170.14M Est,2012-07-26 06:26:00-04:00,DNKN,neutral
+372787.0,Earnings Scheduled For July 26,2012-07-26 04:03:00-04:00,DNKN,neutral
+372788.0,Starbucks Earnings Preview: Will Recent Stock Pressure Affect Consistent EPS Beats?,2012-07-25 19:47:00-04:00,DNKN,negative
+372789.0,"McDonald's, Dunkin Brands, Domino's Pizza Receive Positive Mad Money/Jim Cramer Mention -CNBC",2012-07-17 19:48:00-04:00,DNKN,positive
+372790.0,UPDATE: JP Morgan Downgrades Dunkin' Brands to Neutral on Fair Valuation   ,2012-07-17 08:53:00-04:00,DNKN,positive
+372791.0,"JP Morgan Downgrades Dunkin' Brands Group from Overweight to Neutral, Maintains PT at $33",2012-07-17 05:53:00-04:00,DNKN,neutral
+372792.0,UPDATE: Piper Jaffray Initiates Coverage on Dunkin' Brands,2012-07-12 09:16:00-04:00,DNKN,neutral
+372793.0,"Piper Jaffray Initiates Coverage on Dunkin' Brands Group at Overweight, Announces PT of $39",2012-07-12 06:01:00-04:00,DNKN,negative
+372794.0,A Peek Into The Market Before The Trading Starts,2012-06-25 07:16:00-04:00,DNKN,neutral
+372795.0,Dunkin' Brands To Increase Legal Reserve In 2nd Quarter Related To Court Decision In Canada ,2012-06-25 07:01:00-04:00,DNKN,positive
+372796.0,Dunkin' Brands Group Trading 2.1% Higher on Heavy Volume; Currently at $36.65,2012-06-19 11:41:00-04:00,DNKN,neutral
+372797.0,Dunkin' Brands Group Trading 1.6% Higher on Heavy Volume; Currently at $35.28,2012-06-18 10:05:00-04:00,DNKN,neutral
+372798.0,Dunkin Brands Says Have $1.5B in Debt,2012-06-12 15:40:00-04:00,DNKN,negative
+372799.0,"Dunkin Brands Says Concentrating on Japan, Korea, China and India",2012-06-12 15:31:00-04:00,DNKN,neutral
+372800.0,Dunkin Brands Says Baskin Robbins is Real Growth Vehicle Internationally,2012-06-12 15:29:00-04:00,DNKN,positive
+372801.0,Dunkin Brands Feels Good About Latin America,2012-06-12 15:28:00-04:00,DNKN,positive
+372802.0,Dunkin Brands Says Not Opening in California Any Time Soon,2012-06-12 15:27:00-04:00,DNKN,neutral
+372803.0,Dunkin Brands Says They Have an Excellent Opportunity for Growth West of the Mississippi,2012-06-12 15:21:00-04:00,DNKN,positive
+372804.0,Dunkin Brands Presenting at William Blair Growth Stock Conference,2012-06-12 15:18:00-04:00,DNKN,positive
+372805.0,"Kroger Jumps on the Keurig, er, Kroger-cup Bandwagon",2012-06-11 11:10:00-04:00,DNKN,neutral
+372806.0,UPDATE: Dunkin' Brands Plans to Open New Stores at Steady Pace in US,2012-06-05 09:40:00-04:00,DNKN,neutral
+372807.0,UPDATE: Dunkin' Brands Guides Coffee Prices Down Significantly This Year,2012-06-05 09:39:00-04:00,DNKN,neutral
+372808.0,"Dunkin' Brands Sees K-Cup Sales Growth Continuing, Will be Testing Keurig Vue Products",2012-06-05 09:38:00-04:00,DNKN,positive
+372809.0,Happy National Donut Day,2012-06-01 09:11:00-04:00,DNKN,positive
+372810.0,Dunkin' Brands Edges into Asia,2012-05-30 08:12:00-04:00,DNKN,neutral
+372811.0,"Dunkin' Brands Plans 350 to 450 New Locations Outside US in 2012, Most in Asia-Pacific Region -WSJ",2012-05-30 07:22:00-04:00,DNKN,neutral
+372812.0,Dunkin' Brands Spiking Higher on Heavy Volume; Currently at $33.18,2012-05-25 11:49:00-04:00,DNKN,neutral
+372813.0,"Stephens Initiates Coverage on Dunkin' Brands Group at Equal-weight, Announces PT of $37",2012-05-22 07:59:00-04:00,DNKN,neutral
+372814.0,Dunkin Brands Receives Positive Mad Money/Jim Cramer Mention -CNBC,2012-05-17 18:31:00-04:00,DNKN,positive
+372815.0,Argus Upgrades Dunkin' Brands Group from Hold to Buy,2012-05-16 07:51:00-04:00,DNKN,neutral
+372816.0,Top 4 Mid-Cap Stocks In The Restaurants Industry With The Highest Operating Margin,2012-05-15 03:36:00-04:00,DNKN,positive
+372817.0,Does the Keurig Cup Decide Caribou's Fate?,2012-05-14 11:30:00-04:00,DNKN,neutral
+372818.0,UPDATE: J.P. Morgan Raises Dunkin' Brands' PT,2012-05-09 07:10:00-04:00,DNKN,neutral
+372819.0,"JP Morgan Maintains Dunkin' Brands Group at Overweight, Raises PT from $32 to $33",2012-05-09 06:12:00-04:00,DNKN,neutral
+372820.0,Baskin-Robbins Announces Major Expansion Plans In The UK ,2012-05-04 09:30:00-04:00,DNKN,neutral
+372821.0,UPDATE: DA Davidson Terminates Coverage on Dunkin' Brands Group   ,2012-05-01 07:02:00-04:00,DNKN,neutral
+372822.0,"Jefferies & Company Maintains Dunkin' Brands Group at Buy, Raises PT from $32 to $36",2012-04-27 07:07:00-04:00,DNKN,neutral
+372823.0,"Citigroup Maintains Dunkin' Brands Group at Buy, Raises PT from $36 to $38",2012-04-26 14:07:00-04:00,DNKN,neutral
+372824.0,"DA Davidson Maintains Dunkin' Brands Group at Neutral, Raises PT from $31 to $33",2012-04-26 12:41:00-04:00,DNKN,neutral
+372825.0,"Earnings Recap for April 26, 2012",2012-04-26 09:50:00-04:00,DNKN,neutral
+372826.0,UPDATE: Dunkin' Brands Posts Q1 Profit,2012-04-26 06:39:00-04:00,DNKN,positive
+372827.0,Dunkin' Brands Group Reports Q1 EPS $0.25 vs $0.23 Est; Revenues $152.4M vs $148.53M Est,2012-04-26 06:33:00-04:00,DNKN,neutral
+372828.0,Carlyle Group plans $726.5 million IPO ,2012-04-16 09:53:00-04:00,DNKN,neutral
+372829.0,UPDATE: Morgan Stanley Raises PT to $33 on Dunkin Donuts  ,2012-04-16 08:14:00-04:00,DNKN,neutral
+372830.0,"Morgan Stanley Maintains Dunkin' Brands Group at Equal-weight, Raises PT from $30 to $33",2012-04-16 07:07:00-04:00,DNKN,neutral
+372831.0,"JP Morgan Maintains Dunkin' Brands Group at Overweight, Lowers PT from $31 to $30",2012-04-11 06:54:00-04:00,DNKN,negative
+372832.0,Coffee Makers Spill All Over the Map; Tim Hortons & McDonald's Burnt by Starbucks' Success,2012-04-04 10:04:00-04:00,DNKN,positive
+372833.0,Dunkin' Brands Group Trading 2.4% Higher on Heavy Volume; Currently at $30.8,2012-04-02 15:13:00-04:00,DNKN,neutral
+372834.0,Dunkin' Adds Pop And Juice To Line With Coke Deal,2012-04-02 12:59:00-04:00,DNKN,neutral
+372835.0,"Dunkin' Brands, Baskin-Robbins Will Serve Coca-Cola Products",2012-04-02 09:06:00-04:00,DNKN,neutral
+372836.0,Dunkin' Holders Sell As Profit Growth Quickens,2012-03-30 13:32:00-04:00,DNKN,positive
+372837.0,Dunkin' Brands Group Announces Upsizing and Pricing of Secondary Offering; 26.4M at $29.50/Share,2012-03-30 07:02:00-04:00,DNKN,neutral
+372838.0,Notable Put Options Activity in Dunkin' Brands Group,2012-03-26 11:04:00-04:00,DNKN,neutral
+372839.0,Benzinga's Top Pre-Market Losers,2012-03-19 08:23:00-04:00,DNKN,negative
+372840.0,US Stock Futures Down; Apple Shares Rise In Pre-Market Trading,2012-03-19 06:46:00-04:00,DNKN,positive
+372841.0,Stocks To Watch For March 19,2012-03-19 04:50:00-04:00,DNKN,neutral
+372842.0,Dunkin' Brands Group Trading 3.7% Higher on Heavy Volume; Currently at $30.24,2012-03-08 15:29:00-05:00,DNKN,neutral
+372843.0,"GMCR Analyst: Green Mountain Coffee has Production Agreements with SBUX, DNKN and Folger's",2012-03-08 11:02:00-05:00,DNKN,positive
+372844.0,Tim Hortons Is Winning the Doughnut Wars,2012-02-24 11:58:00-05:00,DNKN,negative
+372845.0,UPDATE: Jefferies Raises Target on Dunkin' Brands Group to $32,2012-02-10 10:15:00-05:00,DNKN,neutral
+372846.0,UPDATE: Dunkin' Brands Swings To Q4 Net Profit,2012-02-09 07:09:00-05:00,DNKN,positive
+372847.0,Earnings Scheduled For February 9,2012-02-09 03:52:00-05:00,DNKN,neutral
+372848.0,"The Real Deal on Wall Street: Can Dunkin Brands Get a Little Love, Please?",2012-02-07 05:45:00-05:00,DNKN,positive
+372849.0,Notable Call Options Activity in Dunkin' Brands Group,2012-02-02 15:25:00-05:00,DNKN,neutral
+372850.0,Is Starbucks the McDonald's of Coffee?,2012-01-26 17:05:00-05:00,DNKN,neutral
+372851.0,Will Starbucks' Beer & Wine Menu Benefit These Companies?,2012-01-25 14:38:00-05:00,DNKN,positive
+372852.0,Starbucks Earnings Preview: Room to Rise?,2012-01-25 08:26:00-05:00,DNKN,neutral
+372853.0,Time to Make the Donuts,2012-01-13 15:26:00-05:00,DNKN,neutral
+372854.0,Starbucks and Yum! Brands to Open Near 52-Week Highs,2012-01-11 06:33:00-05:00,DNKN,neutral
+372855.0,Baskin-Robbins Signs Master Franchising Agreement to Develop in Vietnam  ,2012-01-05 07:05:00-05:00,DNKN,positive
+372856.0,Dunkin' Brands Signs Exclusive Procurement & Distribution Agreement With Dunkin' Donuts Franchisee-Owned Cooperative  ,2012-01-04 07:11:00-05:00,DNKN,positive
+372857.0,Goldman Sachs Upgrades Dunkin' Brands to Neutral,2012-01-04 07:08:00-05:00,DNKN,neutral
+372858.0,Not The Way To Fight Starbucks,2012-01-03 14:44:00-05:00,DNKN,negative
+372859.0,Top 4 Mid-Cap Stocks In The Restaurants Industry With The Highest EPS Estimates,2012-01-03 04:29:00-05:00,DNKN,positive
+372860.0,DA Davidson Upgrades Dunkin' Brands to Neutral ,2011-12-28 10:45:00-05:00,DNKN,neutral
+372861.0,DA Davidson Upgrades Dunkin' Brands to Neutral ,2011-12-28 10:45:00-05:00,DNKN,neutral
+372862.0,10 Comeback Companies for 2012,2011-12-27 10:33:00-05:00,DNKN,neutral
+372863.0,Boston Beer and Starbucks to Open Near 52-Week Highs,2011-12-21 06:20:00-05:00,DNKN,neutral
+372864.0,DNKN Hits 52-Week Low of $23.92,2011-12-15 10:10:00-05:00,DNKN,negative
+372865.0,DNKN Hits 52-Week Low of $24.30,2011-12-14 14:36:00-05:00,DNKN,negative
+372866.0,Are You a Perfect 10 or an Ugly 1?,2011-12-14 13:39:00-05:00,DNKN,positive
+372867.0,"UPDATE: Jefferies Initiates Buy, $30 Target on Dunkin ",2011-12-13 06:55:00-05:00,DNKN,neutral
+372868.0,Nine Food Stocks for a Hungry Portfolio,2011-12-08 11:06:00-05:00,DNKN,neutral
+372869.0,Bank of America Maintains Neutral Rating and $29 PT on Dunkin Brands ,2011-12-02 10:49:00-05:00,DNKN,neutral
+372870.0,Wells Fargo Raises Estimates on Dunkin' Brands Group ,2011-12-02 10:33:00-05:00,DNKN,positive
+372871.0,Morgan Stanley Maintains Equal Weight Rating and $29 PT on Dunkin' Brands Group Inc. ,2011-12-02 08:04:00-05:00,DNKN,neutral
+372872.0,Goldman Sachs Raises EPS Estimates on Dunkin' Brands Group ,2011-12-02 07:27:00-05:00,DNKN,neutral
+372873.0,"IBM, Mastercard, Nike and Four Other Stocks Worth a Look Now",2011-12-01 07:05:00-05:00,DNKN,positive
+372874.0,DNKN Hits 52-Week Low of $24.72,2011-11-23 09:38:00-05:00,DNKN,negative
+372875.0,Mad Money Lightning Round: Cramer Likes Waste Management,2011-11-22 04:33:00-05:00,DNKN,negative
+372876.0,How Can You Stay Awake During Black Friday?,2011-11-17 15:27:00-05:00,DNKN,neutral
+372877.0,"Financial Breakfast: Morning News Summary for November 17, 2011",2011-11-17 07:41:00-05:00,DNKN,neutral
+372878.0,A Peek Into The Market Before The Trading Starts,2011-11-17 07:26:00-05:00,DNKN,neutral
+372879.0,Dunkin' Brands Group Announces Pricing of Secondary Offering; 22M Shares at $22.62/Share,2011-11-17 07:00:00-05:00,DNKN,positive
+372880.0,"Dunkin Brands Hits New 52-Week Low, $24.74",2011-11-14 09:53:00-05:00,DNKN,negative
+372881.0,Dunkin' Brands Announces Waiver of IPO Lock-Up Restriction for Certain Officers and Directors ,2011-11-14 08:01:00-05:00,DNKN,neutral
+372882.0,McDonald's and Starbucks to Open Near 52-Week Highs,2011-11-08 07:24:00-05:00,DNKN,neutral
+372883.0,Which Restaurant Could Be a Delicious Addition to Your Portfolio?,2011-11-03 13:10:00-04:00,DNKN,positive
+372884.0,Dunkin Says Pleased with Relationship with Green Mountain,2011-11-01 08:37:00-04:00,DNKN,positive
+372885.0,Dunkin Says Will Begin Selling Keurig Brewers in Stores,2011-11-01 08:37:00-04:00,DNKN,neutral
+372886.0,"Financial Breakfast: Morning News Summary for November 1, 2011",2011-11-01 07:45:00-04:00,DNKN,neutral
+372887.0,Dunkin' Brands Announces Secondary Offering of 22 Million Shares of Common Stock ,2011-11-01 07:15:00-04:00,DNKN,positive
+372888.0,Dunkin Brands Group Reports Q3 EPS $0.28 vs $0.25 Est; Revenues $163.5M vs $159.23M Est		,2011-11-01 07:02:00-04:00,DNKN,neutral
+372889.0,Notable Put Options Activity in Dunkin' Brands,2011-10-31 10:06:00-04:00,DNKN,neutral
+372890.0,Earnings Expectations for the Week of October 31,2011-10-30 11:31:00-04:00,DNKN,neutral
+372891.0,A Peek Into The Market Before The Trading Starts,2011-10-27 07:33:00-04:00,DNKN,neutral
+372892.0,JetBlue Airways and Dunkin' Donuts Extend Partnership ,2011-10-27 06:26:00-04:00,DNKN,positive
+372893.0,Caribou Coffee Could Reward Small-Cap Investors,2011-10-26 19:42:00-04:00,DNKN,positive
+372894.0,Starbucks and Whole Foods to Open Near 52-Week Highs,2011-10-25 06:45:00-04:00,DNKN,neutral
+372895.0,"David Einhorn Speaks at Value Investing Congress, Thinks Green Mountain Revenue is Too Good to be True - But is It?",2011-10-17 13:39:00-04:00,DNKN,positive
+372896.0,Is David Einhorn Wrong about Green Mountain Coffee? ,2011-10-17 12:53:00-04:00,DNKN,negative
+372897.0,Is Tim Hortons Still Piping Hot?,2011-09-26 15:29:00-04:00,DNKN,neutral
+372898.0,Dunkin' Brands Spiking Higher on Heavy Volume,2011-09-16 12:49:00-04:00,DNKN,neutral
+372899.0,Dunkin Brands Expansion Plans Don't Include California -LA Times,2011-09-16 08:09:00-04:00,DNKN,neutral
+372900.0,Bounce-Back Kings: 9 Stocks Up More Than 30% in the Past Month,2011-09-14 08:23:00-04:00,DNKN,neutral
+372901.0,"Hearing Piper Jaffray Commenting Bullishly on Coffee Producers like Starbucks, Green Mountain Coffee Roasts, and Dunkin Donuts",2011-09-08 08:31:00-04:00,DNKN,positive
+372902.0,Mad Money Lightning Round: Cramer Likes El Paso Pipeline Partners,2011-09-07 04:09:00-04:00,DNKN,negative
+372903.0,Is Dunkin' Brands Piping Hot Or Cooling Off?,2011-09-06 11:26:00-04:00,DNKN,neutral
+372904.0,UPDATE: Wells Fargo Initiates Dunkin' Brands at Market Perform,2011-09-06 09:40:00-04:00,DNKN,positive
+372905.0,"Williams Capital Initiates Dunkin' Brands At Outperform, $34.50 PT",2011-09-06 08:56:00-04:00,DNKN,neutral
+372906.0,UPDATE: Goldman Sachs Initiates Dunkin' Brands at Sell,2011-09-06 08:43:00-04:00,DNKN,neutral
+372907.0,UPDATE: J.P. Morgan Initiates Dunkin' Brands at Overweight,2011-09-06 08:35:00-04:00,DNKN,negative
+372908.0,"Wells Fargo Initiates Coverage On DNKN, CHEF",2011-09-06 08:24:00-04:00,DNKN,positive
+372909.0,"Stifel Nicolaus Initiates Coverage On DNKN, TNGO, TEA",2011-09-06 08:03:00-04:00,DNKN,neutral
+372910.0,Bank Of America Initiates Coverage On Dunkin' Brands With Neutral Rating,2011-09-06 07:57:00-04:00,DNKN,neutral
+372911.0,"Goldman Sachs Initiates Dunkin' Brands At Sell, $23 PT",2011-09-06 07:00:00-04:00,DNKN,neutral
+372912.0,"Bank of America Initiates Dunkin' Brands At Neutral, $29 PO",2011-09-06 06:37:00-04:00,DNKN,negative
+372913.0,"Morgan Stanley Initiates Dunkin' Brands At Equal-weight, $29 PT",2011-09-06 06:33:00-04:00,DNKN,neutral
+372914.0,"JP Morgan Initiates Dunkin' Brands At Overweight, $30 PT",2011-09-06 06:28:00-04:00,DNKN,neutral
+372915.0,Employment Weighing on the Market?  09-01-2011,2011-09-01 19:40:00-04:00,DNKN,neutral
+372916.0,Notable Call Options Activity in Dunkin' Brands Group,2011-09-01 12:47:00-04:00,DNKN,neutral
+372917.0,Dunkin Brands Spiking Higher on Heavy Volume After CNBC Mention,2011-09-01 11:40:00-04:00,DNKN,neutral
+372918.0,"Dunkin' Donuts Announces Four New Restaurants in Northern Huntsville, Alabama With the Robinson Family",2011-08-23 09:34:00-04:00,DNKN,neutral
+372919.0,The Best Part of Waking Up is a Folgers Price Cut,2011-08-17 11:01:00-04:00,DNKN,positive
+372921.0,Dunkin' Donuts Has Begun Selling Green Mountain's K-Cups,2011-08-04 13:03:00-04:00,DNKN,neutral
+372922.0,Earnings Roundup,2011-08-03 09:05:00-04:00,DNKN,neutral
+372923.0,Dunkin' K-Cup Portion Packs Now Available Exclusively at Dunkin' Donuts Restaurants Nationwide,2011-08-03 08:03:00-04:00,DNKN,neutral
+372924.0,UPDATE: Dunkin' Brands Reports 1% Decline In Q2 Profit,2011-08-03 07:43:00-04:00,DNKN,positive
+372925.0,Dunkin Brands Reports Q2 Net Income $24.7M vs $25.6M YoY,2011-08-03 06:50:00-04:00,DNKN,neutral
+372926.0,How To Play The Coming Recession ,2011-08-01 14:26:00-04:00,DNKN,negative
+372927.0,"Dunkin, Teavana Moving In Different Directions",2011-07-29 13:58:00-04:00,DNKN,neutral
+372928.0,"Dunkin' Donuts CEO on Growth, Volatility, and Helping America Run on Dunkin'",2011-07-28 17:35:00-04:00,DNKN,positive
+372929.0,Benzinga is Giving YOU Money! (Wait…We Just Did!),2011-07-28 10:24:00-04:00,DNKN,positive
+372930.0, Don't Get Burned by Dunkin's Hot IPO – Check out AFC Enterprises Instead,2011-07-28 10:15:00-04:00,DNKN,neutral
+372931.0,Dunkin Brands Group Spiking Higher Before the Open,2011-07-28 09:30:00-04:00,DNKN,neutral
+372932.0,Harry Reid Is A Liar ,2011-07-27 15:28:00-04:00,DNKN,negative
+372933.0,"Dunkin' Brands Trading Over 45% Higher after IPO; Currently at $27.70, after Originally Pricing at $19/Share",2011-07-27 12:28:00-04:00,DNKN,neutral
+372934.0,Dunkin' CEO: Very Optimistic on the Economy After Debt Ceiling Gets Resolved -CNBC,2011-07-27 11:36:00-04:00,DNKN,positive
+372935.0,Dunkin' CEO: We are Great For Speed and Value; Use IPO Funds to Pay Debt and Invest -CNBC,2011-07-27 11:35:00-04:00,DNKN,positive
+372936.0,Dunkin' CEO: People Will Be Pleased With Our Business Going Forward -CNBC,2011-07-27 11:34:00-04:00,DNKN,positive
+372937.0,Dunkin' Brands CEO to Appear on CNBC After the Break,2011-07-27 11:28:00-04:00,DNKN,neutral
+372938.0,Dunkin' Brands (DNKN)- Art of Day Trading an IPO Day 1,2011-07-27 11:25:00-04:00,DNKN,neutral
+372939.0,IPO Dunkin' Brands Begins Trading at $25 after Originally Pricing at $19/Share,2011-07-27 10:50:00-04:00,DNKN,neutral
+372940.0,Hearing Chatter that Dunkin Brands (DNKN) to Start Trading at 10:45 a.m.,2011-07-27 10:41:00-04:00,DNKN,neutral
+372941.0,Dunkin Brands Group IPO Scheduled to Open at 10:40 a.m.; 22.3M Shares Priced at $19,2011-07-27 10:03:00-04:00,DNKN,positive
+372942.0,"UPDATE: Dunkin' Brands Raised $422.8M in IPO, Selling 22.3M at $19 Above the $16-18 Range",2011-07-27 08:38:00-04:00,DNKN,neutral
+372943.0,Dunkin Brands Prices IPO at $19/Share,2011-07-26 18:10:00-04:00,DNKN,neutral
+372944.0,Dunkin Brands Prices 22.3M Share IPO at $19 -Bloomberg,2011-07-26 17:44:00-04:00,DNKN,positive
+372945.0,CORRECTION: Hearing Sloan Positive on Dunkin' IPO Pricing,2011-07-26 15:47:00-04:00,DNKN,positive
+372946.0,Hearing Sloan Positive on Dunkin' IPO Pricing,2011-07-26 15:43:00-04:00,DNKN,positive
+372947.0,Hearing Twitter Chatter That Retail Investors Will Get Only 5% of Dunkin' IPO,2011-07-26 14:53:00-04:00,DNKN,neutral
+372948.0,How To Play The Dunkin' Brands IPO,2011-07-26 14:34:00-04:00,DNKN,positive
+372949.0,Dunkin' Brands IPO to Price in $19 to $20 Range -CNBC,2011-07-26 11:45:00-04:00,DNKN,neutral
+372950.0,Dunkin' Brands Group Files for 22.25M Share IPO; Estimated Price Between $16 an $18 per Share,2011-07-11 07:19:00-04:00,DNKN,positive
+372951.0,Dunkin' Brands Files for 22M Share IPO Priced at $16 to $18 Per Share,2011-07-11 07:11:00-04:00,DNKN,positive
+372952.0,Dunkin' Brands Said To Raise $100M In Additional Loan -Bloomberg ,2011-05-18 15:48:00-04:00,DNKN,neutral

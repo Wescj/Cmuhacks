@@ -9,11 +9,17 @@ import pandas as pd
 import os
 import sys
 import json
+import nltk
+from nltk.sentiment import SentimentIntensityAnalyzer
 
 INPUT_CSV  = "data/analyst_ratings_filtered.csv"                 # change if needed
 # INPUT_CSV  = "tables/test_sample.csv" 
 OUTPUT_CSV = "tables/test_sample_with_sentiment.csv"  # output path
 MODEL = "gemini-2.5-flash"                          # fast & inexpensive
+
+#Vader calls
+nltk.download("vader_lexicon", quiet=True) 
+_sia = SentimentIntensityAnalyzer()
 
 PROMPT_SYS = (
     "You are a precise financial headline sentiment rater. "
@@ -21,30 +27,6 @@ PROMPT_SYS = (
     "{\"label\": \"positive|neutral|negative\"}. "
     "Base the label on the likely short-term price reaction for the mentioned stock."
 )
-# def classify_title(client, title: str) -> str:
-#     cfg = types.GenerateContentConfig(
-#         temperature=0,
-#         response_mime_type="application/json",
-#         thinking_config=types.ThinkingConfig(thinking_budget=0)  # no chain-of-thought can change but unnecessary for now
-#     )
-#     contents = [
-#         {"text": PROMPT_SYS},
-#         {"text": f"Title:\n- {title}"}
-#     ]
-#     resp = client.models.generate_content(model=MODEL, contents=contents, config=cfg)
-    
-#     txt = resp.candidates[0].content.parts[0].text
-#     print(f"Title: \n{title} \n DEBUG: resp={resp.parsed} \n Output: {txt}\n") 
-#     try:
-#         label = json.loads(txt)["label"].lower().strip()
-#     except Exception:
-#         label = txt.lower().strip()
-#     # normalize to one of the three
-#     if label.startswith("pos"):
-#         return "positive"
-#     if label.startswith("neg"):
-#         return "negative"
-#     return "neutral"
 
 def classify_title(client, title: str) -> str:
     cfg = types.GenerateContentConfig(
@@ -78,6 +60,24 @@ def classify_title(client, title: str) -> str:
         return "neutral"
     return "unknown"
 
+def classify_title_vader(title: str) -> str:
+    """
+    Return 'positive' | 'neutral' | 'negative' using VADER compound score.
+    Thresholds follow the VADER paper/repo convention:
+      compound >=  0.05 -> positive
+      compound <= -0.05 -> negative
+      otherwise         -> neutral
+    """
+    print( f"Title: \n{title}\n" )
+    if title is None:
+        return "neutral"
+    scores = _sia.polarity_scores(str(title))
+    c = scores.get("compound", 0.0)
+    if c >= 0.05:
+        return "positive"
+    if c <= -0.05:
+        return "negative"
+    return "neutral"
 
 def main():
     # Check API key
@@ -95,7 +95,8 @@ def main():
 
     sentiments = []
     for t in df["title"].astype(str).fillna(""):
-        sentiments.append(classify_title(client, t))
+        # sentiments.append(classify_title(client, t))
+        sentiments.append(classify_title_vader(t))
 
     #Testing only 2 titles for now
     # for t in df["title"].astype(str).fillna("").head(2):
