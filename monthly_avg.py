@@ -150,5 +150,5 @@ def plot_monthly_price_sentiment(
 
 if __name__ == "__main__":
     # Example
-    monthly_nvda = plot_monthly_price_sentiment("BMY")
+    monthly_nvda = plot_monthly_price_sentiment("NVDA")
     # print(monthly_nvda.head())
